@@ -1,0 +1,181 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Briefify Video Data Schema",
+  "description": "Schema for individual video samples used in Briefify app",
+  "type": "object",
+  "properties": {
+    "video": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "YouTube video ID"
+        },
+        "title": {
+          "type": "string",
+          "description": "Video title"
+        },
+        "description": {
+          "type": "string",
+          "description": "Video description"
+        },
+        "author": {
+          "type": "string",
+          "description": "Channel name/author"
+        },
+        "publishDate": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When video was published"
+        },
+        "duration": {
+          "type": "number",
+          "description": "Video length in seconds"
+        },
+        "viewCount": {
+          "type": "number",
+          "description": "Number of views"
+        },
+        "likeCount": {
+          "type": "number",
+          "description": "Number of likes"
+        },
+        "category": {
+          "type": "string",
+          "description": "Video category"
+        },
+        "thumbnails": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "url": { "type": "string" },
+              "width": { "type": "number" },
+              "height": { "type": "number" }
+            }
+          },
+          "description": "Video thumbnail images"
+        }
+      },
+      "required": ["id", "title", "author", "publishDate"]
+    },
+    "channel": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Channel ID"
+        },
+        "title": {
+          "type": "string",
+          "description": "Channel name"
+        },
+        "description": {
+          "type": "string",
+          "description": "Channel description"
+        },
+        "subscriberCount": {
+          "type": "number",
+          "description": "Number of subscribers"
+        },
+        "avatar": {
+          "type": "object",
+          "properties": {
+            "url": { "type": "string" },
+            "width": { "type": "number" },
+            "height": { "type": "number" }
+          }
+        }
+      }
+    },
+    "transcript": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "start": {
+            "type": "number",
+            "description": "Start time in milliseconds"
+          },
+          "end": {
+            "type": "number",
+            "description": "End time in milliseconds"
+          },
+          "text": {
+            "type": "string",
+            "description": "Transcript text for this segment"
+          }
+        },
+        "required": ["start", "end", "text"]
+      },
+      "description": "Video transcript with timestamps"
+    },
+    "comments": {
+      "type": "object",
+      "properties": {
+        "totalCount": {
+          "type": "number",
+          "description": "Total number of comments"
+        },
+        "sample": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "Comment ID"
+              },
+              "content": {
+                "type": "string",
+                "description": "Comment text"
+              },
+              "author": {
+                "type": "string",
+                "description": "Comment author name"
+              },
+              "publishedDate": {
+                "type": "string",
+                "format": "date-time",
+                "description": "When comment was posted"
+              },
+              "likeCount": {
+                "type": "number",
+                "description": "Number of likes on comment"
+              },
+              "isCreator": {
+                "type": "boolean",
+                "description": "Whether comment is from video creator"
+              },
+              "isPinned": {
+                "type": "boolean",
+                "description": "Whether comment is pinned"
+              }
+            },
+            "required": ["id", "content", "author", "publishedDate"]
+          },
+          "description": "Sample of top comments (max 50 for performance)"
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "extractedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this data was extracted"
+        },
+        "source": {
+          "type": "string",
+          "description": "Source of the data (e.g., 'apify-youtube-scraper')"
+        },
+        "processingVersion": {
+          "type": "string",
+          "description": "Version of processing script used"
+        }
+      }
+    }
+  },
+  "required": ["video", "transcript", "comments", "metadata"]
+}
