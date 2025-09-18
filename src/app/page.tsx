@@ -3,9 +3,36 @@
 import { useState, useEffect } from 'react'
 import { ThemeToggle } from '@/components/ThemeToggle'
 import { LoadingDots } from '@/components/LoadingDots'
+import { initPostHog, trackEvent, trackPageView } from '@/lib/posthog'
 
 export default function Home() {
   const [url, setUrl] = useState("https://www.youtube.com/watch?v=8s6nGMcyr7k")
+
+  // Initialize PostHog and session tracking
+  useEffect(() => {
+    initPostHog()
+    trackPageView(window.location.href)
+
+    // Track session start
+    const sessionStart = Date.now()
+    trackEvent('session_started', {
+      timestamp: sessionStart,
+      user_agent: navigator.userAgent,
+      screen_resolution: `${window.screen.width}x${window.screen.height}`
+    })
+
+    // Track session duration on page unload
+    const handleBeforeUnload = () => {
+      const sessionDuration = Math.round((Date.now() - sessionStart) / 1000) // seconds
+      trackEvent('session_ended', {
+        duration_seconds: sessionDuration,
+        duration_minutes: Math.round(sessionDuration / 60)
+      })
+    }
+
+    window.addEventListener('beforeunload', handleBeforeUnload)
+    return () => window.removeEventListener('beforeunload', handleBeforeUnload)
+  }, [])
   const [isLoading, setIsLoading] = useState(false)
   const [videoData, setVideoData] = useState(null)
   const [loadingText, setLoadingText] = useState("...")
@@ -75,6 +102,12 @@ export default function Home() {
   ]
 
   const handleGetStarted = async () => {
+    // Track analysis start
+    trackEvent('analysis_started', {
+      url: url,
+      mode: isWorkshopMode ? 'workshop' : 'normal'
+    })
+
     if (isWorkshopMode) {
       // Workshop mode - just load data, stay in idle, user controls progression
       setShowAISummary(false)
@@ -161,9 +194,39 @@ export default function Home() {
 
   const loadMoreInsights = () => {
     if (visibleInsights >= allInsights.length) {
+      // Generate AI Summary
+      trackEvent('ai_summary_generated', {
+        insights_count: allInsights.length,
+        user_viewed_all: true
+      })
+      setShowAISummary(true)
+      setVisibleInsights(0)
+    } else {
+      // User wants to see more insights
+      const newCount = Math.min(visibleInsights + 3, allInsights.length)
+      trackEvent('insights_expanded', {
+        from: visibleInsights,
+        to: newCount,
+        total_available: allInsights.length,
+        percentage_viewed: Math.round((newCount / allInsights.length) * 100)
+      })
+      setVisibleInsights(newCount)
+    }
+  }
+
+  const toggleAISummary = () => {
+    if (showAISummary) {
+      trackEvent('ai_summary_hidden', {
+        switched_to: 'individual_insights'
+      })
+      setShowAISummary(false)
       setVisibleInsights(3)
     } else {
-      setVisibleInsights(prev => Math.min(prev + 3, allInsights.length))
+      trackEvent('ai_summary_shown', {
+        switched_from: 'individual_insights'
+      })
+      setShowAISummary(true)
+      setVisibleInsights(0)
     }
   }
 
@@ -275,6 +338,12 @@ export default function Home() {
       await new Promise(resolve => setTimeout(resolve, 1000))
       setLoadingStage('complete')
       setIsLoading(false)
+
+      // Track successful analysis completion
+      trackEvent('analysis_completed', {
+        url: url,
+        mode: isWorkshopMode ? 'workshop' : 'normal'
+      })
     } catch (error) {
       console.error('Error loading video data:', error)
       setIsLoading(false)
@@ -450,12 +519,20 @@ export default function Home() {
                         onClick={(e) => {
                           e.stopPropagation()
                           const newFavorited = new Set(favoritedComments)
-                          if (newFavorited.has(comment.id)) {
+                          const isRemoving = newFavorited.has(comment.id)
+                          if (isRemoving) {
                             newFavorited.delete(comment.id)
                           } else {
                             newFavorited.add(comment.id)
                           }
                           setFavoritedComments(newFavorited)
+
+                          // Track favorite action
+                          trackEvent('comment_favorited', {
+                            action: isRemoving ? 'remove' : 'add',
+                            comment_author: comment.authorDisplayName,
+                            section: 'most_popular'
+                          })
                         }}
                         className="p-1 rounded-full hover:bg-white/10 transition-colors group/star"
                         title={favoritedComments.has(comment.id) ? "Remove from favorites" : "Add to favorites"}
