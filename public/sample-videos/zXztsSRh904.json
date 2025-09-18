@@ -1,0 +1,2218 @@
+{
+  "video": {
+    "id": "zXztsSRh904",
+    "title": "Google Prepares to Unleash \"Jules\" an Autonomous Coding Agent, OpenAI Faces \"Billionaire Conspiracy\"",
+    "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/@Wes-Dylan\n______________________________________________\n\n\n\n#ai #openai #llm",
+    "author": "Wes Roth",
+    "publishDate": "2025-09-03T04:39:09.000Z",
+    "duration": 799,
+    "viewCount": 32623,
+    "likeCount": 946,
+    "category": "Education",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/zXztsSRh904/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDngbxJsubImYqygOWcv-8PoznYLA",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/zXztsSRh904/hqdefault.jpg?sqp=-oaymwEmCMQBEG5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCNUfQSaMx-at3p-ZTdcVGihB9itw",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/zXztsSRh904/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzmw68NXJV8FvwuxwWLIr9MBqBEg",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/zXztsSRh904/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLU9MlUfV4cSODiBXbKSDLJ-F9pw",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/zXztsSRh904/maxresdefault.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "channel": {
+    "id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+    "title": "Wes Roth",
+    "description": "Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large Language Models and... (most importantly)... optimism. \n\nAGI rolls around only once. Let's make the best of it.\n\nOn this channel, my goal is to help everyone understand AI and it's implications better. To prepare for what's coming next.\n\nThe most important rule is \"Don't Panic\".\n\nThe second rule is keep learning.\n\nThank you for joining me for this ride.\n\n-Wes Roth\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n",
+    "subscriberCount": 296000,
+    "avatar": {
+      "url": "https://yt3.googleusercontent.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900,
+      "height": 900
+    }
+  },
+  "transcript": [
+    {
+      "start": 80,
+      "end": 2560,
+      "text": "Do you know what pure joy looks like? I"
+    },
+    {
+      "start": 2560,
+      "end": 4640,
+      "text": "will show you. It looks like this. This"
+    },
+    {
+      "start": 4640,
+      "end": 8000,
+      "text": "is a face of pure joy. Google keeps on"
+    },
+    {
+      "start": 8000,
+      "end": 10000,
+      "text": "winning. So, Google was in some hot"
+    },
+    {
+      "start": 10000,
+      "end": 12639,
+      "text": "water with the US legal system due to"
+    },
+    {
+      "start": 12639,
+      "end": 14880,
+      "text": "some alleged non-competitive practices,"
+    },
+    {
+      "start": 14880,
+      "end": 16800,
+      "text": "but a lot of those things have been"
+    },
+    {
+      "start": 16800,
+      "end": 18400,
+      "text": "thrown out. A lot of people fear that"
+    },
+    {
+      "start": 18400,
+      "end": 20640,
+      "text": "they would have to lose Chrome to divest"
+    },
+    {
+      "start": 20640,
+      "end": 22720,
+      "text": "it from their main sort of company."
+    },
+    {
+      "start": 22720,
+      "end": 24480,
+      "text": "There was a number of companies, I think"
+    },
+    {
+      "start": 24480,
+      "end": 26000,
+      "text": "Open EI was one of them that actually"
+    },
+    {
+      "start": 26000,
+      "end": 27840,
+      "text": "said that they might buy Chrome if it"
+    },
+    {
+      "start": 27840,
+      "end": 30320,
+      "text": "became available for sale. But the judge"
+    },
+    {
+      "start": 30320,
+      "end": 32398,
+      "text": "won't require Chrome to be divested and"
+    },
+    {
+      "start": 32399,
+      "end": 34480,
+      "text": "chastised the Justice Department for"
+    },
+    {
+      "start": 34480,
+      "end": 36559,
+      "text": "asking for Chrome's divevestature. So,"
+    },
+    {
+      "start": 36559,
+      "end": 38640,
+      "text": "not only is it not being divested, the"
+    },
+    {
+      "start": 38640,
+      "end": 40079,
+      "text": "judge was like, \"Don't you do that"
+    },
+    {
+      "start": 40079,
+      "end": 41920,
+      "text": "again. Don't you mess with Google.\""
+    },
+    {
+      "start": 41920,
+      "end": 44399,
+      "text": "Google's stock jumps 8% because it"
+    },
+    {
+      "start": 44399,
+      "end": 46399,
+      "text": "avoided kind of like the worstc case"
+    },
+    {
+      "start": 46399,
+      "end": 48640,
+      "text": "scenario, the worst case penalties in"
+    },
+    {
+      "start": 48640,
+      "end": 51600,
+      "text": "this antirust case. So Google pays Apple"
+    },
+    {
+      "start": 51600,
+      "end": 53680,
+      "text": "billions of dollars per year to be the"
+    },
+    {
+      "start": 53680,
+      "end": 56480,
+      "text": "default search engine on iPhones. That"
+    },
+    {
+      "start": 56480,
+      "end": 58399,
+      "text": "can continue to go on. So looks like"
+    },
+    {
+      "start": 58399,
+      "end": 60640,
+      "text": "that deal has not been struck down. So"
+    },
+    {
+      "start": 60640,
+      "end": 63199,
+      "text": "that means that Google is happy. Apple"
+    },
+    {
+      "start": 63199,
+      "end": 65760,
+      "text": "is happy. Google is barred from entering"
+    },
+    {
+      "start": 65760,
+      "end": 67280,
+      "text": "into exclusive contracts for"
+    },
+    {
+      "start": 67280,
+      "end": 70000,
+      "text": "distributing its search engine. And the"
+    },
+    {
+      "start": 70000,
+      "end": 71680,
+      "text": "judge ruled that Google must share some"
+    },
+    {
+      "start": 71680,
+      "end": 74479,
+      "text": "data with rival search engines. But the"
+    },
+    {
+      "start": 74479,
+      "end": 76479,
+      "text": "Apple Google deal is still on."
+    },
+    {
+      "start": 76479,
+      "end": 78640,
+      "text": "Perplexity actually made an offer in the"
+    },
+    {
+      "start": 78640,
+      "end": 82479,
+      "text": "past to buy Chrome for almost 35 billion"
+    },
+    {
+      "start": 82479,
+      "end": 84960,
+      "text": "was a unsolicited allcash offer. A lot"
+    },
+    {
+      "start": 84960,
+      "end": 86960,
+      "text": "of members of Google staff have been"
+    },
+    {
+      "start": 86960,
+      "end": 88560,
+      "text": "dropping hints that they're going to"
+    },
+    {
+      "start": 88560,
+      "end": 91200,
+      "text": "release something big this week. Here's"
+    },
+    {
+      "start": 91200,
+      "end": 92720,
+      "text": "Semi analysis saying because Google is"
+    },
+    {
+      "start": 92720,
+      "end": 94479,
+      "text": "so bad at tweeting will do it for them."
+    },
+    {
+      "start": 94479,
+      "end": 96560,
+      "text": "Gemini 3 is shaping up to be an"
+    },
+    {
+      "start": 96560,
+      "end": 98320,
+      "text": "incredibly performant model, especially"
+    },
+    {
+      "start": 98320,
+      "end": 100720,
+      "text": "on coding and multimodal capabilities."
+    },
+    {
+      "start": 100720,
+      "end": 101920,
+      "text": "So, a lot of people are convinced that"
+    },
+    {
+      "start": 101920,
+      "end": 104799,
+      "text": "this release is going to be Gemini 3,"
+    },
+    {
+      "start": 104799,
+      "end": 107360,
+      "text": "but I'll let you in on a little secret."
+    },
+    {
+      "start": 107360,
+      "end": 109840,
+      "text": "It's not. And let me show you why. This"
+    },
+    {
+      "start": 109840,
+      "end": 112640,
+      "text": "is Kath Cororc. She's saying it's a big"
+    },
+    {
+      "start": 112640,
+      "end": 114640,
+      "text": "week. She's the director of product at"
+    },
+    {
+      "start": 114640,
+      "end": 118000,
+      "text": "Google Labs Code AI. But wait, what's"
+    },
+    {
+      "start": 118000,
+      "end": 121360,
+      "text": "this? A squid? I always thought it was"
+    },
+    {
+      "start": 121360,
+      "end": 124079,
+      "text": "an octopus, not a squid. But what is the"
+    },
+    {
+      "start": 124079,
+      "end": 127840,
+      "text": "squid? It's the jewels mascot icon,"
+    },
+    {
+      "start": 127840,
+      "end": 129679,
+      "text": "whatever you want to call it. Jewels is"
+    },
+    {
+      "start": 129679,
+      "end": 132000,
+      "text": "an asynchronous coding agent by Google"
+    },
+    {
+      "start": 132000,
+      "end": 133840,
+      "text": "DeepMine. We heard announcements about"
+    },
+    {
+      "start": 133840,
+      "end": 136400,
+      "text": "it at the last Google IO or maybe the"
+    },
+    {
+      "start": 136400,
+      "end": 138400,
+      "text": "previous one. We haven't heard too much"
+    },
+    {
+      "start": 138400,
+      "end": 140160,
+      "text": "about it since then. I at least I"
+    },
+    {
+      "start": 140160,
+      "end": 142800,
+      "text": "haven't, but it sounds like it's being"
+    },
+    {
+      "start": 142800,
+      "end": 144879,
+      "text": "rolled out this week. Again, these are"
+    },
+    {
+      "start": 144879,
+      "end": 146560,
+      "text": "rumors, but they're kind of strongly"
+    },
+    {
+      "start": 146560,
+      "end": 148720,
+      "text": "hinting at it. So, we've seen similar"
+    },
+    {
+      "start": 148720,
+      "end": 151200,
+      "text": "things with cloud code and we've seen it"
+    },
+    {
+      "start": 151200,
+      "end": 153760,
+      "text": "with OpenAI's codeex. So, we'll see"
+    },
+    {
+      "start": 153760,
+      "end": 156640,
+      "text": "exactly how Jules fits in, how it's"
+    },
+    {
+      "start": 156640,
+      "end": 158319,
+      "text": "different, how it's similar. But this is"
+    },
+    {
+      "start": 158319,
+      "end": 160160,
+      "text": "Google's offering. They've announced it"
+    },
+    {
+      "start": 160160,
+      "end": 162239,
+      "text": "and they have their own website,"
+    },
+    {
+      "start": 162239,
+      "end": 164239,
+      "text": "jewels.google, or at least the subdomain"
+    },
+    {
+      "start": 164239,
+      "end": 166560,
+      "text": "for Jewels. They have their own sort of"
+    },
+    {
+      "start": 166560,
+      "end": 169200,
+      "text": "theme and mascot. So, it seems like"
+    },
+    {
+      "start": 169200,
+      "end": 171280,
+      "text": "they're building it out. So, it's going"
+    },
+    {
+      "start": 171280,
+      "end": 173360,
+      "text": "to serve some very strong purpose. We're"
+    },
+    {
+      "start": 173360,
+      "end": 175040,
+      "text": "about to find out, I'm sure. In other"
+    },
+    {
+      "start": 175040,
+      "end": 177760,
+      "text": "news, OpenI is making some moves. Biji"
+    },
+    {
+      "start": 177760,
+      "end": 180080,
+      "text": "Raji to become CTO of applications with"
+    },
+    {
+      "start": 180080,
+      "end": 183040,
+      "text": "the acquisition of Statsig. So, OpenI"
+    },
+    {
+      "start": 183040,
+      "end": 186879,
+      "text": "purchased stag for $1.1 billion dollar"
+    },
+    {
+      "start": 186879,
+      "end": 190640,
+      "text": "in an all stock deal which is about 0.4%"
+    },
+    {
+      "start": 190640,
+      "end": 194080,
+      "text": "of OpenAI's shares. So, Vijay was the"
+    },
+    {
+      "start": 194080,
+      "end": 197519,
+      "text": "stats CEO and he's now becoming the CTO"
+    },
+    {
+      "start": 197519,
+      "end": 199760,
+      "text": "of applications for OpenAI. So, he's"
+    },
+    {
+      "start": 199760,
+      "end": 202879,
+      "text": "going to be working on Codeex. So, Vijay"
+    },
+    {
+      "start": 202879,
+      "end": 204159,
+      "text": "will be head product engineering for"
+    },
+    {
+      "start": 204159,
+      "end": 206000,
+      "text": "Chad Gabbt and Codeex with"
+    },
+    {
+      "start": 206000,
+      "end": 207840,
+      "text": "responsibilities that span core systems"
+    },
+    {
+      "start": 207840,
+      "end": 209440,
+      "text": "and product lines including"
+    },
+    {
+      "start": 209440,
+      "end": 211920,
+      "text": "infrastructure and integrity. Meanwhile,"
+    },
+    {
+      "start": 211920,
+      "end": 215440,
+      "text": "Kevin Wheel at OpenAI is also tackling"
+    },
+    {
+      "start": 215440,
+      "end": 217200,
+      "text": "some new projects. He's saying, \"I'm"
+    },
+    {
+      "start": 217200,
+      "end": 219360,
+      "text": "starting something new inside OpenAI."
+    },
+    {
+      "start": 219360,
+      "end": 221440,
+      "text": "It's called OpenAI for Science, and the"
+    },
+    {
+      "start": 221440,
+      "end": 223040,
+      "text": "goal is to build the next great"
+    },
+    {
+      "start": 223040,
+      "end": 225040,
+      "text": "scientific instrument, an AI powered"
+    },
+    {
+      "start": 225040,
+      "end": 226959,
+      "text": "platform that accelerates scientific"
+    },
+    {
+      "start": 226959,
+      "end": 229599,
+      "text": "discovery.\" So, the idea is to use AI"
+    },
+    {
+      "start": 229599,
+      "end": 231280,
+      "text": "models to accelerate scientific"
+    },
+    {
+      "start": 231280,
+      "end": 233680,
+      "text": "discovery. That he's saying that GPT5"
+    },
+    {
+      "start": 233680,
+      "end": 235599,
+      "text": "was the threshold. They've been talking"
+    },
+    {
+      "start": 235599,
+      "end": 237120,
+      "text": "about this idea of accelerating"
+    },
+    {
+      "start": 237120,
+      "end": 239439,
+      "text": "scientific discovery for a while. Sam"
+    },
+    {
+      "start": 239439,
+      "end": 241280,
+      "text": "Alman said he believes that's the next"
+    },
+    {
+      "start": 241280,
+      "end": 243280,
+      "text": "big thing that's coming is integrating"
+    },
+    {
+      "start": 243280,
+      "end": 245439,
+      "text": "this into scientific discovery. Here"
+    },
+    {
+      "start": 245439,
+      "end": 248879,
+      "text": "Kevin Wheel offers a few examples of"
+    },
+    {
+      "start": 248879,
+      "end": 251200,
+      "text": "something that GPT5 already has been"
+    },
+    {
+      "start": 251200,
+      "end": 253760,
+      "text": "doing. Here's an example where GPT5 Pro"
+    },
+    {
+      "start": 253760,
+      "end": 256479,
+      "text": "can prove new interesting mathematics."
+    },
+    {
+      "start": 256479,
+      "end": 258639,
+      "text": "Here GPT5 outlining proofs and"
+    },
+    {
+      "start": 258639,
+      "end": 261120,
+      "text": "suggesting related extensions from a"
+    },
+    {
+      "start": 261120,
+      "end": 264160,
+      "text": "recent paper on quantum field theory. He"
+    },
+    {
+      "start": 264160,
+      "end": 267040,
+      "text": "also highlights a post by Gnome Brown"
+    },
+    {
+      "start": 267040,
+      "end": 268720,
+      "text": "where a custom model designed much"
+    },
+    {
+      "start": 268720,
+      "end": 270880,
+      "text": "improved variants of Nobel Prizewinning"
+    },
+    {
+      "start": 270880,
+      "end": 273440,
+      "text": "proteins related to stem cells and many"
+    },
+    {
+      "start": 273440,
+      "end": 276479,
+      "text": "more. Here's GPT5 working with nearly"
+    },
+    {
+      "start": 276479,
+      "end": 278720,
+      "text": "1300 metabolites including lipids,"
+    },
+    {
+      "start": 278720,
+      "end": 281280,
+      "text": "carbohydrates, microbiome derived"
+    },
+    {
+      "start": 281280,
+      "end": 283919,
+      "text": "compounds. And so as OpenAI is hiring on"
+    },
+    {
+      "start": 283919,
+      "end": 286320,
+      "text": "new people, Kevin Wheel can now pursue"
+    },
+    {
+      "start": 286320,
+      "end": 288800,
+      "text": "this OpenAI for science. They're going"
+    },
+    {
+      "start": 288800,
+      "end": 290639,
+      "text": "to be sharing more about it in the"
+    },
+    {
+      "start": 290639,
+      "end": 293199,
+      "text": "upcoming months. But if the promises are"
+    },
+    {
+      "start": 293199,
+      "end": 294880,
+      "text": "true, and again, it's not just OpenAI,"
+    },
+    {
+      "start": 294880,
+      "end": 297199,
+      "text": "it's a lot of other frontier AI labs as"
+    },
+    {
+      "start": 297199,
+      "end": 299919,
+      "text": "well, we're going to start seeing AI"
+    },
+    {
+      "start": 299919,
+      "end": 302160,
+      "text": "accelerating scientific discovery. So, I"
+    },
+    {
+      "start": 302160,
+      "end": 304240,
+      "text": "can't wait to see more. Very curious to"
+    },
+    {
+      "start": 304240,
+      "end": 306000,
+      "text": "see what they're cooking up behind the"
+    },
+    {
+      "start": 306000,
+      "end": 307759,
+      "text": "scenes. Meanwhile, Ethan Malik is"
+    },
+    {
+      "start": 307759,
+      "end": 309120,
+      "text": "posting that we can say pretty"
+    },
+    {
+      "start": 309120,
+      "end": 311520,
+      "text": "definitively that AI progress is well"
+    },
+    {
+      "start": 311520,
+      "end": 313440,
+      "text": "ahead of expectations from a few years"
+    },
+    {
+      "start": 313440,
+      "end": 317440,
+      "text": "ago. In 2022, they took some experts and"
+    },
+    {
+      "start": 317440,
+      "end": 319600,
+      "text": "super forecasters and they got them to"
+    },
+    {
+      "start": 319600,
+      "end": 321840,
+      "text": "predict AI progress. So, a lot of them"
+    },
+    {
+      "start": 321840,
+      "end": 325199,
+      "text": "predicted a 2.3 and 8.6 probability of"
+    },
+    {
+      "start": 325199,
+      "end": 329360,
+      "text": "an AI math Olympiad gold by 2025. So,"
+    },
+    {
+      "start": 329360,
+      "end": 331520,
+      "text": "super forecasters put the chance at"
+    },
+    {
+      "start": 331520,
+      "end": 334479,
+      "text": "2.3%, domain experts put the chance at"
+    },
+    {
+      "start": 334479,
+      "end": 337600,
+      "text": "8.6, if you've been following, not only"
+    },
+    {
+      "start": 337600,
+      "end": 341680,
+      "text": "did we get the gold, but we got in a way"
+    },
+    {
+      "start": 341680,
+      "end": 344000,
+      "text": "that's pretty impressive. As no brown"
+    },
+    {
+      "start": 344000,
+      "end": 345680,
+      "text": "from opening eye puts it, also these"
+    },
+    {
+      "start": 345680,
+      "end": 348240,
+      "text": "forecasts were for any AI system to get"
+    },
+    {
+      "start": 348240,
+      "end": 350639,
+      "text": "an IMO gold. the probability for a"
+    },
+    {
+      "start": 350639,
+      "end": 352560,
+      "text": "general purpose LLM doing it was"
+    },
+    {
+      "start": 352560,
+      "end": 354560,
+      "text": "considered even lower. Right? So this"
+    },
+    {
+      "start": 354560,
+      "end": 357039,
+      "text": "was asked like can we design some system"
+    },
+    {
+      "start": 357039,
+      "end": 358800,
+      "text": "that's specifically good at math"
+    },
+    {
+      "start": 358800,
+      "end": 361680,
+      "text": "specifically there to crack IMO gold."
+    },
+    {
+      "start": 361680,
+      "end": 363600,
+      "text": "There were a few out of Google DeepMind"
+    },
+    {
+      "start": 363600,
+      "end": 365759,
+      "text": "that were very impressive in the prior"
+    },
+    {
+      "start": 365759,
+      "end": 368240,
+      "text": "years alpha geometry and alpha proof."
+    },
+    {
+      "start": 368240,
+      "end": 370000,
+      "text": "But it wasn't even that. It was a"
+    },
+    {
+      "start": 370000,
+      "end": 372720,
+      "text": "generalpurpose large language model. So"
+    },
+    {
+      "start": 372720,
+      "end": 374960,
+      "text": "it wasn't even a math specific model. It"
+    },
+    {
+      "start": 374960,
+      "end": 377039,
+      "text": "was a model that could read the"
+    },
+    {
+      "start": 377039,
+      "end": 379840,
+      "text": "questions, reason about them and come up"
+    },
+    {
+      "start": 379840,
+      "end": 382000,
+      "text": "with solutions. Also, by the way, both"
+    },
+    {
+      "start": 382000,
+      "end": 384560,
+      "text": "Deep Mind and OpenAI claimed gold in"
+    },
+    {
+      "start": 384560,
+      "end": 386400,
+      "text": "international mathematical Olympiad."
+    },
+    {
+      "start": 386400,
+      "end": 388639,
+      "text": "Since then, we also heard rumors of"
+    },
+    {
+      "start": 388639,
+      "end": 390639,
+      "text": "other smaller models that were"
+    },
+    {
+      "start": 390639,
+      "end": 392639,
+      "text": "specifically trained like LMS that were"
+    },
+    {
+      "start": 392639,
+      "end": 394080,
+      "text": "trained up with reinforcement learning"
+    },
+    {
+      "start": 394080,
+      "end": 395919,
+      "text": "to do well on these sort of tests that"
+    },
+    {
+      "start": 395919,
+      "end": 397680,
+      "text": "were able to do it as well. So there"
+    },
+    {
+      "start": 397680,
+      "end": 399600,
+      "text": "were some independent researchers out of"
+    },
+    {
+      "start": 399600,
+      "end": 401840,
+      "text": "UCLA that were able to get the Gemini"
+    },
+    {
+      "start": 401840,
+      "end": 405360,
+      "text": "2.5 Pro to solve those problems with"
+    },
+    {
+      "start": 405360,
+      "end": 407199,
+      "text": "certain approaches, certain prompts."
+    },
+    {
+      "start": 407199,
+      "end": 409680,
+      "text": "They did put it open source on GitHub."
+    },
+    {
+      "start": 409680,
+      "end": 411440,
+      "text": "So you're able to take a look, but it"
+    },
+    {
+      "start": 411440,
+      "end": 413759,
+      "text": "sounds like something that we thought"
+    },
+    {
+      "start": 413759,
+      "end": 416639,
+      "text": "had a 2 to 8% chance of happening this"
+    },
+    {
+      "start": 416639,
+      "end": 420479,
+      "text": "year. Now is extremely easy cuz multiple"
+    },
+    {
+      "start": 420479,
+      "end": 422479,
+      "text": "companies solved it. Somebody s making"
+    },
+    {
+      "start": 422479,
+      "end": 424160,
+      "text": "some code, some prompts that are making"
+    },
+    {
+      "start": 424160,
+      "end": 426160,
+      "text": "even other models capable of solving it."
+    },
+    {
+      "start": 426160,
+      "end": 429039,
+      "text": "Epic AI did post something interesting"
+    },
+    {
+      "start": 429039,
+      "end": 432639,
+      "text": "about why the IMO progress isn't as"
+    },
+    {
+      "start": 432639,
+      "end": 434479,
+      "text": "exciting as it seems or at least as they"
+    },
+    {
+      "start": 434479,
+      "end": 437199,
+      "text": "say we didn't learn much from the IMO."
+    },
+    {
+      "start": 437199,
+      "end": 438880,
+      "text": "Their point is while problems one"
+    },
+    {
+      "start": 438880,
+      "end": 442319,
+      "text": "through five were very easy, the last"
+    },
+    {
+      "start": 442319,
+      "end": 444639,
+      "text": "problem is brutally hard and there's not"
+    },
+    {
+      "start": 444639,
+      "end": 446720,
+      "text": "a lot of things in between. So we we're"
+    },
+    {
+      "start": 446720,
+      "end": 448800,
+      "text": "not sure exactly where AI is just"
+    },
+    {
+      "start": 448800,
+      "end": 451039,
+      "text": "because of this gap. So, in other words,"
+    },
+    {
+      "start": 451039,
+      "end": 453759,
+      "text": "these models are still not cracking the"
+    },
+    {
+      "start": 453759,
+      "end": 456720,
+      "text": "brutally hard problems, but there were a"
+    },
+    {
+      "start": 456720,
+      "end": 458960,
+      "text": "few humans that did. In other news,"
+    },
+    {
+      "start": 458960,
+      "end": 461520,
+      "text": "there's this kind of weird article."
+    },
+    {
+      "start": 461520,
+      "end": 463840,
+      "text": "OpenAI thinks it's critics are funded by"
+    },
+    {
+      "start": 463840,
+      "end": 465520,
+      "text": "billionaires. Now, it's going after"
+    },
+    {
+      "start": 465520,
+      "end": 467840,
+      "text": "them. So, there's a couple of ongoing"
+    },
+    {
+      "start": 467840,
+      "end": 470800,
+      "text": "lawsuits that are related to XAI and"
+    },
+    {
+      "start": 470800,
+      "end": 473039,
+      "text": "OpenAI. Recently, one of the XAI"
+    },
+    {
+      "start": 473039,
+      "end": 475280,
+      "text": "employees. Seems like they stole some"
+    },
+    {
+      "start": 475280,
+      "end": 478639,
+      "text": "technology from XAI and potentially are"
+    },
+    {
+      "start": 478639,
+      "end": 482080,
+      "text": "taking it to OpenAI could be. So, XAI is"
+    },
+    {
+      "start": 482080,
+      "end": 484639,
+      "text": "suing that employee to try to block them"
+    },
+    {
+      "start": 484639,
+      "end": 486800,
+      "text": "from joining OpenAI. Now, it seems like"
+    },
+    {
+      "start": 486800,
+      "end": 489520,
+      "text": "OpenAI is fighting back. So, as this"
+    },
+    {
+      "start": 489520,
+      "end": 492160,
+      "text": "news article says, Calvin joined this"
+    },
+    {
+      "start": 492160,
+      "end": 494720,
+      "text": "company called Encode. And Encode filed"
+    },
+    {
+      "start": 494720,
+      "end": 496479,
+      "text": "an amicus brief supporting some of"
+    },
+    {
+      "start": 496479,
+      "end": 498960,
+      "text": "Musk's arguments. So this is the Musk"
+    },
+    {
+      "start": 498960,
+      "end": 501680,
+      "text": "versus OpenAI lawsuit that is trying to"
+    },
+    {
+      "start": 501680,
+      "end": 504319,
+      "text": "prevent OpenAI from going for profit."
+    },
+    {
+      "start": 504319,
+      "end": 507120,
+      "text": "Seems like OpenAI lawyers subpoenenaed"
+    },
+    {
+      "start": 507120,
+      "end": 510479,
+      "text": "Calvin to see if he was ever paid by"
+    },
+    {
+      "start": 510479,
+      "end": 512399,
+      "text": "Elon Musk. So as you can see here in"
+    },
+    {
+      "start": 512399,
+      "end": 515599,
+      "text": "code backs legal challenges to OpenAI's"
+    },
+    {
+      "start": 515599,
+      "end": 517599,
+      "text": "forprofit switch. This is from December"
+    },
+    {
+      "start": 517599,
+      "end": 520479,
+      "text": "30th, 2024. And he wasn't the only one"
+    },
+    {
+      "start": 520479,
+      "end": 523039,
+      "text": "to receive a subpoena from OpenAI. seems"
+    },
+    {
+      "start": 523039,
+      "end": 524640,
+      "text": "like there's been other ones that served"
+    },
+    {
+      "start": 524640,
+      "end": 526640,
+      "text": "to at least two other AI governance"
+    },
+    {
+      "start": 526640,
+      "end": 528640,
+      "text": "groups in recent months and it was part"
+    },
+    {
+      "start": 528640,
+      "end": 530959,
+      "text": "of OpenI's emerging attack on what it"
+    },
+    {
+      "start": 530959,
+      "end": 532720,
+      "text": "believes is a billionairebacked"
+    },
+    {
+      "start": 532720,
+      "end": 535360,
+      "text": "conspiracy to halt its progress. Open"
+    },
+    {
+      "start": 535360,
+      "end": 537839,
+      "text": "eye lawyers alleged that groups opposed"
+    },
+    {
+      "start": 537839,
+      "end": 540080,
+      "text": "to its conversion for a for-profit"
+    },
+    {
+      "start": 540080,
+      "end": 542720,
+      "text": "company may be funded by Musk or are"
+    },
+    {
+      "start": 542720,
+      "end": 545040,
+      "text": "working with Zuckerberg. In media"
+    },
+    {
+      "start": 545040,
+      "end": 546640,
+      "text": "interviews, representatives for an"
+    },
+    {
+      "start": 546640,
+      "end": 548800,
+      "text": "OpenAI affiliated super PAC have"
+    },
+    {
+      "start": 548800,
+      "end": 552000,
+      "text": "described a vast force working to slow"
+    },
+    {
+      "start": 552000,
+      "end": 554000,
+      "text": "down AI progress and steal American"
+    },
+    {
+      "start": 554000,
+      "end": 557040,
+      "text": "jobs. So basically, OpenAI or their"
+    },
+    {
+      "start": 557040,
+      "end": 559040,
+      "text": "legal team is trying to see if any of"
+    },
+    {
+      "start": 559040,
+      "end": 561600,
+      "text": "these AI governance companies that keep"
+    },
+    {
+      "start": 561600,
+      "end": 564080,
+      "text": "popping up, do any of the major"
+    },
+    {
+      "start": 564080,
+      "end": 566959,
+      "text": "stockholders of competing AI labs, is"
+    },
+    {
+      "start": 566959,
+      "end": 569360,
+      "text": "there any money being funneled through"
+    },
+    {
+      "start": 569360,
+      "end": 572000,
+      "text": "them to these companies? And to be fair,"
+    },
+    {
+      "start": 572000,
+      "end": 574880,
+      "text": "there are a lot of these companies that"
+    },
+    {
+      "start": 574880,
+      "end": 577440,
+      "text": "are part of the AI existential risk"
+    },
+    {
+      "start": 577440,
+      "end": 580000,
+      "text": "ecosystem. Here's that entire picture."
+    },
+    {
+      "start": 580000,
+      "end": 582240,
+      "text": "This is Dr. Techlash. Great follow if"
+    },
+    {
+      "start": 582240,
+      "end": 584080,
+      "text": "you're kind of interested in this stuff."
+    },
+    {
+      "start": 584080,
+      "end": 586320,
+      "text": "And she just kind of keeps an eye on all"
+    },
+    {
+      "start": 586320,
+      "end": 589279,
+      "text": "the AI doomsday machine articles and"
+    },
+    {
+      "start": 589279,
+      "end": 591839,
+      "text": "companies that are coming out. So, this"
+    },
+    {
+      "start": 591839,
+      "end": 594320,
+      "text": "is the AI existential risk industrial"
+    },
+    {
+      "start": 594320,
+      "end": 596560,
+      "text": "complex, right? All these companies"
+    },
+    {
+      "start": 596560,
+      "end": 599040,
+      "text": "somehow involved in pushing AI"
+    },
+    {
+      "start": 599040,
+      "end": 601200,
+      "text": "governance. She points out all these"
+    },
+    {
+      "start": 601200,
+      "end": 602880,
+      "text": "people that are saying that basically"
+    },
+    {
+      "start": 602880,
+      "end": 606560,
+      "text": "this will 100% lead to human extinction."
+    },
+    {
+      "start": 606560,
+      "end": 609040,
+      "text": "She also has a map of AI existential"
+    },
+    {
+      "start": 609040,
+      "end": 610880,
+      "text": "safety pointing out a lot of companies"
+    },
+    {
+      "start": 610880,
+      "end": 614079,
+      "text": "and influencers online some of whom we"
+    },
+    {
+      "start": 614079,
+      "end": 616800,
+      "text": "know. But it seems like the idea here is"
+    },
+    {
+      "start": 616800,
+      "end": 619200,
+      "text": "that open philanthropy is the largest"
+    },
+    {
+      "start": 619200,
+      "end": 622079,
+      "text": "funer in this existential risk space and"
+    },
+    {
+      "start": 622079,
+      "end": 623920,
+      "text": "a lot of the other companies are just"
+    },
+    {
+      "start": 623920,
+      "end": 625680,
+      "text": "smaller companies funded by it. So, we"
+    },
+    {
+      "start": 625680,
+      "end": 628240,
+      "text": "have the long-term future fund, future"
+    },
+    {
+      "start": 628240,
+      "end": 632880,
+      "text": "of life institute, Manny Fund, AI 2050,"
+    },
+    {
+      "start": 632880,
+      "end": 635040,
+      "text": "like a lot of these names we've seen"
+    },
+    {
+      "start": 635040,
+      "end": 637600,
+      "text": "before in one way or another. The Future"
+    },
+    {
+      "start": 637600,
+      "end": 639839,
+      "text": "of Life Institute. Now, I'm not saying"
+    },
+    {
+      "start": 639839,
+      "end": 643040,
+      "text": "that this is true or false, but there"
+    },
+    {
+      "start": 643040,
+      "end": 645839,
+      "text": "does seem to be some funding for a lot"
+    },
+    {
+      "start": 645839,
+      "end": 648560,
+      "text": "of these groups, which of course isn't"
+    },
+    {
+      "start": 648560,
+      "end": 650880,
+      "text": "necessarily anything nefarious, right?"
+    },
+    {
+      "start": 650880,
+      "end": 652480,
+      "text": "Some people if they're concerned about"
+    },
+    {
+      "start": 652480,
+      "end": 654160,
+      "text": "the future of humanity and they put"
+    },
+    {
+      "start": 654160,
+      "end": 656560,
+      "text": "their money towards those causes,"
+    },
+    {
+      "start": 656560,
+      "end": 658880,
+      "text": "there's nothing wrong with that. And so"
+    },
+    {
+      "start": 658880,
+      "end": 661760,
+      "text": "Calvin who's part of Encode. So Encode"
+    },
+    {
+      "start": 661760,
+      "end": 664800,
+      "text": "says they are a youthled organization"
+    },
+    {
+      "start": 664800,
+      "end": 667200,
+      "text": "advocating for responsible artificial"
+    },
+    {
+      "start": 667200,
+      "end": 668959,
+      "text": "intelligence development. So they kind"
+    },
+    {
+      "start": 668959,
+      "end": 671600,
+      "text": "of stepped out against OpenAI and them"
+    },
+    {
+      "start": 671600,
+      "end": 673360,
+      "text": "trying to go in the for-profit"
+    },
+    {
+      "start": 673360,
+      "end": 674880,
+      "text": "direction. So he was the one that got"
+    },
+    {
+      "start": 674880,
+      "end": 677040,
+      "text": "subpoenaed. Though groups like Calvin's"
+    },
+    {
+      "start": 677040,
+      "end": 679440,
+      "text": "say that the company is bending reality"
+    },
+    {
+      "start": 679440,
+      "end": 681279,
+      "text": "to claim that all criticism of the"
+    },
+    {
+      "start": 681279,
+      "end": 683920,
+      "text": "world's most powerful AI company is part"
+    },
+    {
+      "start": 683920,
+      "end": 686160,
+      "text": "of a billionaire backed cabal of"
+    },
+    {
+      "start": 686160,
+      "end": 688079,
+      "text": "commercial interests and that grassroot"
+    },
+    {
+      "start": 688079,
+      "end": 689600,
+      "text": "groups like theirs are getting caught in"
+    },
+    {
+      "start": 689600,
+      "end": 691040,
+      "text": "the middle. They're kind of this"
+    },
+    {
+      "start": 691040,
+      "end": 692880,
+      "text": "paranoid bubble. So he's talking about"
+    },
+    {
+      "start": 692880,
+      "end": 694640,
+      "text": "OpenAI. They seem to have a hard time"
+    },
+    {
+      "start": 694640,
+      "end": 696399,
+      "text": "believing we are an organization of"
+    },
+    {
+      "start": 696399,
+      "end": 698640,
+      "text": "people who just like actually care about"
+    },
+    {
+      "start": 698640,
+      "end": 701519,
+      "text": "this. Now, OPAI is especially suspicious"
+    },
+    {
+      "start": 701519,
+      "end": 704240,
+      "text": "of Cany, the group behind the bill to"
+    },
+    {
+      "start": 704240,
+      "end": 706959,
+      "text": "block its for-profit transition. They"
+    },
+    {
+      "start": 706959,
+      "end": 709440,
+      "text": "subpoenaed the Cany's president, Jeffrey"
+    },
+    {
+      "start": 709440,
+      "end": 712640,
+      "text": "Gardner. Now, Jeffrey Gardner, you know,"
+    },
+    {
+      "start": 712640,
+      "end": 714640,
+      "text": "some of the things about him are indeed"
+    },
+    {
+      "start": 714640,
+      "end": 716800,
+      "text": "odd. As the newspaper says, he's a"
+    },
+    {
+      "start": 716800,
+      "end": 718720,
+      "text": "self-employed attorney and LSAT"
+    },
+    {
+      "start": 718720,
+      "end": 720640,
+      "text": "instructor living in New York. He has no"
+    },
+    {
+      "start": 720640,
+      "end": 722160,
+      "text": "record of having engaged with California"
+    },
+    {
+      "start": 722160,
+      "end": 724720,
+      "text": "officials or any public officials"
+    },
+    {
+      "start": 724720,
+      "end": 727120,
+      "text": "anywhere on any political issue at all."
+    },
+    {
+      "start": 727120,
+      "end": 728959,
+      "text": "In every sense, he's a strange choice to"
+    },
+    {
+      "start": 728959,
+      "end": 731360,
+      "text": "lead an active AI advocacy group. But"
+    },
+    {
+      "start": 731360,
+      "end": 733120,
+      "text": "further raising openey suspicions, the"
+    },
+    {
+      "start": 733120,
+      "end": 735120,
+      "text": "fact that he rents a home owned by an"
+    },
+    {
+      "start": 735120,
+      "end": 738959,
+      "text": "entity called Tesla Place LLC. So, Open"
+    },
+    {
+      "start": 738959,
+      "end": 741760,
+      "text": "AI lawyers believe that he's being used"
+    },
+    {
+      "start": 741760,
+      "end": 744560,
+      "text": "as a prop for whoever's controlling"
+    },
+    {
+      "start": 744560,
+      "end": 747040,
+      "text": "this. And that's to hide the true"
+    },
+    {
+      "start": 747040,
+      "end": 749279,
+      "text": "identity of the officers and funders of"
+    },
+    {
+      "start": 749279,
+      "end": 751600,
+      "text": "this company. So, this is from the San"
+    },
+    {
+      "start": 751600,
+      "end": 754399,
+      "text": "Francisco Standard. And this article"
+    },
+    {
+      "start": 754399,
+      "end": 756399,
+      "text": "gets nutty. I think we're going to have"
+    },
+    {
+      "start": 756399,
+      "end": 758880,
+      "text": "to do a separate video where we look at"
+    },
+    {
+      "start": 758880,
+      "end": 761760,
+      "text": "Dr. Techlash, some of her arguments at"
+    },
+    {
+      "start": 761760,
+      "end": 764399,
+      "text": "what this thing alleges. But let me know"
+    },
+    {
+      "start": 764399,
+      "end": 766959,
+      "text": "what you think. Is there a billionaire"
+    },
+    {
+      "start": 766959,
+      "end": 769920,
+      "text": "conspiracy, whether it's Musk and Mark"
+    },
+    {
+      "start": 769920,
+      "end": 772560,
+      "text": "Zuckerberg or or somebody else? Does it"
+    },
+    {
+      "start": 772560,
+      "end": 773920,
+      "text": "seem strange to you that there are"
+    },
+    {
+      "start": 773920,
+      "end": 776880,
+      "text": "dozens and dozens of these AI advocacy"
+    },
+    {
+      "start": 776880,
+      "end": 779680,
+      "text": "groups that are seem kind of mysterious?"
+    },
+    {
+      "start": 779680,
+      "end": 781680,
+      "text": "Like it's not quite clear who's behind"
+    },
+    {
+      "start": 781680,
+      "end": 784720,
+      "text": "them, but this thing gets kind of nuts."
+    },
+    {
+      "start": 784720,
+      "end": 786399,
+      "text": "Anyways, so I'll probably do a separate"
+    },
+    {
+      "start": 786399,
+      "end": 787920,
+      "text": "video because there's a lot of"
+    },
+    {
+      "start": 787920,
+      "end": 789440,
+      "text": "interesting stuff here that's happening"
+    },
+    {
+      "start": 789440,
+      "end": 791360,
+      "text": "behind the scenes and does seem like the"
+    },
+    {
+      "start": 791360,
+      "end": 793360,
+      "text": "competition between all the labs is"
+    },
+    {
+      "start": 793360,
+      "end": 795200,
+      "text": "really heating up. Anyways, if you made"
+    },
+    {
+      "start": 795200,
+      "end": 796399,
+      "text": "it this far, thank you so much for"
+    },
+    {
+      "start": 796399,
+      "end": 797839,
+      "text": "watching. My name is Wes Roth and I'll"
+    },
+    {
+      "start": 797839,
+      "end": 801040,
+      "text": "see you in the next"
+    }
+  ],
+  "comments": {
+    "totalCount": 155,
+    "sample": [
+      {
+        "id": "UgzrTm475IgwcPYKaXF4AaABAg",
+        "content": "I've been using Jules for the past few months. So it can't be a rollout announcement because that's already happened.",
+        "author": "@DigitalRenegadeStudios",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 27,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxO7rJHJ0dFGc7v9M14AaABAg",
+        "content": "OpenAI has quite a lot of catching up to do when it comes to applications of AI to science. DeepMind is way ahead there.",
+        "author": "@cacogenicist",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 20,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwIw4YlQx0AZCUFnDN4AaABAg",
+        "content": "I have been thinking that Google will take the AI lead! Just their TPUs alone make NVIDIA's GPUs look like expensive toys in comparison. Google has massive resources in basically all things AI and has been at it for two decades.",
+        "author": "@Anders01",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 10,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwR6UZNPh6Uz28XY8N4AaABAg",
+        "content": "OpenAI is currently far behind Google in AI development, and I'm uncertain whether it has any chance of surpassing Google in the future.",
+        "author": "@erobe2334",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 53,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzbcgVvBkqXNqhos9R4AaABAg",
+        "content": "the best AI coding LLM is by far Claude at this moment",
+        "author": "@mercgenai",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 12,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwkZA5tgd93DKnRr-J4AaABAg",
+        "content": "Im really happy too that google will remain a monopoly! As a person with small business I couldnt be happier getting further pushed out by the pay to play scheme that is google.",
+        "author": "@thagomizerrr",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzrrR4mybZ76kNWTrV4AaABAg",
+        "content": "AI is not an existential threat. Human greed, competitiveness, and selfishness are far bigger threats. We are our own worst enemies.",
+        "author": "@nathanieldearinger1673",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 17,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy-G0EMEzeXOfe25UZ4AaABAg",
+        "content": "Time for Gemini 3.0 AI LLM to be released",
+        "author": "@AlanPhillips-g1c",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 7,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzRHgOs961sSbnozOV4AaABAg",
+        "content": "Wes, I’ve gave to that video 5 stars and checked that it made on me huge impact. Have a nice day! 💖 btw I’ve already moved to Philippines 🇵🇭 from Czechia 🇨🇿, and here is awesome :) yeeah, smelly, but sooo cheap and good weather :))",
+        "author": "@k-nr-d",
+        "publishedDate": "2025-09-07T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyWThwBEumo7zVpqBl4AaABAg",
+        "content": "i prefer Gemini Live but it needs to be able to view the Google Drive, Gmail, Docs, Sheets, etc.",
+        "author": "@ASchnacky",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 13,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyMKLqxR6Wba3ImTMd4AaABAg",
+        "content": "Wes, you’re funny.  Good sense of humor. I am impressed 👍🏻",
+        "author": "@Haveuseenmyjetpack",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugx0FqIzL_zK8wQVp5p4AaABAg",
+        "content": "at all cost Wes at all cost",
+        "author": "@brianhershey563",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyIrf82ksV6sxpevS14AaABAg",
+        "content": "If CANI was owned by Elon, he would never named it Tesla Place, LLC.",
+        "author": "@classicalmechanic8914",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzrDVY_w96b9-H3vP94AaABAg",
+        "content": "An Apple A Day Keeps The Government away hahaha 🤣",
+        "author": "@holdthetruthhostage",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 8,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyJybVzLTyObflVq-Z4AaABAg",
+        "content": "how is google preparing to 'unleash' Jules it already came out...",
+        "author": "@randomdude2582",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy2AI3sHZiXlyqCFGt4AaABAg",
+        "content": "I love the teachings here! Great insights on AI developments.",
+        "author": "@clausm220",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxT6ah93VmJVfVQzgd4AaABAg",
+        "content": "Google is above OpenAI with AI and not too long ago they were a joke. I love it.\n\nLike this comment if you have a special partner.",
+        "author": "@Zerobytexai",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 16,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyEUZdQED3QDuPCP4B4AaABAg",
+        "content": "I work late and watch this channel during my break. I try to put this information in the context of how will it effect me. Yeah, selfish. A month ago, I was in the office working late. It was nine pm, heading to ten. They turned off the air-conditioning, and sweat was pooling on my desk, where my arms rested. I had to find where a dead client's will was registered. I gave ChatGPT the client's address.  Chat told me what public office held the will, what the coping cost would be, who might be the official doing the work. ChatGPT even said I should tip the official doing the work. Five would be an insult, ten would do it, but twenty would be stand up. It wrote the letter, then asked what was the name of air-conditioned company in the office. I told ChatGPT and it gave me override code so I could cool down. Those days are over.",
+        "author": "@Kikilang60",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 7,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugxcac2ooi-QbN8TH854AaABAg",
+        "content": "Jules has been out for about a month.  \nLove your show.",
+        "author": "@plantbasedworld-123",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxB7ae_7CxLoOQ5g_V4AaABAg",
+        "content": "Jules entered open beta after the announcement and left beta mid August. It's very different from the code CLI tools etc",
+        "author": "",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzq81zul6qDDQ5gGcJ4AaABAg",
+        "content": "Honestly, Google has a safer track history.. I would think they're less likely to be the bad actor in this race.\n\nThis whole thing feels like a complexified Among Us match.",
+        "author": "@Echolonious",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzKAGqiux_ZlK4pjdV4AaABAg",
+        "content": "THANKS AGAIN! for the great video!",
+        "author": "@johannestuuponen",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxrsrJIJBgjBtNzxnB4AaABAg",
+        "content": "Grok is the worst model on my benchmark of sports betting. It really makes you lose a lot of money. Claude, on the other hand, has an incredible ROI, but the sample size is still small",
+        "author": "@lucianozaffaina9853",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyCx-m1fp5wLSJk-Qt4AaABAg",
+        "content": "Thanks Wes",
+        "author": "@mrmissionctrl",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyNnVtjSS37ob1wfKh4AaABAg",
+        "content": "Are we still on track for that 2027 nonsense?",
+        "author": "@JulianDnn",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugwjem65LZWb0M0PI0B4AaABAg",
+        "content": "Tbf, I thought it was dodgy as hell that Zuckerberg bought a bunch of openai's top guys and they ended up leaving almost immediately... My first thought was \"seems like zuck bought them just to get them away from oai\"",
+        "author": "@adrianclark2734",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxyuXx3u7CWaFCHZAl4AaABAg",
+        "content": "big moves",
+        "author": "@damionrichter",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzx63TAm_pOLYQD4HR4AaABAg",
+        "content": "I’d be okay with chrome being owned by perplexity",
+        "author": "@aarronwilliams9482",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugw10YPHTb1NAQddgyh4AaABAg",
+        "content": "this judge apparently never ran Google ads",
+        "author": "@petebrag",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwHNBFuupFCmyirZe14AaABAg",
+        "content": "I have tried jules extensively last week, the VM it runs is way to weak, cant run simple docker containers, runs out of memory and whole premise of coding/running/fixing loop is a lie and there's no use for jules in any real software. Some small MVPs without database image - maybe.\n\nYes, still better than codex, codes VM doesnt have docker at all.",
+        "author": "@balandis-izidorius",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxiUQX7BUus-iYrta94AaABAg",
+        "content": "Weil - \"While\"",
+        "author": "@VicariousAdventurer",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugz4bap6lBQndAUBoAN4AaABAg",
+        "content": "Yea I used it for two projects",
+        "author": "@yaphetgobena4914",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyVZcenYvcto8sOZFV4AaABAg",
+        "content": "They need to work on a better Rag or knowledge graph system. The coding ability is really cool, but accuracy is important too 😢",
+        "author": "@huhuhuh525",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzNlxfKBeyCTlTkRCR4AaABAg",
+        "content": "I find Jules pretty useless for coding. Gemini 2.5 has become dated. Codex with GPT-5 and Claude code with Sonnet 4 are much better. Hopefully we see order of magnitude improvements from Google on coding.",
+        "author": "@puremajik",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwtgyM3FY-YyKX4pIR4AaABAg",
+        "content": "I just need something that touches Claudes (very expensive) writing capabilities. It understands what Im trying to say so easily. Like nothing else. Gemini 2.0 plus Chat GTP whatever TF tries but they just cant.",
+        "author": "@GoodBaleadaMusic",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugw_QgZcYwP9oFaePfV4AaABAg",
+        "content": "\"stealing jobs\" is a wild argument from an ai company.\n\nopenai is super shady corporate cringe\n\nbut yes there's a \"billionaire\" funded concern trolling complex.\n\nand no, none of them care to prevent the danger, all just want to be first and harm competition\n\naligned ai is the greatest risk for humanity. aligned ai means complete control regardless of morals.\n\nin short: it's all bad",
+        "author": "@send_love",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyLDESasPyO7065I514AaABAg",
+        "content": "Google keeps on winning but nobody uses gemini😭",
+        "author": "@LucaBovelli-o8w",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugz9YxRowsY08xswoH94AaABAg",
+        "content": "So you work for google. Few are surprised",
+        "author": "@toonhai7white7rabbit7",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugwm-PmOBQkuS992I8R4AaABAg",
+        "content": "OpenAI es una empresa financiada por Elon Músk para que no fuera con fines de lucro para empezar.",
+        "author": "@centrointernetbds",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgynwBfxt90xV6lpz2t4AaABAg",
+        "content": "ok fine, one more video",
+        "author": "@alejandromunoz4115",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugz1IwEMfX6VHUvnCVV4AaABAg",
+        "content": "yoyoyo",
+        "author": "@smokesesss",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugz_wTxssUlCMczhmqJ4AaABAg",
+        "content": ":face-red-heart-shape:",
+        "author": "@angloland4539",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzKGPqjs9n7BqZyUZB4AaABAg",
+        "content": "mi happy too 😊",
+        "author": "@COW879",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy90rNaB0Eyj7UB2sJ4AaABAg",
+        "content": "Why do you insist on keeping me up so late with these videos?",
+        "author": "@Doomblade3890",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxJTWFk-mHkheRKnSx4AaABAg",
+        "content": "When you look at the arc of history all of the doomsday sayers were wrong and guess what they're still wrong lmao",
+        "author": "@Atticus_Moore",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzmTTF2WWySVmb-no14AaABAg",
+        "content": "Why not China?? China wold be really the major one, dont it?",
+        "author": "@volthertz9950",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugxb9ErI85_Xx_tEV-Z4AaABAg",
+        "content": "Start 2:00 Jules squid",
+        "author": "@kellyaquinastom",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgynMxov1m4sWiF8Agp4AaABAg",
+        "content": "Jules has been around for months now.. Wheres the big surprise? 🤷",
+        "author": "@itayashkenazy2895",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwaMT0z5-lmHMIaRo54AaABAg",
+        "content": "Jules has been around for months already lol",
+        "author": "@arceas",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyq-e1hlCOwqkn5KN54AaABAg",
+        "content": "Yup. Jules, Jews.",
+        "author": "@rachkaification",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      }
+    ]
+  },
+  "metadata": {
+    "extractedAt": "2025-09-18T16:46:05Z",
+    "source": "apify-youtube-scraper",
+    "processingVersion": "1.0.0"
+  }
+}

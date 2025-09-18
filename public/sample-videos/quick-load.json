@@ -1,0 +1,81 @@
+{
+  "quickLoadVideos": [
+    {
+      "id": "eTgYehlVEBo",
+      "url": "https://youtube.com/watch?v=eTgYehlVEBo",
+      "title": "AI Village is getting scary",
+      "author": "Wes Roth",
+      "category": "AI News",
+      "duration": "22:38",
+      "views": "78K",
+      "thumbnail": "https://i.ytimg.com/vi_webp/eTgYehlVEBo/maxresdefault.webp",
+      "dataFile": "sample-videos/eTgYehlVEBo.json"
+    },
+    {
+      "id": "8s6nGMcyr7k",
+      "url": "https://youtube.com/watch?v=8s6nGMcyr7k",
+      "title": "Anthropic's Claude 3.5 Sonnet BEATS GPT-4o",
+      "author": "Wes Roth",
+      "category": "AI Comparison",
+      "duration": "12:00",
+      "views": "46K",
+      "thumbnail": "https://i.ytimg.com/vi_webp/8s6nGMcyr7k/maxresdefault.webp",
+      "dataFile": "sample-videos/8s6nGMcyr7k.json"
+    },
+    {
+      "id": "RLj9gKsGlzo",
+      "url": "https://youtube.com/watch?v=RLj9gKsGlzo",
+      "title": "Meta's NEW AI Can Generate ANYTHING",
+      "author": "Wes Roth",
+      "category": "AI Technology",
+      "duration": "14:52",
+      "views": "68K",
+      "thumbnail": "https://i.ytimg.com/vi_webp/RLj9gKsGlzo/maxresdefault.webp",
+      "dataFile": "sample-videos/RLj9gKsGlzo.json"
+    },
+    {
+      "id": "bZkz4mFXeuQ",
+      "url": "https://youtube.com/watch?v=bZkz4mFXeuQ",
+      "title": "OpenAI's o1 is ACTUALLY Getting Smarter",
+      "author": "Wes Roth",
+      "category": "OpenAI",
+      "duration": "10:45",
+      "views": "89K",
+      "thumbnail": "https://i.ytimg.com/vi_webp/bZkz4mFXeuQ/maxresdefault.webp",
+      "dataFile": "sample-videos/bZkz4mFXeuQ.json"
+    },
+    {
+      "id": "zXztsSRh904",
+      "url": "https://youtube.com/watch?v=zXztsSRh904",
+      "title": "Google's Gemini 2.0 is Here",
+      "author": "Wes Roth",
+      "category": "Google AI",
+      "duration": "12:36",
+      "views": "52K",
+      "thumbnail": "https://i.ytimg.com/vi_webp/zXztsSRh904/maxresdefault.webp",
+      "dataFile": "sample-videos/zXztsSRh904.json"
+    },
+    {
+      "id": "xZCbQM-hGa4",
+      "url": "https://youtube.com/watch?v=xZCbQM-hGa4",
+      "title": "The AI Winter is Coming",
+      "author": "Wes Roth",
+      "category": "AI Analysis",
+      "duration": "13:54",
+      "views": "74K",
+      "thumbnail": "https://i.ytimg.com/vi_webp/xZCbQM-hGa4/maxresdefault.webp",
+      "dataFile": "sample-videos/xZCbQM-hGa4.json"
+    },
+    {
+      "id": "XIu7XmiTfag",
+      "url": "https://youtube.com/watch?v=XIu7XmiTfag",
+      "title": "ChatGPT's New Reasoning Mode is Incredible",
+      "author": "Wes Roth",
+      "category": "ChatGPT",
+      "duration": "15:12",
+      "views": "96K",
+      "thumbnail": "https://i.ytimg.com/vi_webp/XIu7XmiTfag/maxresdefault.webp",
+      "dataFile": "sample-videos/XIu7XmiTfag.json"
+    }
+  ]
+}

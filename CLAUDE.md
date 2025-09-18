@@ -1,0 +1,2 @@
+- always show dev estimates in commits
+- for the dev estimate include how long we worked on the project and how much time we saved.

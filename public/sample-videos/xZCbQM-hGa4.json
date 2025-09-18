@@ -1,0 +1,3578 @@
+{
+  "video": {
+    "id": "xZCbQM-hGa4",
+    "title": "AI just took all our jobs",
+    "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\nEx-Google exec: The idea that AI will create new jobs is ’100% crap’—even CEOs are at risk of displacement\nhttps://www.cnbc.com/2025/08/05/ex-google-exec-the-idea-that-ai-will-create-new-jobs-is-100percent-crap.html\n\nCanaries in the Coal Mine? Six Facts about the Recent Employment Effects of Artificial Intelligence\nhttps://x.com/rohanpaul_ai/status/1960256896373551378\n\nRobinhood CEO says the majority of the company's new code is written by AI, with 'close to 100%' adoption from engineers\nhttps://www.businessinsider.com/robinhood-ceo-majority-new-code-ai-generated-engineer-adoption-2025-7?IR=T\n\nAI To Gut Half Of Entry-Level Jobs By 2030, Anthropic CEO Reaffirms Warning\nhttps://www.ndtv.com/offbeat/ai-to-gut-half-of-entry-level-jobs-by-2030-anthropic-ceo-reaffirms-warning-9235116\n\nThe Future of Jobs Report 2025 (WEF)\nhttps://www.weforum.org/publications/the-future-of-jobs-report-2025/\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/@Wes-Dylan\n\n\n\n______________________________________________\n\n\n\n#ai #openai #llm",
+    "author": "Wes Roth",
+    "publishDate": "2025-09-12T04:01:13.000Z",
+    "duration": 1406,
+    "viewCount": 48687,
+    "likeCount": 1445,
+    "category": "Education",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/xZCbQM-hGa4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBUhpz6l6ovKlMdMbmhFb-pIMuTBw",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xZCbQM-hGa4/hqdefault.jpg?sqp=-oaymwEmCMQBEG5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBMfKYc4i8py0WGintxwVltWbAwfw",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xZCbQM-hGa4/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMG834xrnmKtA_JHkqbaQ4Rt9w1A",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/xZCbQM-hGa4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDToq5YVWXVt6imWY6TAPjcwh4BNw",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/xZCbQM-hGa4/maxresdefault.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "channel": {
+    "id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+    "title": "Wes Roth",
+    "description": "Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large Language Models and... (most importantly)... optimism. \n\nAGI rolls around only once. Let's make the best of it.\n\nOn this channel, my goal is to help everyone understand AI and it's implications better. To prepare for what's coming next.\n\nThe most important rule is \"Don't Panic\".\n\nThe second rule is keep learning.\n\nThank you for joining me for this ride.\n\n-Wes Roth\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n",
+    "subscriberCount": 296000,
+    "avatar": {
+      "url": "https://yt3.googleusercontent.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900,
+      "height": 900
+    }
+  },
+  "transcript": [
+    {
+      "start": 80,
+      "end": 2639,
+      "text": "AI is here and he wants to take your"
+    },
+    {
+      "start": 2639,
+      "end": 4880,
+      "text": "job. Ex Google Exec is saying that the"
+    },
+    {
+      "start": 4880,
+      "end": 7919,
+      "text": "idea that AI will create new jobs is"
+    },
+    {
+      "start": 7919,
+      "end": 11040,
+      "text": "100% crap. Robin Hood's CEO says"
+    },
+    {
+      "start": 11040,
+      "end": 14240,
+      "text": "majority of its new code is AI"
+    },
+    {
+      "start": 14240,
+      "end": 17920,
+      "text": "generated. Anthropic CEO Dario Amade is"
+    },
+    {
+      "start": 17920,
+      "end": 20640,
+      "text": "back in the news. So he's again blowing"
+    },
+    {
+      "start": 20640,
+      "end": 22800,
+      "text": "the whistle, ringing the alarm, saying"
+    },
+    {
+      "start": 22800,
+      "end": 24800,
+      "text": "that AI is going to cut half of"
+    },
+    {
+      "start": 24800,
+      "end": 28240,
+      "text": "entrylevel jobs by 2030. Enthropic CEO"
+    },
+    {
+      "start": 28240,
+      "end": 30800,
+      "text": "reaffirms his warning. There's a new"
+    },
+    {
+      "start": 30800,
+      "end": 33120,
+      "text": "report out of the World Economic Forum."
+    },
+    {
+      "start": 33120,
+      "end": 35440,
+      "text": "So they put out their projections for"
+    },
+    {
+      "start": 35440,
+      "end": 38480,
+      "text": "what happens to jobs by 2030. And good"
+    },
+    {
+      "start": 38480,
+      "end": 41360,
+      "text": "news everyone, it's projected to grow"
+    },
+    {
+      "start": 41360,
+      "end": 44640,
+      "text": "7%. So that makes for a great very"
+    },
+    {
+      "start": 44640,
+      "end": 47200,
+      "text": "positive headline. But when you dig and"
+    },
+    {
+      "start": 47200,
+      "end": 50079,
+      "text": "look at the actual data, it doesn't look"
+    },
+    {
+      "start": 50079,
+      "end": 53440,
+      "text": "so good. In fact, it kind of supports"
+    },
+    {
+      "start": 53440,
+      "end": 56079,
+      "text": "exactly what Sad Dario is saying. AI is"
+    },
+    {
+      "start": 56079,
+      "end": 58960,
+      "text": "going to cut half of entry-level jobs by"
+    },
+    {
+      "start": 58960,
+      "end": 61280,
+      "text": "2030. So, really fast, let me give you"
+    },
+    {
+      "start": 61280,
+      "end": 63359,
+      "text": "just a brief summary of this article."
+    },
+    {
+      "start": 63359,
+      "end": 66000,
+      "text": "What's this summary AI generated? This"
+    },
+    {
+      "start": 66000,
+      "end": 68880,
+      "text": "is not okay. They took our jobs. But all"
+    },
+    {
+      "start": 68880,
+      "end": 72080,
+      "text": "jokes aside, Daario has been saying the"
+    },
+    {
+      "start": 72080,
+      "end": 74000,
+      "text": "same thing for a while now. Last 6"
+    },
+    {
+      "start": 74000,
+      "end": 75520,
+      "text": "months, he's been in the news multiple"
+    },
+    {
+      "start": 75520,
+      "end": 78560,
+      "text": "times, kind of saying the same thing."
+    },
+    {
+      "start": 78560,
+      "end": 80560,
+      "text": "He's not vaguely saying that AI is going"
+    },
+    {
+      "start": 80560,
+      "end": 83280,
+      "text": "to take all jobs. He's pointing to a"
+    },
+    {
+      "start": 83280,
+      "end": 86400,
+      "text": "very specific and dangerous segment of"
+    },
+    {
+      "start": 86400,
+      "end": 88799,
+      "text": "jobs to lose. He's saying that AI could"
+    },
+    {
+      "start": 88799,
+      "end": 91360,
+      "text": "wipe out half of entrylevel white collar"
+    },
+    {
+      "start": 91360,
+      "end": 93840,
+      "text": "jobs within the next 5 years. He's"
+    },
+    {
+      "start": 93840,
+      "end": 95520,
+      "text": "quoted here saying specifically if we"
+    },
+    {
+      "start": 95520,
+      "end": 98720,
+      "text": "look at like entrylevel white, you know,"
+    },
+    {
+      "start": 98720,
+      "end": 100640,
+      "text": "I think of people who work at law firms"
+    },
+    {
+      "start": 100640,
+      "end": 102560,
+      "text": "like first year associates. There's a"
+    },
+    {
+      "start": 102560,
+      "end": 104320,
+      "text": "lot of document review. By the way, if"
+    },
+    {
+      "start": 104320,
+      "end": 105759,
+      "text": "you're if you're editing, if like you're"
+    },
+    {
+      "start": 105759,
+      "end": 107600,
+      "text": "an editor for a newspaper and and and"
+    },
+    {
+      "start": 107600,
+      "end": 108720,
+      "text": "the person you're interviewing, like"
+    },
+    {
+      "start": 108720,
+      "end": 110560,
+      "text": "they they forget to say a word, you can"
+    },
+    {
+      "start": 110560,
+      "end": 112240,
+      "text": "add that word in there. You know, it"
+    },
+    {
+      "start": 112240,
+      "end": 113840,
+      "text": "doesn't lose any context. It doesn't"
+    },
+    {
+      "start": 113840,
+      "end": 116159,
+      "text": "change the context. But I digress. And"
+    },
+    {
+      "start": 116159,
+      "end": 118159,
+      "text": "he's also saying this. He added that"
+    },
+    {
+      "start": 118159,
+      "end": 119920,
+      "text": "governments across the world were"
+    },
+    {
+      "start": 119920,
+      "end": 122560,
+      "text": "downplaying the threat when AI's rising"
+    },
+    {
+      "start": 122560,
+      "end": 124240,
+      "text": "use could lead to a significant spike in"
+    },
+    {
+      "start": 124240,
+      "end": 126719,
+      "text": "unemployment numbers. The godfather of"
+    },
+    {
+      "start": 126719,
+      "end": 128879,
+      "text": "AI, Jeffrey Hinton, said, \"What's"
+    },
+    {
+      "start": 128879,
+      "end": 130720,
+      "text": "actually going to happen is rich people"
+    },
+    {
+      "start": 130720,
+      "end": 132959,
+      "text": "are going to use AI to replace workers."
+    },
+    {
+      "start": 132959,
+      "end": 134319,
+      "text": "It's going to create massive"
+    },
+    {
+      "start": 134319,
+      "end": 137280,
+      "text": "unemployment and a huge rise in profits."
+    },
+    {
+      "start": 137280,
+      "end": 139520,
+      "text": "It'll make a few people much richer and"
+    },
+    {
+      "start": 139520,
+      "end": 142160,
+      "text": "most people poorer. That's not AI's"
+    },
+    {
+      "start": 142160,
+      "end": 144879,
+      "text": "fault. That is the capitalist system."
+    },
+    {
+      "start": 144879,
+      "end": 147840,
+      "text": "Dr. Roman Yampolski also is saying"
+    },
+    {
+      "start": 147840,
+      "end": 149680,
+      "text": "something similar. He's saying that AI"
+    },
+    {
+      "start": 149680,
+      "end": 153599,
+      "text": "could leave 99% of workers jobless by"
+    },
+    {
+      "start": 153599,
+      "end": 156879,
+      "text": "2030. So this is Dr. Roman Yolski. So"
+    },
+    {
+      "start": 156879,
+      "end": 159120,
+      "text": "he's I guess part of the future of a"
+    },
+    {
+      "start": 159120,
+      "end": 161440,
+      "text": "life institute. Now, one interesting"
+    },
+    {
+      "start": 161440,
+      "end": 163360,
+      "text": "thing to note here is that a lot of"
+    },
+    {
+      "start": 163360,
+      "end": 164959,
+      "text": "these people, we've we've seen what"
+    },
+    {
+      "start": 164959,
+      "end": 166800,
+      "text": "they've been saying for a while, and a"
+    },
+    {
+      "start": 166800,
+      "end": 168239,
+      "text": "lot of them, even though originally"
+    },
+    {
+      "start": 168239,
+      "end": 169920,
+      "text": "maybe they were coming from different"
+    },
+    {
+      "start": 169920,
+      "end": 172000,
+      "text": "opinions where AI is going to take us, a"
+    },
+    {
+      "start": 172000,
+      "end": 173920,
+      "text": "lot of them are seemingly they're"
+    },
+    {
+      "start": 173920,
+      "end": 176160,
+      "text": "converging now more and more on this"
+    },
+    {
+      "start": 176160,
+      "end": 180239,
+      "text": "idea of AI taking jobs. Both Dr. Hinton"
+    },
+    {
+      "start": 180239,
+      "end": 182560,
+      "text": "and Dr. Yampolski. They've both talked"
+    },
+    {
+      "start": 182560,
+      "end": 185040,
+      "text": "about AI safety, the potential for some"
+    },
+    {
+      "start": 185040,
+      "end": 188000,
+      "text": "catastrophic existential risk as AI"
+    },
+    {
+      "start": 188000,
+      "end": 190879,
+      "text": "develops and perhaps gets outside of our"
+    },
+    {
+      "start": 190879,
+      "end": 193040,
+      "text": "ability to control it. But more"
+    },
+    {
+      "start": 193040,
+      "end": 194800,
+      "text": "recently, they're switching to talking"
+    },
+    {
+      "start": 194800,
+      "end": 196959,
+      "text": "about jobs specifically seemingly like"
+    },
+    {
+      "start": 196959,
+      "end": 198879,
+      "text": "just in the last couple of weeks. Dario"
+    },
+    {
+      "start": 198879,
+      "end": 202239,
+      "text": "Amade is also talking a lot about that."
+    },
+    {
+      "start": 202239,
+      "end": 205840,
+      "text": "and OpenAI has recently pivoted into"
+    },
+    {
+      "start": 205840,
+      "end": 207760,
+      "text": "thinking about jobs as well and and"
+    },
+    {
+      "start": 207760,
+      "end": 210400,
+      "text": "taking concrete steps to try to address"
+    },
+    {
+      "start": 210400,
+      "end": 211760,
+      "text": "the problem. We'll talk about that in"
+    },
+    {
+      "start": 211760,
+      "end": 213200,
+      "text": "just a second. We also recently heard"
+    },
+    {
+      "start": 213200,
+      "end": 216239,
+      "text": "from Mo Gadat who is an ex Google exec"
+    },
+    {
+      "start": 216239,
+      "end": 219040,
+      "text": "or as Rohan Paul puts it here, ex Google"
+    },
+    {
+      "start": 219040,
+      "end": 222239,
+      "text": "Xeek. Moadat, he really went all out on"
+    },
+    {
+      "start": 222239,
+      "end": 225120,
+      "text": "the X's there. I'm just kidding. Rohan"
+    },
+    {
+      "start": 225120,
+      "end": 227440,
+      "text": "is absolutely killing it. He's featured"
+    },
+    {
+      "start": 227440,
+      "end": 230159,
+      "text": "in a paper in the Economic Times"
+    },
+    {
+      "start": 230159,
+      "end": 232560,
+      "text": "newspaper. So congratulations to him."
+    },
+    {
+      "start": 232560,
+      "end": 235120,
+      "text": "He's posted a few absolutely incredible"
+    },
+    {
+      "start": 235120,
+      "end": 238239,
+      "text": "breakdowns of scientific papers. So just"
+    },
+    {
+      "start": 238239,
+      "end": 239840,
+      "text": "uh welld deserved. But he continues"
+    },
+    {
+      "start": 239840,
+      "end": 242239,
+      "text": "here. So he as an emot gives some"
+    },
+    {
+      "start": 242239,
+      "end": 244480,
+      "text": "examples. An app at his startup that was"
+    },
+    {
+      "start": 244480,
+      "end": 246400,
+      "text": "built by three people using AI tools."
+    },
+    {
+      "start": 246400,
+      "end": 250400,
+      "text": "Work he once says needed 350 developers."
+    },
+    {
+      "start": 250400,
+      "end": 251920,
+      "text": "And this is exactly what's happening in"
+    },
+    {
+      "start": 251920,
+      "end": 254319,
+      "text": "many places. Not complete replacement"
+    },
+    {
+      "start": 254319,
+      "end": 256639,
+      "text": "but reduction. Task AI now does very"
+    },
+    {
+      "start": 256639,
+      "end": 258880,
+      "text": "well like marketing copy, tax prep, data"
+    },
+    {
+      "start": 258880,
+      "end": 261040,
+      "text": "cleanup, coding, lesson plans. AI can"
+    },
+    {
+      "start": 261040,
+      "end": 264080,
+      "text": "now make a nonnative writers hit pro"
+    },
+    {
+      "start": 264080,
+      "end": 266639,
+      "text": "quality. And by the way, I mean that's"
+    },
+    {
+      "start": 266639,
+      "end": 269600,
+      "text": "anecdotal, yes, but me personally, I'm"
+    },
+    {
+      "start": 269600,
+      "end": 272400,
+      "text": "I'm hearing a lot more similar things"
+    },
+    {
+      "start": 272400,
+      "end": 274639,
+      "text": "being said. Me and Dylan on our Wes and"
+    },
+    {
+      "start": 274639,
+      "end": 276479,
+      "text": "Dylan podcast, we did an interview with"
+    },
+    {
+      "start": 276479,
+      "end": 279759,
+      "text": "Max Herton, who is quoteunquote vibe"
+    },
+    {
+      "start": 279759,
+      "end": 282639,
+      "text": "coding entire games from scratch using"
+    },
+    {
+      "start": 282639,
+      "end": 286320,
+      "text": "LMS like Grock, Gemini, GPT5, etc. And"
+    },
+    {
+      "start": 286320,
+      "end": 288320,
+      "text": "Claude Code, of course, I did not mean"
+    },
+    {
+      "start": 288320,
+      "end": 290320,
+      "text": "to leave that out. Claude shows up as"
+    },
+    {
+      "start": 290320,
+      "end": 291919,
+      "text": "one of the best models for coding"
+    },
+    {
+      "start": 291919,
+      "end": 294160,
+      "text": "consistently. But he's talked to a lot"
+    },
+    {
+      "start": 294160,
+      "end": 296880,
+      "text": "of people that have created these games"
+    },
+    {
+      "start": 296880,
+      "end": 299120,
+      "text": "in the past. And I'm not talking about"
+    },
+    {
+      "start": 299120,
+      "end": 301360,
+      "text": "the actual software engineers, the"
+    },
+    {
+      "start": 301360,
+      "end": 304080,
+      "text": "developers, but rather the people that"
+    },
+    {
+      "start": 304080,
+      "end": 305919,
+      "text": "design these games and and help build"
+    },
+    {
+      "start": 305919,
+      "end": 307919,
+      "text": "them, like the people that are, I guess,"
+    },
+    {
+      "start": 307919,
+      "end": 309280,
+      "text": "the producers or whatever you want to"
+    },
+    {
+      "start": 309280,
+      "end": 310880,
+      "text": "call it. People with experience, not"
+    },
+    {
+      "start": 310880,
+      "end": 312800,
+      "text": "necessarily the actual coding"
+    },
+    {
+      "start": 312800,
+      "end": 314560,
+      "text": "experience, but just how do you make a"
+    },
+    {
+      "start": 314560,
+      "end": 316560,
+      "text": "great game? When most people asked, you"
+    },
+    {
+      "start": 316560,
+      "end": 318560,
+      "text": "know, let's say 5 years ago, how many"
+    },
+    {
+      "start": 318560,
+      "end": 320160,
+      "text": "people how long would it take to create"
+    },
+    {
+      "start": 320160,
+      "end": 322880,
+      "text": "a game like this? This is what they"
+    },
+    {
+      "start": 322880,
+      "end": 325280,
+      "text": "said. sort of mentors uh that I've been"
+    },
+    {
+      "start": 325280,
+      "end": 326639,
+      "text": "showing the game and getting feedback"
+    },
+    {
+      "start": 326639,
+      "end": 330240,
+      "text": "from. Um, and one person estimated a"
+    },
+    {
+      "start": 330240,
+      "end": 332479,
+      "text": "team of 10 and 18 months or something"
+    },
+    {
+      "start": 332479,
+      "end": 335120,
+      "text": "like that, which I don't know if uh"
+    },
+    {
+      "start": 335120,
+      "end": 335680,
+      "text": "that's right."
+    },
+    {
+      "start": 335680,
+      "end": 337199,
+      "text": "I almost did a spit take when he said"
+    },
+    {
+      "start": 337199,
+      "end": 338800,
+      "text": "it. You can probably tell by my face."
+    },
+    {
+      "start": 338800,
+      "end": 340880,
+      "text": "That's the exact moment when he says"
+    },
+    {
+      "start": 340880,
+      "end": 343120,
+      "text": "those numbers. I was about to just spit"
+    },
+    {
+      "start": 343120,
+      "end": 344639,
+      "text": "my drink out. By the way, that was just"
+    },
+    {
+      "start": 344639,
+      "end": 347039,
+      "text": "ice coffee. Don't get any ideas. But the"
+    },
+    {
+      "start": 347039,
+      "end": 349199,
+      "text": "point being is that he was able to"
+    },
+    {
+      "start": 349199,
+      "end": 351120,
+      "text": "create this game in three to four"
+    },
+    {
+      "start": 351120,
+      "end": 355199,
+      "text": "months. again one person total cost was"
+    },
+    {
+      "start": 355199,
+      "end": 357360,
+      "text": "it was thousands of dollars in you know"
+    },
+    {
+      "start": 357360,
+      "end": 359680,
+      "text": "AI API cost so as you're coding you're"
+    },
+    {
+      "start": 359680,
+      "end": 361680,
+      "text": "spending some money to produce the code"
+    },
+    {
+      "start": 361680,
+      "end": 364560,
+      "text": "by the LMS well that's Gemini claude"
+    },
+    {
+      "start": 364560,
+      "end": 368160,
+      "text": "Grock or GPT5 there is that cost but"
+    },
+    {
+      "start": 368160,
+      "end": 370639,
+      "text": "we're talking thousands of dollars in"
+    },
+    {
+      "start": 370639,
+      "end": 372160,
+      "text": "the interview we actually go through and"
+    },
+    {
+      "start": 372160,
+      "end": 374880,
+      "text": "we we find the exact amount but that's a"
+    },
+    {
+      "start": 374880,
+      "end": 376960,
+      "text": "huge drop in the number of people that"
+    },
+    {
+      "start": 376960,
+      "end": 378720,
+      "text": "are needed to build a game like that"
+    },
+    {
+      "start": 378720,
+      "end": 381039,
+      "text": "it's a pretty sizable chunk taken out of"
+    },
+    {
+      "start": 381039,
+      "end": 383039,
+      "text": "how long something like that takes to"
+    },
+    {
+      "start": 383039,
+      "end": 385840,
+      "text": "build. And as I was thinking about it"
+    },
+    {
+      "start": 385840,
+      "end": 387280,
+      "text": "during the interview, I I started kind"
+    },
+    {
+      "start": 387280,
+      "end": 388800,
+      "text": "of thinking about I was like, \"Yeah, so"
+    },
+    {
+      "start": 388800,
+      "end": 391360,
+      "text": "you need coders, you need people that"
+    },
+    {
+      "start": 391360,
+      "end": 393199,
+      "text": "are designing the assets, you need the"
+    },
+    {
+      "start": 393199,
+      "end": 395120,
+      "text": "people that are making the music.\" This"
+    },
+    {
+      "start": 395120,
+      "end": 397759,
+      "text": "game involved speech and translation."
+    },
+    {
+      "start": 397759,
+      "end": 400160,
+      "text": "It's kind of a language learning game."
+    },
+    {
+      "start": 400160,
+      "end": 401440,
+      "text": "So, you know, in that sense, you would"
+    },
+    {
+      "start": 401440,
+      "end": 403360,
+      "text": "need like a translator. You need a"
+    },
+    {
+      "start": 403360,
+      "end": 406240,
+      "text": "native speaker to voice certain things"
+    },
+    {
+      "start": 406240,
+      "end": 408479,
+      "text": "for you. I mean you can see you need"
+    },
+    {
+      "start": 408479,
+      "end": 410319,
+      "text": "quite a team to develop something like"
+    },
+    {
+      "start": 410319,
+      "end": 412240,
+      "text": "this. Now you need one person a few"
+    },
+    {
+      "start": 412240,
+      "end": 415120,
+      "text": "months uh let's call it it was under"
+    },
+    {
+      "start": 415120,
+      "end": 417919,
+      "text": "10,000 total API costs that that were"
+    },
+    {
+      "start": 417919,
+      "end": 420160,
+      "text": "needed. If I recall correctly the"
+    },
+    {
+      "start": 420160,
+      "end": 422000,
+      "text": "biggest stumbling block that he faced"
+    },
+    {
+      "start": 422000,
+      "end": 424880,
+      "text": "was creating um animation of sprites. So"
+    },
+    {
+      "start": 424880,
+      "end": 426960,
+      "text": "if you have a moving character that kind"
+    },
+    {
+      "start": 426960,
+      "end": 428880,
+      "text": "of has an idle animation or an attacking"
+    },
+    {
+      "start": 428880,
+      "end": 431120,
+      "text": "animation creating those we we don't"
+    },
+    {
+      "start": 431120,
+      "end": 434880,
+      "text": "have AI that easily does it with custom"
+    },
+    {
+      "start": 434880,
+      "end": 437360,
+      "text": "graphics quite yet. Although I fully"
+    },
+    {
+      "start": 437360,
+      "end": 438479,
+      "text": "imagine that we're going to have that"
+    },
+    {
+      "start": 438479,
+      "end": 440560,
+      "text": "very soon. So that's one area where he"
+    },
+    {
+      "start": 440560,
+      "end": 443360,
+      "text": "had to go and have a human being kind of"
+    },
+    {
+      "start": 443360,
+      "end": 445360,
+      "text": "create those animation tiles or whatever"
+    },
+    {
+      "start": 445360,
+      "end": 446800,
+      "text": "you call them, but basically those uh"
+    },
+    {
+      "start": 446800,
+      "end": 449280,
+      "text": "recurring animations for idle and attack"
+    },
+    {
+      "start": 449280,
+      "end": 452160,
+      "text": "animation, whatever. But that's just one"
+    },
+    {
+      "start": 452160,
+      "end": 454240,
+      "text": "example of where you can see there's a"
+    },
+    {
+      "start": 454240,
+      "end": 457120,
+      "text": "huge workforce reduction. Now obviously"
+    },
+    {
+      "start": 457120,
+      "end": 459520,
+      "text": "vibe coding all that it hasn't fully"
+    },
+    {
+      "start": 459520,
+      "end": 461280,
+      "text": "replaced real engineers, right? It's not"
+    },
+    {
+      "start": 461280,
+      "end": 462720,
+      "text": "at a point where it can create"
+    },
+    {
+      "start": 462720,
+      "end": 464800,
+      "text": "incredible stuff, but the technology is"
+    },
+    {
+      "start": 464800,
+      "end": 466720,
+      "text": "improving. This is the worst that it"
+    },
+    {
+      "start": 466720,
+      "end": 468639,
+      "text": "will ever be. And the improvement, you"
+    },
+    {
+      "start": 468639,
+      "end": 470160,
+      "text": "know, I've been tracking for a few years"
+    },
+    {
+      "start": 470160,
+      "end": 472560,
+      "text": "now, just testing every new model that"
+    },
+    {
+      "start": 472560,
+      "end": 475199,
+      "text": "comes out. The improvements are good."
+    },
+    {
+      "start": 475199,
+      "end": 477039,
+      "text": "They're consistent. I don't feel like"
+    },
+    {
+      "start": 477039,
+      "end": 479199,
+      "text": "we're running into a wall. No, it's not"
+    },
+    {
+      "start": 479199,
+      "end": 481120,
+      "text": "this exponential thing where it just"
+    },
+    {
+      "start": 481120,
+      "end": 483440,
+      "text": "becomes the superhuman coder and"
+    },
+    {
+      "start": 483440,
+      "end": 485199,
+      "text": "everybody else is obsolete, but the"
+    },
+    {
+      "start": 485199,
+      "end": 487759,
+      "text": "progress is undeniable. Fast forward"
+    },
+    {
+      "start": 487759,
+      "end": 490160,
+      "text": "that a year or two or five, right? So by"
+    },
+    {
+      "start": 490160,
+      "end": 492479,
+      "text": "2030, right? If somebody's designing a"
+    },
+    {
+      "start": 492479,
+      "end": 494800,
+      "text": "game like this by themselves in 4 months"
+    },
+    {
+      "start": 494800,
+      "end": 498240,
+      "text": "in 2025, what kind of a game will they"
+    },
+    {
+      "start": 498240,
+      "end": 501120,
+      "text": "be able to create by 2030? Is it"
+    },
+    {
+      "start": 501120,
+      "end": 503039,
+      "text": "possible that people will create AAA"
+    },
+    {
+      "start": 503039,
+      "end": 505280,
+      "text": "games? Something like GTA 5 by that"
+    },
+    {
+      "start": 505280,
+      "end": 507120,
+      "text": "point? Maybe that's too soon, but I mean"
+    },
+    {
+      "start": 507120,
+      "end": 508879,
+      "text": "there's a definite momentum forward"
+    },
+    {
+      "start": 508879,
+      "end": 510319,
+      "text": "progress. Now, you might be saying, \"But"
+    },
+    {
+      "start": 510319,
+      "end": 512640,
+      "text": "what about that WF thing? It had charts"
+    },
+    {
+      "start": 512640,
+      "end": 514800,
+      "text": "and everything. That must be good. They"
+    },
+    {
+      "start": 514800,
+      "end": 516800,
+      "text": "said it was growing, right?\" So here's"
+    },
+    {
+      "start": 516800,
+      "end": 518399,
+      "text": "that chart here on the left side in"
+    },
+    {
+      "start": 518399,
+      "end": 520320,
+      "text": "purple. we have the jobs that are"
+    },
+    {
+      "start": 520320,
+      "end": 522800,
+      "text": "destroyed. So fully sort of displaced"
+    },
+    {
+      "start": 522800,
+      "end": 526080,
+      "text": "jobs. The blue is stable jobs. And on"
+    },
+    {
+      "start": 526080,
+      "end": 528640,
+      "text": "the right we have new jobs. So there's a"
+    },
+    {
+      "start": 528640,
+      "end": 530399,
+      "text": "lot of right. So we're betting on all"
+    },
+    {
+      "start": 530399,
+      "end": 532560,
+      "text": "these new jobs to be created in the next"
+    },
+    {
+      "start": 532560,
+      "end": 535360,
+      "text": "5 years. 170 million jobs are projected"
+    },
+    {
+      "start": 535360,
+      "end": 538240,
+      "text": "to be created and 92 million jobs to be"
+    },
+    {
+      "start": 538240,
+      "end": 540480,
+      "text": "displaced. And that's a net employment"
+    },
+    {
+      "start": 540480,
+      "end": 543600,
+      "text": "increase of 7%. Right? So the total"
+    },
+    {
+      "start": 543600,
+      "end": 545760,
+      "text": "number of jobs is going to go up. So"
+    },
+    {
+      "start": 545760,
+      "end": 547600,
+      "text": "that sounds really good. But what are"
+    },
+    {
+      "start": 547600,
+      "end": 549680,
+      "text": "these new jobs created? What are these"
+    },
+    {
+      "start": 549680,
+      "end": 552959,
+      "text": "growing jobs that we're relying on to"
+    },
+    {
+      "start": 552959,
+      "end": 555279,
+      "text": "create a 7% job increase? And what are"
+    },
+    {
+      "start": 555279,
+      "end": 556800,
+      "text": "the jobs that are declining that are"
+    },
+    {
+      "start": 556800,
+      "end": 559839,
+      "text": "going away? Well, so top fastest growing"
+    },
+    {
+      "start": 559839,
+      "end": 562399,
+      "text": "jobs. So the top one is big data"
+    },
+    {
+      "start": 562399,
+      "end": 564959,
+      "text": "specialist growing at over 100%. The"
+    },
+    {
+      "start": 564959,
+      "end": 567839,
+      "text": "next one is fintech engineers, right?"
+    },
+    {
+      "start": 567839,
+      "end": 570240,
+      "text": "Almost 100% growth. AI and machine"
+    },
+    {
+      "start": 570240,
+      "end": 572880,
+      "text": "learning specialists over 80%. Then we"
+    },
+    {
+      "start": 572880,
+      "end": 574000,
+      "text": "have software and application"
+    },
+    {
+      "start": 574000,
+      "end": 576000,
+      "text": "developers, security management"
+    },
+    {
+      "start": 576000,
+      "end": 578399,
+      "text": "specialists, data warehouse specialists,"
+    },
+    {
+      "start": 578399,
+      "end": 581519,
+      "text": "autonomous vehicles, UI and UX, etc.,"
+    },
+    {
+      "start": 581519,
+      "end": 583519,
+      "text": "etc., etc. You can see a pattern there."
+    },
+    {
+      "start": 583519,
+      "end": 587120,
+      "text": "They're AI jobs, the AI machine related"
+    },
+    {
+      "start": 587120,
+      "end": 590480,
+      "text": "data, autonomous this and that jobs. On"
+    },
+    {
+      "start": 590480,
+      "end": 593760,
+      "text": "the other side, we have these fastest"
+    },
+    {
+      "start": 593760,
+      "end": 596320,
+      "text": "declining jobs. Postal service clerks,"
+    },
+    {
+      "start": 596320,
+      "end": 598720,
+      "text": "bank teller clerks, data entry clerks,"
+    },
+    {
+      "start": 598720,
+      "end": 601839,
+      "text": "cashier and ticket clerks, admin clerk"
+    },
+    {
+      "start": 601839,
+      "end": 604320,
+      "text": "clerk, graphic designers, examiners,"
+    },
+    {
+      "start": 604320,
+      "end": 606480,
+      "text": "investigators, legal official, legal"
+    },
+    {
+      "start": 606480,
+      "end": 608640,
+      "text": "secretaries, and telemarketers. A lot of"
+    },
+    {
+      "start": 608640,
+      "end": 611440,
+      "text": "those strike me as potentially"
+    },
+    {
+      "start": 611440,
+      "end": 614560,
+      "text": "entry-level jobs, specifically in the"
+    },
+    {
+      "start": 614560,
+      "end": 616720,
+      "text": "white collar type of work. These are"
+    },
+    {
+      "start": 616720,
+      "end": 619360,
+      "text": "entrylevel jobs. Being a bank teller was"
+    },
+    {
+      "start": 619360,
+      "end": 620959,
+      "text": "one of my first jobs, I think. I mean,"
+    },
+    {
+      "start": 620959,
+      "end": 623040,
+      "text": "there's literally three or four jobs in"
+    },
+    {
+      "start": 623040,
+      "end": 625200,
+      "text": "here that I did in my early 20s when I"
+    },
+    {
+      "start": 625200,
+      "end": 627040,
+      "text": "was getting started. So, this is kind of"
+    },
+    {
+      "start": 627040,
+      "end": 629120,
+      "text": "what I needed to pick up some skills,"
+    },
+    {
+      "start": 629120,
+      "end": 630800,
+      "text": "build a resume. All of that was a"
+    },
+    {
+      "start": 630800,
+      "end": 632720,
+      "text": "complete waste of time cuz I do this"
+    },
+    {
+      "start": 632720,
+      "end": 634800,
+      "text": "now. So, looking at that data, you know,"
+    },
+    {
+      "start": 634800,
+      "end": 637839,
+      "text": "when Dario Amade says AI2 got half of"
+    },
+    {
+      "start": 637839,
+      "end": 641760,
+      "text": "entrylevel jobs by 2030. I think those"
+    },
+    {
+      "start": 641760,
+      "end": 643680,
+      "text": "statistics there that we just saw, I"
+    },
+    {
+      "start": 643680,
+      "end": 645839,
+      "text": "feel like it kind of reaffirms that. It"
+    },
+    {
+      "start": 645839,
+      "end": 647839,
+      "text": "supports that, right? We can squabble"
+    },
+    {
+      "start": 647839,
+      "end": 650880,
+      "text": "over the exact numbers, but I mean"
+    },
+    {
+      "start": 650880,
+      "end": 653040,
+      "text": "directionally those two messages are"
+    },
+    {
+      "start": 653040,
+      "end": 654959,
+      "text": "correct. Like here's all the entry-level"
+    },
+    {
+      "start": 654959,
+      "end": 657519,
+      "text": "jobs that are declining year-over-year"
+    },
+    {
+      "start": 657519,
+      "end": 660560,
+      "text": "by 20% or 10%. And what what he's"
+    },
+    {
+      "start": 660560,
+      "end": 662720,
+      "text": "saying, these are not polar opposites."
+    },
+    {
+      "start": 662720,
+      "end": 665200,
+      "text": "They're very similar. It's hard to"
+    },
+    {
+      "start": 665200,
+      "end": 666720,
+      "text": "project exactly what happens in the"
+    },
+    {
+      "start": 666720,
+      "end": 668000,
+      "text": "future, but they're talking about the"
+    },
+    {
+      "start": 668000,
+      "end": 669440,
+      "text": "same future. The thing that's supposed"
+    },
+    {
+      "start": 669440,
+      "end": 672640,
+      "text": "to save us and in fact kind of push us"
+    },
+    {
+      "start": 672640,
+      "end": 673920,
+      "text": "in the opposite direction to where"
+    },
+    {
+      "start": 673920,
+      "end": 677279,
+      "text": "there's actually job growth. In fact, 7%"
+    },
+    {
+      "start": 677279,
+      "end": 680399,
+      "text": "increase over where we are today. 7% net"
+    },
+    {
+      "start": 680399,
+      "end": 683360,
+      "text": "job increase, right? Is things that have"
+    },
+    {
+      "start": 683360,
+      "end": 686000,
+      "text": "to do with AI mostly like right so it's"
+    },
+    {
+      "start": 686000,
+      "end": 688800,
+      "text": "scientists, engineers, pretty much every"
+    },
+    {
+      "start": 688800,
+      "end": 690640,
+      "text": "one of those things is like a high-end"
+    },
+    {
+      "start": 690640,
+      "end": 692640,
+      "text": "tech job I think is fair to say. Here's"
+    },
+    {
+      "start": 692640,
+      "end": 695839,
+      "text": "Ethan Malik, author, professor in the AI"
+    },
+    {
+      "start": 695839,
+      "end": 697760,
+      "text": "machine learning space. One useful thing"
+    },
+    {
+      "start": 697760,
+      "end": 699680,
+      "text": "is his newsletter. He tends to be pretty"
+    },
+    {
+      "start": 699680,
+      "end": 701279,
+      "text": "good at cutting through the noise and uh"
+    },
+    {
+      "start": 701279,
+      "end": 702880,
+      "text": "focusing on the things where you need a"
+    },
+    {
+      "start": 702880,
+      "end": 704240,
+      "text": "little bit of like a nuance and"
+    },
+    {
+      "start": 704240,
+      "end": 705839,
+      "text": "understanding to to get to the meaning"
+    },
+    {
+      "start": 705839,
+      "end": 707920,
+      "text": "of it all. He's saying there continue to"
+    },
+    {
+      "start": 707920,
+      "end": 710480,
+      "text": "be hints of unexpected decreases in"
+    },
+    {
+      "start": 710480,
+      "end": 713040,
+      "text": "employment and increases in productivity"
+    },
+    {
+      "start": 713040,
+      "end": 715440,
+      "text": "in the macro data. Far too early to draw"
+    },
+    {
+      "start": 715440,
+      "end": 717360,
+      "text": "firm conclusions that this is in some"
+    },
+    {
+      "start": 717360,
+      "end": 720560,
+      "text": "part due to AI that this is in some part"
+    },
+    {
+      "start": 720560,
+      "end": 722079,
+      "text": "due to AI. Right? So it's too early to"
+    },
+    {
+      "start": 722079,
+      "end": 724320,
+      "text": "tell but or to be clear so I'm not"
+    },
+    {
+      "start": 724320,
+      "end": 725519,
+      "text": "changing what what he's saying. So it's"
+    },
+    {
+      "start": 725519,
+      "end": 727519,
+      "text": "too early to draw firm conclusions like"
+    },
+    {
+      "start": 727519,
+      "end": 730639,
+      "text": "we can't say for certain but maybe right"
+    },
+    {
+      "start": 730639,
+      "end": 731920,
+      "text": "it seems like there's some data"
+    },
+    {
+      "start": 731920,
+      "end": 733440,
+      "text": "supporting this but he's saying though"
+    },
+    {
+      "start": 733440,
+      "end": 735600,
+      "text": "it is the pattern you might expect. So"
+    },
+    {
+      "start": 735600,
+      "end": 738160,
+      "text": "in other words if this was due to AI the"
+    },
+    {
+      "start": 738160,
+      "end": 740399,
+      "text": "data that we're seeing would support it."
+    },
+    {
+      "start": 740399,
+      "end": 742480,
+      "text": "So two big revisions in the jobs numbers"
+    },
+    {
+      "start": 742480,
+      "end": 743920,
+      "text": "have two important implications. The"
+    },
+    {
+      "start": 743920,
+      "end": 745680,
+      "text": "economy is in the midst of a bigger"
+    },
+    {
+      "start": 745680,
+      "end": 748240,
+      "text": "disruption than most people realized. So"
+    },
+    {
+      "start": 748240,
+      "end": 750720,
+      "text": "again the economy is in a bigger"
+    },
+    {
+      "start": 750720,
+      "end": 753519,
+      "text": "disruption than we realized than we were"
+    },
+    {
+      "start": 753519,
+      "end": 755200,
+      "text": "aware of. there's something happening"
+    },
+    {
+      "start": 755200,
+      "end": 757440,
+      "text": "that people aren't quite observing in it"
+    },
+    {
+      "start": 757440,
+      "end": 759200,
+      "text": "to its full effect. Productivity is"
+    },
+    {
+      "start": 759200,
+      "end": 761440,
+      "text": "growing faster than most people thought."
+    },
+    {
+      "start": 761440,
+      "end": 762320,
+      "text": "Right? So this is important to"
+    },
+    {
+      "start": 762320,
+      "end": 763839,
+      "text": "understand if you know that's the"
+    },
+    {
+      "start": 763839,
+      "end": 766399,
+      "text": "promise of AI of automation of these"
+    },
+    {
+      "start": 766399,
+      "end": 769279,
+      "text": "tools we're able to get done more with"
+    },
+    {
+      "start": 769279,
+      "end": 772240,
+      "text": "less and productivity is equals to GDP"
+    },
+    {
+      "start": 772240,
+      "end": 773920,
+      "text": "the gross domestic product kind of the"
+    },
+    {
+      "start": 773920,
+      "end": 776079,
+      "text": "total output of a country divided by"
+    },
+    {
+      "start": 776079,
+      "end": 778320,
+      "text": "hours worked. A smaller denominator"
+    },
+    {
+      "start": 778320,
+      "end": 780959,
+      "text": "means productivity growth maybe 0.5%"
+    },
+    {
+      "start": 780959,
+      "end": 782880,
+      "text": "faster than previously estimated. Now,"
+    },
+    {
+      "start": 782880,
+      "end": 785120,
+      "text": "everybody in the replies are fighting on"
+    },
+    {
+      "start": 785120,
+      "end": 786560,
+      "text": "whether this is true or not. Everybody"
+    },
+    {
+      "start": 786560,
+      "end": 788000,
+      "text": "has their own opinions. I'm I'm not"
+    },
+    {
+      "start": 788000,
+      "end": 791040,
+      "text": "going to go down that path. Economics"
+    },
+    {
+      "start": 791040,
+      "end": 792959,
+      "text": "just seems like one of those subjects"
+    },
+    {
+      "start": 792959,
+      "end": 795440,
+      "text": "that gets everybody's blood boiling,"
+    },
+    {
+      "start": 795440,
+      "end": 797920,
+      "text": "which makes perfect sense. And just one"
+    },
+    {
+      "start": 797920,
+      "end": 800720,
+      "text": "last data point. So, this is a Stanford"
+    },
+    {
+      "start": 800720,
+      "end": 803519,
+      "text": "study called Canaries in the Coal Mine."
+    },
+    {
+      "start": 803519,
+      "end": 805360,
+      "text": "Six facts about the recent employment"
+    },
+    {
+      "start": 805360,
+      "end": 808240,
+      "text": "effects of artificial intelligence. So,"
+    },
+    {
+      "start": 808240,
+      "end": 810079,
+      "text": "I apologize. I didn't have a chance to"
+    },
+    {
+      "start": 810079,
+      "end": 812720,
+      "text": "peruse this quite yet. So I will commit"
+    },
+    {
+      "start": 812720,
+      "end": 815360,
+      "text": "the grave sin of getting a Chad GPT"
+    },
+    {
+      "start": 815360,
+      "end": 817680,
+      "text": "summary. I do use this to get summaries"
+    },
+    {
+      "start": 817680,
+      "end": 821200,
+      "text": "of various papers. I use a GPT5 pro. If"
+    },
+    {
+      "start": 821200,
+      "end": 822560,
+      "text": "you have the pro subscription, you"
+    },
+    {
+      "start": 822560,
+      "end": 825200,
+      "text": "specifically select pro. That tends to"
+    },
+    {
+      "start": 825200,
+      "end": 827600,
+      "text": "lead to especially for like deep"
+    },
+    {
+      "start": 827600,
+      "end": 829040,
+      "text": "research like this tends to lead to"
+    },
+    {
+      "start": 829040,
+      "end": 830639,
+      "text": "better answers. Not necessarily."
+    },
+    {
+      "start": 830639,
+      "end": 832480,
+      "text": "Sometimes you can just leave it on auto."
+    },
+    {
+      "start": 832480,
+      "end": 834639,
+      "text": "But you know when I I need something"
+    },
+    {
+      "start": 834639,
+      "end": 836399,
+      "text": "done well, I usually make sure it's on"
+    },
+    {
+      "start": 836399,
+      "end": 838399,
+      "text": "pro. It will take some time to do it."
+    },
+    {
+      "start": 838399,
+      "end": 840399,
+      "text": "Not but here are the most important"
+    },
+    {
+      "start": 840399,
+      "end": 842160,
+      "text": "bullet points that it pulled out of the"
+    },
+    {
+      "start": 842160,
+      "end": 844000,
+      "text": "paper. I didn't specifically ask about"
+    },
+    {
+      "start": 844000,
+      "end": 845440,
+      "text": "anything specific in the paper. just"
+    },
+    {
+      "start": 845440,
+      "end": 847199,
+      "text": "said what are the main sort of findings"
+    },
+    {
+      "start": 847199,
+      "end": 849279,
+      "text": "in this paper was saying that early"
+    },
+    {
+      "start": 849279,
+      "end": 852880,
+      "text": "career workers 22 to 25 in the most AI"
+    },
+    {
+      "start": 852880,
+      "end": 856399,
+      "text": "exposed jobs right so not gardeners or"
+    },
+    {
+      "start": 856399,
+      "end": 858639,
+      "text": "landscaping people or people in"
+    },
+    {
+      "start": 858639,
+      "end": 860320,
+      "text": "construction right so it's software"
+    },
+    {
+      "start": 860320,
+      "end": 862079,
+      "text": "development customer service all those"
+    },
+    {
+      "start": 862079,
+      "end": 863839,
+      "text": "other jobs clerks and all that stuff"
+    },
+    {
+      "start": 863839,
+      "end": 865920,
+      "text": "that we that we saw being disrupted"
+    },
+    {
+      "start": 865920,
+      "end": 868800,
+      "text": "those people saw large employment"
+    },
+    {
+      "start": 868800,
+      "end": 871519,
+      "text": "declines about a 13% relative drop"
+    },
+    {
+      "start": 871519,
+      "end": 874639,
+      "text": "versus least exposed peers and this is"
+    },
+    {
+      "start": 874639,
+      "end": 876800,
+      "text": "important weren't older cohorts in the"
+    },
+    {
+      "start": 876800,
+      "end": 878880,
+      "text": "same jobs were stable slashgrowing."
+    },
+    {
+      "start": 878880,
+      "end": 880480,
+      "text": "Right? So when we're looking at those"
+    },
+    {
+      "start": 880480,
+      "end": 883680,
+      "text": "same people from a while ago, we same we"
+    },
+    {
+      "start": 883680,
+      "end": 885279,
+      "text": "look at those sort of clusters of people"
+    },
+    {
+      "start": 885279,
+      "end": 887279,
+      "text": "those same jobs in that same age group"
+    },
+    {
+      "start": 887279,
+      "end": 890800,
+      "text": "from the past those jobs were stable and"
+    },
+    {
+      "start": 890800,
+      "end": 893279,
+      "text": "or growing. Right? So this is a very"
+    },
+    {
+      "start": 893279,
+      "end": 895600,
+      "text": "recent scenario and it's seems like a"
+    },
+    {
+      "start": 895600,
+      "end": 897920,
+      "text": "pretty big reversal, right? So, it's out"
+    },
+    {
+      "start": 897920,
+      "end": 899680,
+      "text": "of nowhere, you know, you can have jobs"
+    },
+    {
+      "start": 899680,
+      "end": 902399,
+      "text": "growing and then now it's declining 13%"
+    },
+    {
+      "start": 902399,
+      "end": 903760,
+      "text": "year-over-year. Or I guess they're"
+    },
+    {
+      "start": 903760,
+      "end": 906959,
+      "text": "saying a 13% relative drop versus least"
+    },
+    {
+      "start": 906959,
+      "end": 908880,
+      "text": "exposed peers. Now, you might be saying,"
+    },
+    {
+      "start": 908880,
+      "end": 910639,
+      "text": "\"Yeah, but like what if it's just a bad"
+    },
+    {
+      "start": 910639,
+      "end": 912320,
+      "text": "economy?\" They're saying overall"
+    },
+    {
+      "start": 912320,
+      "end": 914720,
+      "text": "employment kept rising, right? So, this"
+    },
+    {
+      "start": 914720,
+      "end": 916800,
+      "text": "isn't happening across the board. Again,"
+    },
+    {
+      "start": 916800,
+      "end": 918880,
+      "text": "this is a very specific segment that"
+    },
+    {
+      "start": 918880,
+      "end": 920800,
+      "text": "we're looking at. Overall employment is"
+    },
+    {
+      "start": 920800,
+      "end": 923440,
+      "text": "going up to the moon, right? It's just"
+    },
+    {
+      "start": 923440,
+      "end": 926720,
+      "text": "those early young workers entrylevel"
+    },
+    {
+      "start": 926720,
+      "end": 929199,
+      "text": "jobs in those specific industries that"
+    },
+    {
+      "start": 929199,
+      "end": 930720,
+      "text": "are"
+    },
+    {
+      "start": 930720,
+      "end": 933440,
+      "text": "recently and sharply declining declines"
+    },
+    {
+      "start": 933440,
+      "end": 935760,
+      "text": "concentrate where AI is used to automate"
+    },
+    {
+      "start": 935760,
+      "end": 938000,
+      "text": "tasks. Occupations where AI is more"
+    },
+    {
+      "start": 938000,
+      "end": 941040,
+      "text": "augmentative show no similar entrylevel"
+    },
+    {
+      "start": 941040,
+      "end": 943199,
+      "text": "decline and sometimes growth. Now we've"
+    },
+    {
+      "start": 943199,
+      "end": 945440,
+      "text": "covered this before. So Anthropic, the"
+    },
+    {
+      "start": 945440,
+      "end": 947839,
+      "text": "Frontier AI lab, they have a anthropic"
+    },
+    {
+      "start": 947839,
+      "end": 949680,
+      "text": "economic index, right? They're trying to"
+    },
+    {
+      "start": 949680,
+      "end": 951839,
+      "text": "understand AI's effect on the economy"
+    },
+    {
+      "start": 951839,
+      "end": 953759,
+      "text": "over time. The reason I bring that up is"
+    },
+    {
+      "start": 953759,
+      "end": 956320,
+      "text": "this. The paper out of Stanford does"
+    },
+    {
+      "start": 956320,
+      "end": 958480,
+      "text": "rely on that for for a lot of its data."
+    },
+    {
+      "start": 958480,
+      "end": 959920,
+      "text": "That doesn't necessarily mean anything."
+    },
+    {
+      "start": 959920,
+      "end": 961440,
+      "text": "I just thought that was interesting."
+    },
+    {
+      "start": 961440,
+      "end": 962880,
+      "text": "Now, I think we're going to have to dive"
+    },
+    {
+      "start": 962880,
+      "end": 964800,
+      "text": "deeper into this paper because it's very"
+    },
+    {
+      "start": 964800,
+      "end": 967839,
+      "text": "interesting. But at just a glance, it"
+    },
+    {
+      "start": 967839,
+      "end": 970000,
+      "text": "seems like it's pretty obvious that, you"
+    },
+    {
+      "start": 970000,
+      "end": 972639,
+      "text": "know, this red line is somewhere at the"
+    },
+    {
+      "start": 972639,
+      "end": 975279,
+      "text": "end of 2022, beginning of 2023, let's"
+    },
+    {
+      "start": 975279,
+      "end": 977680,
+      "text": "say maybe right before 2023 started. And"
+    },
+    {
+      "start": 977680,
+      "end": 980560,
+      "text": "we can see that the career people"
+    },
+    {
+      "start": 980560,
+      "end": 983279,
+      "text": "starting in their career, ages 22 to 25,"
+    },
+    {
+      "start": 983279,
+      "end": 985440,
+      "text": "as you can see here, they're seeing a"
+    },
+    {
+      "start": 985440,
+      "end": 987680,
+      "text": "drop off, pretty significant ones,"
+    },
+    {
+      "start": 987680,
+      "end": 990160,
+      "text": "right? In 2025, it's at the lowest"
+    },
+    {
+      "start": 990160,
+      "end": 993360,
+      "text": "point. It's noticeable in the next age"
+    },
+    {
+      "start": 993360,
+      "end": 996399,
+      "text": "group, 31 to 34, but it's not as"
+    },
+    {
+      "start": 996399,
+      "end": 998800,
+      "text": "pronounced. And it seems pretty level by"
+    },
+    {
+      "start": 998800,
+      "end": 1001360,
+      "text": "the time you're in your 40s. So, all the"
+    },
+    {
+      "start": 1001360,
+      "end": 1002959,
+      "text": "people that are already established, all"
+    },
+    {
+      "start": 1002959,
+      "end": 1004959,
+      "text": "the old guys, they're all like, \"Well,"
+    },
+    {
+      "start": 1004959,
+      "end": 1006800,
+      "text": "it's cool. We're good. At least they're"
+    },
+    {
+      "start": 1006800,
+      "end": 1008800,
+      "text": "not getting pushed out by this"
+    },
+    {
+      "start": 1008800,
+      "end": 1010959,
+      "text": "automation.\" But the younger you are,"
+    },
+    {
+      "start": 1010959,
+      "end": 1014000,
+      "text": "those initial formative years in your"
+    },
+    {
+      "start": 1014000,
+      "end": 1016000,
+      "text": "career, if you will, there does seem to"
+    },
+    {
+      "start": 1016000,
+      "end": 1018000,
+      "text": "be a very strong effect, or at least"
+    },
+    {
+      "start": 1018000,
+      "end": 1020079,
+      "text": "it's easily noticeable. you see that"
+    },
+    {
+      "start": 1020079,
+      "end": 1021839,
+      "text": "there's something happening and it"
+    },
+    {
+      "start": 1021839,
+      "end": 1023680,
+      "text": "wasn't happening for a long time. This"
+    },
+    {
+      "start": 1023680,
+      "end": 1026240,
+      "text": "is just since let's call it 2023, the"
+    },
+    {
+      "start": 1026240,
+      "end": 1029038,
+      "text": "beginning or just before 2023. And the"
+    },
+    {
+      "start": 1029039,
+      "end": 1030558,
+      "text": "other important thing to understand is"
+    },
+    {
+      "start": 1030559,
+      "end": 1034000,
+      "text": "that this is a robust trend meaning that"
+    },
+    {
+      "start": 1034000,
+      "end": 1036720,
+      "text": "there's they haven't found some other"
+    },
+    {
+      "start": 1036720,
+      "end": 1038319,
+      "text": "thing that easily explains it. Right? So"
+    },
+    {
+      "start": 1038319,
+      "end": 1040959,
+      "text": "this is not driven by tech firms. This"
+    },
+    {
+      "start": 1040959,
+      "end": 1042959,
+      "text": "isn't just happening in the Bay Area and"
+    },
+    {
+      "start": 1042959,
+      "end": 1045360,
+      "text": "not anywhere else in the world. It's not"
+    },
+    {
+      "start": 1045360,
+      "end": 1047360,
+      "text": "concentrated for remote workers. It's"
+    },
+    {
+      "start": 1047360,
+      "end": 1050240,
+      "text": "across the board or pre-AI periods."
+    },
+    {
+      "start": 1050240,
+      "end": 1051679,
+      "text": "There could have been other things that"
+    },
+    {
+      "start": 1051679,
+      "end": 1053919,
+      "text": "happened before, you know, in 2020, what"
+    },
+    {
+      "start": 1053919,
+      "end": 1055120,
+      "text": "happened then that could have explained"
+    },
+    {
+      "start": 1055120,
+      "end": 1058160,
+      "text": "some of this. It's not that. This is a"
+    },
+    {
+      "start": 1058160,
+      "end": 1061280,
+      "text": "pattern that intensifies starting late"
+    },
+    {
+      "start": 1061280,
+      "end": 1065200,
+      "text": "2022. So, this is the uh TLDDR too long"
+    },
+    {
+      "start": 1065200,
+      "end": 1067120,
+      "text": "didn't read. This is the TLDDR for the"
+    },
+    {
+      "start": 1067120,
+      "end": 1069360,
+      "text": "Stanford paper. And this is the TLDDR"
+    },
+    {
+      "start": 1069360,
+      "end": 1072000,
+      "text": "for the TLDDR. AI seems to be"
+    },
+    {
+      "start": 1072000,
+      "end": 1074960,
+      "text": "substituting certain entrylevel skills"
+    },
+    {
+      "start": 1074960,
+      "end": 1078080,
+      "text": "and it seems to not be hurting more"
+    },
+    {
+      "start": 1078080,
+      "end": 1080320,
+      "text": "experiencedbased skills, right? So, if"
+    },
+    {
+      "start": 1080320,
+      "end": 1081840,
+      "text": "you've been around for a decade or two"
+    },
+    {
+      "start": 1081840,
+      "end": 1084240,
+      "text": "in your career, you're probably fine. If"
+    },
+    {
+      "start": 1084240,
+      "end": 1085919,
+      "text": "you're trying to get into a new career,"
+    },
+    {
+      "start": 1085919,
+      "end": 1088240,
+      "text": "it's your first 5 years or so, you're"
+    },
+    {
+      "start": 1088240,
+      "end": 1089840,
+      "text": "going to see this a lot, right? So, this"
+    },
+    {
+      "start": 1089840,
+      "end": 1092000,
+      "text": "is hurting new grads more than"
+    },
+    {
+      "start": 1092000,
+      "end": 1093760,
+      "text": "experienced workers. Now, if you're"
+    },
+    {
+      "start": 1093760,
+      "end": 1095520,
+      "text": "thinking, so what why is it that's just"
+    },
+    {
+      "start": 1095520,
+      "end": 1097520,
+      "text": "a small portion of the economy? It's"
+    },
+    {
+      "start": 1097520,
+      "end": 1100080,
+      "text": "kind of crucial when that's the people"
+    },
+    {
+      "start": 1100080,
+      "end": 1101600,
+      "text": "when they're just starting out usually"
+    },
+    {
+      "start": 1101600,
+      "end": 1104559,
+      "text": "have less money. That's how they get on"
+    },
+    {
+      "start": 1104559,
+      "end": 1107039,
+      "text": "that sort of career path. Those"
+    },
+    {
+      "start": 1107039,
+      "end": 1109840,
+      "text": "entrylevel jobs are almost like a bridge"
+    },
+    {
+      "start": 1109840,
+      "end": 1112000,
+      "text": "until they're in their 30s and 40s when"
+    },
+    {
+      "start": 1112000,
+      "end": 1113919,
+      "text": "they're making enough to, you know, have"
+    },
+    {
+      "start": 1113919,
+      "end": 1115679,
+      "text": "money and start spending on buying"
+    },
+    {
+      "start": 1115679,
+      "end": 1117360,
+      "text": "houses and families and whatnot. That"
+    },
+    {
+      "start": 1117360,
+      "end": 1119840,
+      "text": "those early years are important for"
+    },
+    {
+      "start": 1119840,
+      "end": 1121919,
+      "text": "these people. And if all of those jobs"
+    },
+    {
+      "start": 1121919,
+      "end": 1124880,
+      "text": "get automated, there will be this gap. I"
+    },
+    {
+      "start": 1124880,
+      "end": 1126880,
+      "text": "don't know if we have a way to to fix"
+    },
+    {
+      "start": 1126880,
+      "end": 1129360,
+      "text": "it. I don't think we have a plan to how"
+    },
+    {
+      "start": 1129360,
+      "end": 1131120,
+      "text": "to deal with it. But also, of course,"
+    },
+    {
+      "start": 1131120,
+      "end": 1133919,
+      "text": "you know, if we're projecting 7% net"
+    },
+    {
+      "start": 1133919,
+      "end": 1136640,
+      "text": "growth, so more jobs will be created"
+    },
+    {
+      "start": 1136640,
+      "end": 1139440,
+      "text": "than destroyed, maybe that's that's a"
+    },
+    {
+      "start": 1139440,
+      "end": 1140799,
+      "text": "good thing. Maybe people should just"
+    },
+    {
+      "start": 1140799,
+      "end": 1143280,
+      "text": "pivot to those new jobs instead of what"
+    },
+    {
+      "start": 1143280,
+      "end": 1144880,
+      "text": "they're whatever they were doing. Uh,"
+    },
+    {
+      "start": 1144880,
+      "end": 1147919,
+      "text": "who knows? But again, what if there's"
+    },
+    {
+      "start": 1147919,
+      "end": 1149840,
+      "text": "not going to be a net growth in jobs?"
+    },
+    {
+      "start": 1149840,
+      "end": 1151440,
+      "text": "Those jobs seem to be very much"
+    },
+    {
+      "start": 1151440,
+      "end": 1153679,
+      "text": "concentrated in AI. You know, they said"
+    },
+    {
+      "start": 1153679,
+      "end": 1156720,
+      "text": "they're growing by 120% for some of"
+    },
+    {
+      "start": 1156720,
+      "end": 1158720,
+      "text": "those. Is that sustainable? Is that"
+    },
+    {
+      "start": 1158720,
+      "end": 1160480,
+      "text": "going to continue for decades and"
+    },
+    {
+      "start": 1160480,
+      "end": 1163200,
+      "text": "decades? Or is it that just everyone's"
+    },
+    {
+      "start": 1163200,
+      "end": 1166320,
+      "text": "piling into that field right now? How"
+    },
+    {
+      "start": 1166320,
+      "end": 1168559,
+      "text": "many people, how many tens of millions"
+    },
+    {
+      "start": 1168559,
+      "end": 1171760,
+      "text": "of people can be employed as machine"
+    },
+    {
+      "start": 1171760,
+      "end": 1174000,
+      "text": "learning specialists and autonomous car"
+    },
+    {
+      "start": 1174000,
+      "end": 1176799,
+      "text": "drivers? Can we create 90 million jobs"
+    },
+    {
+      "start": 1176799,
+      "end": 1179200,
+      "text": "in that field alone? I don't know. But"
+    },
+    {
+      "start": 1179200,
+      "end": 1181600,
+      "text": "Mogodat is saying that that entire idea"
+    },
+    {
+      "start": 1181600,
+      "end": 1183840,
+      "text": "that it's going to create new jobs is"
+    },
+    {
+      "start": 1183840,
+      "end": 1187039,
+      "text": "100% crap. Sam Alman got interviewed by"
+    },
+    {
+      "start": 1187039,
+      "end": 1189360,
+      "text": "Venode Kosla who's a very successful"
+    },
+    {
+      "start": 1189360,
+      "end": 1191520,
+      "text": "investor in the tech space and he kind"
+    },
+    {
+      "start": 1191520,
+      "end": 1194880,
+      "text": "of laid out his ideas for where jobs are"
+    },
+    {
+      "start": 1194880,
+      "end": 1197440,
+      "text": "going saying that the human touch is"
+    },
+    {
+      "start": 1197440,
+      "end": 1199120,
+      "text": "going to be very important in certain"
+    },
+    {
+      "start": 1199120,
+      "end": 1201360,
+      "text": "industries. You know for example in"
+    },
+    {
+      "start": 1201360,
+      "end": 1204160,
+      "text": "education for for teachers that human"
+    },
+    {
+      "start": 1204160,
+      "end": 1206480,
+      "text": "touch is going to be very important. Mr."
+    },
+    {
+      "start": 1206480,
+      "end": 1210160,
+      "text": "Kosla did not agree with Mr. Alman on"
+    },
+    {
+      "start": 1210160,
+      "end": 1211200,
+      "text": "this subject."
+    },
+    {
+      "start": 1211200,
+      "end": 1212640,
+      "text": "Totally believe there's like something"
+    },
+    {
+      "start": 1212640,
+      "end": 1214559,
+      "text": "very deep in just knowing that it's a"
+    },
+    {
+      "start": 1214559,
+      "end": 1215919,
+      "text": "real person or not."
+    },
+    {
+      "start": 1215919,
+      "end": 1218080,
+      "text": "Yeah, I might disagree with you on that."
+    },
+    {
+      "start": 1218080,
+      "end": 1219039,
+      "text": "I think"
+    },
+    {
+      "start": 1219039,
+      "end": 1221360,
+      "text": "Sam Alman was not amused."
+    },
+    {
+      "start": 1221360,
+      "end": 1223760,
+      "text": "But I think there will be a far better"
+    },
+    {
+      "start": 1223760,
+      "end": 1226320,
+      "text": "AI investor than you very soon. And I"
+    },
+    {
+      "start": 1226320,
+      "end": 1227360,
+      "text": "No question about it."
+    },
+    {
+      "start": 1227360,
+      "end": 1229440,
+      "text": "Well, no, no, but I personally still"
+    },
+    {
+      "start": 1229440,
+      "end": 1231120,
+      "text": "enjoy having dinner with you and you"
+    },
+    {
+      "start": 1231120,
+      "end": 1232880,
+      "text": "know if you tell me like good job or you"
+    },
+    {
+      "start": 1232880,
+      "end": 1234240,
+      "text": "should do this, that's more motivating"
+    },
+    {
+      "start": 1234240,
+      "end": 1236240,
+      "text": "to me than AI telling me that. So Sam is"
+    },
+    {
+      "start": 1236240,
+      "end": 1238159,
+      "text": "going to keep him around as a a"
+    },
+    {
+      "start": 1238159,
+      "end": 1241039,
+      "text": "cheerleader. When interviewers annoy Sam"
+    },
+    {
+      "start": 1241039,
+      "end": 1243520,
+      "text": "Alman and he takes some pot shots at"
+    },
+    {
+      "start": 1243520,
+      "end": 1245679,
+      "text": "them is possibly like one of the"
+    },
+    {
+      "start": 1245679,
+      "end": 1247200,
+      "text": "greatest things I've ever seen. Every"
+    },
+    {
+      "start": 1247200,
+      "end": 1249280,
+      "text": "time it happens, I'm just uh overjoyed."
+    },
+    {
+      "start": 1249280,
+      "end": 1251919,
+      "text": "But speaking of OpenAI, they recently"
+    },
+    {
+      "start": 1251919,
+      "end": 1253520,
+      "text": "did talk about the whole job situation."
+    },
+    {
+      "start": 1253520,
+      "end": 1256480,
+      "text": "Expanding economic opportunity with AI."
+    },
+    {
+      "start": 1256480,
+      "end": 1258240,
+      "text": "They're launching something like a"
+    },
+    {
+      "start": 1258240,
+      "end": 1260400,
+      "text": "LinkedIn, so some sort of a job"
+    },
+    {
+      "start": 1260400,
+      "end": 1263360,
+      "text": "placement for AI enabled workers as well"
+    },
+    {
+      "start": 1263360,
+      "end": 1265280,
+      "text": "as a sort of free university where"
+    },
+    {
+      "start": 1265280,
+      "end": 1267440,
+      "text": "people will be able to learn to use AI"
+    },
+    {
+      "start": 1267440,
+      "end": 1269520,
+      "text": "tools better. The classes will be taught"
+    },
+    {
+      "start": 1269520,
+      "end": 1273120,
+      "text": "by AI 100%. But I mean, if executed"
+    },
+    {
+      "start": 1273120,
+      "end": 1274880,
+      "text": "right, this could be a big deal because"
+    },
+    {
+      "start": 1274880,
+      "end": 1278159,
+      "text": "it can provide free AI training to a lot"
+    },
+    {
+      "start": 1278159,
+      "end": 1279760,
+      "text": "of people. All right, so that the idea"
+    },
+    {
+      "start": 1279760,
+      "end": 1281919,
+      "text": "of making it automated, that does seem"
+    },
+    {
+      "start": 1281919,
+      "end": 1284559,
+      "text": "like it could do a lot of good. Again,"
+    },
+    {
+      "start": 1284559,
+      "end": 1286159,
+      "text": "it a lot of it depends on on how it's"
+    },
+    {
+      "start": 1286159,
+      "end": 1288240,
+      "text": "built out, how well it works, etc. But"
+    },
+    {
+      "start": 1288240,
+      "end": 1290480,
+      "text": "this could be a big thing, a a good"
+    },
+    {
+      "start": 1290480,
+      "end": 1292880,
+      "text": "thing. By the way, heading back to our"
+    },
+    {
+      "start": 1292880,
+      "end": 1296000,
+      "text": "WF study here, there's one more other"
+    },
+    {
+      "start": 1296000,
+      "end": 1297600,
+      "text": "point that's very interesting to see,"
+    },
+    {
+      "start": 1297600,
+      "end": 1300799,
+      "text": "and that is this. This is the demand for"
+    },
+    {
+      "start": 1300799,
+      "end": 1302880,
+      "text": "generative AI skills. So, this is"
+    },
+    {
+      "start": 1302880,
+      "end": 1305919,
+      "text": "generative AI enrollment trend from 2022"
+    },
+    {
+      "start": 1305919,
+      "end": 1308799,
+      "text": "to 2024. So, just to the end of 2024."
+    },
+    {
+      "start": 1308799,
+      "end": 1310960,
+      "text": "So, as you can see here, it's going up"
+    },
+    {
+      "start": 1310960,
+      "end": 1314640,
+      "text": "and up. And you can imagine that in 2025"
+    },
+    {
+      "start": 1314640,
+      "end": 1317919,
+      "text": "it's just continues upwards. People will"
+    },
+    {
+      "start": 1317919,
+      "end": 1321120,
+      "text": "want to learn to use AI. The demand for"
+    },
+    {
+      "start": 1321120,
+      "end": 1323919,
+      "text": "that is huge. The amount of jobs that"
+    },
+    {
+      "start": 1323919,
+      "end": 1325600,
+      "text": "are going to need AI skills, that's"
+    },
+    {
+      "start": 1325600,
+      "end": 1328480,
+      "text": "going to be growing. So if you're in AI"
+    },
+    {
+      "start": 1328480,
+      "end": 1330720,
+      "text": "or if you're good at using AI in"
+    },
+    {
+      "start": 1330720,
+      "end": 1332400,
+      "text": "whatever field you are, yes, there's"
+    },
+    {
+      "start": 1332400,
+      "end": 1335280,
+      "text": "going to be huge demand for that. But"
+    },
+    {
+      "start": 1335280,
+      "end": 1337440,
+      "text": "the question is will over the next 5"
+    },
+    {
+      "start": 1337440,
+      "end": 1340000,
+      "text": "years, 10 years, will the amount of new"
+    },
+    {
+      "start": 1340000,
+      "end": 1343200,
+      "text": "jobs created? Will they be bigger than"
+    },
+    {
+      "start": 1343200,
+      "end": 1345280,
+      "text": "the amount of jobs that are destroyed or"
+    },
+    {
+      "start": 1345280,
+      "end": 1347760,
+      "text": "where headcount is reduced? I have a"
+    },
+    {
+      "start": 1347760,
+      "end": 1350000,
+      "text": "hard time seeing where that would be"
+    },
+    {
+      "start": 1350000,
+      "end": 1351360,
+      "text": "coming from. Let me know if you"
+    },
+    {
+      "start": 1351360,
+      "end": 1352880,
+      "text": "disagree. I'm curious to know what you"
+    },
+    {
+      "start": 1352880,
+      "end": 1354880,
+      "text": "all think with this idea that there's"
+    },
+    {
+      "start": 1354880,
+      "end": 1358559,
+      "text": "more jobs created now. I don't fully"
+    },
+    {
+      "start": 1358559,
+      "end": 1360080,
+      "text": "grasp it. It seems like there's going to"
+    },
+    {
+      "start": 1360080,
+      "end": 1363440,
+      "text": "be less jobs and specifically in those"
+    },
+    {
+      "start": 1363440,
+      "end": 1366240,
+      "text": "early career years which are so crucial"
+    },
+    {
+      "start": 1366240,
+      "end": 1368799,
+      "text": "for development for the economy. Seems"
+    },
+    {
+      "start": 1368799,
+      "end": 1371440,
+      "text": "to be a kind of domino that could set"
+    },
+    {
+      "start": 1371440,
+      "end": 1373200,
+      "text": "off a lot of bad things. If we lose"
+    },
+    {
+      "start": 1373200,
+      "end": 1375760,
+      "text": "those people entering the workforce, we"
+    },
+    {
+      "start": 1375760,
+      "end": 1377280,
+      "text": "don't really know what that looks like."
+    },
+    {
+      "start": 1377280,
+      "end": 1379039,
+      "text": "We don't really know what kind of a bad"
+    },
+    {
+      "start": 1379039,
+      "end": 1380400,
+      "text": "or good effect it's going to have."
+    },
+    {
+      "start": 1380400,
+      "end": 1383120,
+      "text": "Probably bad. So again, will AI take all"
+    },
+    {
+      "start": 1383120,
+      "end": 1385360,
+      "text": "of our jobs? Who knows? I don't know. I"
+    },
+    {
+      "start": 1385360,
+      "end": 1386880,
+      "text": "don't know if we have exact numbers on"
+    },
+    {
+      "start": 1386880,
+      "end": 1389280,
+      "text": "that. But what it really seems like is"
+    },
+    {
+      "start": 1389280,
+      "end": 1391200,
+      "text": "going to happen. There I fixed it. AI"
+    },
+    {
+      "start": 1391200,
+      "end": 1394880,
+      "text": "will reduce a lot of entrylevel jobs by"
+    },
+    {
+      "start": 1394880,
+      "end": 1397760,
+      "text": "2030. It sure seems like that's where"
+    },
+    {
+      "start": 1397760,
+      "end": 1399280,
+      "text": "things are going. Let me know if I'm"
+    },
+    {
+      "start": 1399280,
+      "end": 1401520,
+      "text": "missing something. I care about what you"
+    },
+    {
+      "start": 1401520,
+      "end": 1403520,
+      "text": "think. Leave it down in the comments."
+    },
+    {
+      "start": 1403520,
+      "end": 1404960,
+      "text": "Thank you so much for watching and I'll"
+    },
+    {
+      "start": 1404960,
+      "end": 1408080,
+      "text": "see you in the next"
+    }
+  ],
+  "comments": {
+    "totalCount": 646,
+    "sample": [
+      {
+        "id": "UgwvvA9krZfMkfWTrk54AaABAg",
+        "content": "I don't have a job, nice try AI",
+        "author": "@patruff",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 289,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzE4t6Q0lbnrG9gsyZ4AaABAg",
+        "content": "People forget... ChatGPT first came out in November 2022... It hasn't been a full 3 years yet and look how far they have taken this technology. It's like we live in dog years now.",
+        "author": "@PAIP_Studio",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 105,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyNqmaZSawji-RDCwd4AaABAg",
+        "content": "Entry level today, mid/late career tomorrow. Starting with the great decoupling in the 1970s, human labor has been and will continue trending to zero. Think EXPONENTIALLY, not LINEARLY. Automation and robotics will necessarily replace human workers due to the current economic system. Think about this-today, AI is the WORST it will ever be going forward. It DOESN'T MATTER if AI \"creates\" 200 million new jobs...AI will solve and execute these new \"jobs\" much faster than humans will be able to adapt, learn, and fill them. Capital/employee model-it worked great...for quite a while. However, now companies that automate lower their costs, become more competitive. Those that keep higher-cost human labor necessarily fall behind and will go out of business. This creates a system where replacing people with machines is not just likely, but necessary for company survival. There is a way to deal with this humanely, but it would require a full revamp of the social contract and our concept of work. Even capitalists will want this change when unemployment reaches a tipping point and there’s no one left with money to buy the crap they’re selling.\r\n\r\nI wrote a paper in 2014 and the progression is right about where I thought it would be. The paper \"The End of Work as We Know It\" explored how rapid advances in artificial intelligence, robotics, and automation are fundamentally reshaping the nature of work and the global economy. I argued that, unlike past technological revolutions, modern AI-driven changes threaten to eliminate not just manual or repetitive jobs but also many roles traditionally considered safe, including those requiring creativity, analysis, or interpersonal skills. As machines become increasingly capable, the need for human labor in many sectors will evaporate, leading to widespread job displacement and a potential crisis of purpose and income for millions. The paper discussed how this transition challenges traditional economic and social structures, including the link between work and personal identity, as well as the mechanisms by which people earn a living. I suggested that society must adapt by rethinking education, social safety nets, and the concept of work itself, potentially embracing Universal Basic Income (UBI) as a TRANSITORY STOPGAP or other models that decouple survival from employment. NOTE: UBI is not the end goal, but just a transitioning tool. The paper called for proactive planning and open dialogue to ensure that the benefits of automation are broadly shared and that individuals can find meaning and security in a post-work world. Unfortunately, not unsurprisingly, Humanity has totally botched it up to this point.\r\n\r\nReasoning AI Is the Next Big Leap. The future of AI is not just about generating answers, but about “reasoning” breaking down complex problems step-by-step, more like a human brain. Breakthroughs like DeepSeek’s open-source reasoning models are already being incorporated into platforms like GPT and xAI, marking a shift toward more advanced, thoughtful AI. Think EXPONENTIALLY, not LINEARLY.\r\n\r\nThere’s a persistent and misleading narrative circulating often perpetuated by short term goal-driven institutions like politicians, universities, and tech company executives, that the future of work is secure. The claim goes: “You just need to learn how to work with AI,” and humans collaborating with AI will outperform either one alone. But recent research, including a landmark study from the University of Virginia, tells a different story. In diagnosing medical conditions, AI alone achieved far greater accuracy than either human doctors or even doctors assisted by AI. The median diagnostic accuracy for the docs using Chat GPT Plus was 76.3%, while the results for the physicians using conventional approaches was 73.7%. Sounds like “a win” at first. However, Chat GPT Plus alone achieved a median diagnostic accuracy of more than 92%. In other words, the comforting idea that humans will always be essential partners to machines is crumbling. In many fields, AI is not just a tool, it is the superior performer. This has staggering implications for the future of work, especially to the often used solution of prior technological displacement that go “You just need to be retrained.” To the group advocating the \"retraining solution,\" I pose to you this: You have a medical doctor, just finished 8 years of higher education, a low-paid 4-year internship/residency, is hundreds of thousands of dollars in debt, and just got outperformed by automation; what would you have this doctor retrained into that will offer a secure job?\r\n\r\nThe result of this, since the United States' moronic system is based on taxing employees for about 70% of all tax revenue, this will further exacerbate the problem. Tax needs to be based on what's going on now and in the future not what worked 75 years ago. Oh I know it's so evil to think, but we might need to tax the companies who are doing the automation. Even if you do that, it's a win-win. For instance say a company had 1,000 employees in automated away down to 100. 1,000 employees paid federal taxes, including payroll tax, of about 20 million a year. Now the 100 people pay about 2 million a year. However, by automating, the company sees two things: they are no longer paying approximately 60 million in wages and their share of payroll tax, AND since nobody automates to lose money they also have higher profits. What's so wrong about taxing that company for the $60 million dollars they don't have to pay anymore and a fair percentage of their additional profits they now make through the automation. Not all the additional profits, but some of them. If you do that there's a higher tax revenue and more profits for the company. That's a win-win for the government and for businesses. If humanity, as a whole, weren't so stupid, we would just adjust as tech progresses to where EVERYONE benefits somewhat from each stage and just move smoothly into the post-labor economy.\r\n\r\nTo understand this shift, consider the historical role of the horse and oxen. They were once essential to the economy as sources of power for agriculture, transport, and industry. Technologies like the horse collar and the steel plow dramatically increased their output, making them even more valuable. But then came the steam engine and, later, the internal combustion engine. These machines didn’t just help the horse, but outperformed it entirely. Trains, tractors, and trucks could do the job ten, even a hundred times faster and more powerfully. And from that moment forward, the horse was no longer critical to economic output. It was, in essence, unemployed.\r\n\r\nThis is what AI and robotics are doing to human labor. They are not simply replacing the repetitive or the physical; they are increasingly outperforming humans in cognition, strategy, design, and communication. And just like the horse, our value in the economic system will diminish, not from lack of talent or effort, but because machines will do the job better. That’s why we need to start thinking not in terms of retraining, but about restructuring society itself for a world where human labor is no longer essential to production. When the very essence of what makes an entity useful to the current economy is superseded (be that strength, endurance, dexterity, analysis, creativity, empathy, intelligence, persuasion as well as many other qualities) that entity becomes irrelevant to economic output.\r\n\r\nPotential solution. Decentralized AI Ownership: A Bridge Toward Post-Scarcity. While Universal Basic Income (UBI) may serve as an initial economic stopgap, bridging today’s economy with tomorrow’s abundance consider an even more equitable and long-term solution: Decentralizing the ownership of artificial intelligence itself. \r\n\r\nRather than concentrating the power of AI in the hands of a few corporations or governments, envision a model where AI entities are open-source and collectively owned. This could take the form of assigning each person a digital \"share\" of an AI system, not unlike a stakeholder’s share in a company. As the AI produces value, whether through intellectual labor, creative output, or autonomous economic participation, those shares would generate dividends distributed directly to individuals. \r\n\r\nThis model would ensure that as AI becomes the dominant productive force in society, the wealth it creates is shared universally, not monopolized. It aligns with the principle that the fruits of public knowledge made possible by centuries of human collaboration should benefit everyone, not just a few early adopters or private entities. In practice, this could look like: \r\n\r\n- AI systems running Decentralized Autonomous Organizations (DAOs) that distribute profits algorithmically.\r\n- Smart contracts ensuring transparent, equitable income flows based on collective stake.\r\n- Global “AI cooperatives” where users vote on how AI is used, improved, and deployed.\r\n- Universal basic compute.\r\n \r\nIf AI becomes the primary driver of economic output, then equitable access to its benefits isn’t just fair, it’s necessary to avoid deepening inequality and instability. It provides a scalable, technologically aligned extension to UBI, ensuring people not only have income, but true economic participation in the age of intelligent machines. \r\n\r\nUltimately, decentralized AI ownership may be the last transition phase before full post-scarcity, when advanced technologies like universal nanofactories or matter compilers render even economic structures obsolete. Until then, however, models like this offer a way to reclaim agency in a world where production no longer requires human hands, and where wealth can, for the first time in history, truly be universal.",
+        "author": "@JoeSmith-jd5zg",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 103,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwA9fkqRoO2hIzH_Yx4AaABAg",
+        "content": "Hard for companies to get rich when unemployed people can't afford to buy anything",
+        "author": "@Chuck_Hooks",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 142,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxfGRFX8smzkxVDw1Z4AaABAg",
+        "content": "Just remember: If you lose your job, you have a problem. If we all lose our jobs, then they have a problem.",
+        "author": "@r9bet",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 64,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxZr-yDBdo-9WmCa6d4AaABAg",
+        "content": "Just wait another year or two when millions of recent college graduates can’t find jobs but still have debt payments to make. That’s a lot of very angry people with a lot of time on their hands.",
+        "author": "@russcontact",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 28,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy9x63GSt4VUC1i29h4AaABAg",
+        "content": "Wes Roth is gonna make a video in like 3 months revealing that he has been AI the entire time.",
+        "author": "@Andromansis",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 21,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyEnSBgG0-7qmsOjzV4AaABAg",
+        "content": "All your jobs are belong to AI!",
+        "author": "@davida1853",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 36,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyHfeKD6NngpLdl9J14AaABAg",
+        "content": "Omg CEO's lying about wanting to hire people, who could've ever guessed",
+        "author": "@s2tb2007",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 41,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxrBK5itKj2WpKt3vd4AaABAg",
+        "content": "We so badly need to come up with an alternate economic model that's not built around money. And we have so little time to do it And embrace it",
+        "author": "@hypnokitten6450",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 25,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzcVJdHrE2ul4MYPah4AaABAg",
+        "content": "Already know this is clickbait but still saved to watch later",
+        "author": "@pauhana8253",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 12,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugxyg2i-dwlSgetpcxN4AaABAg",
+        "content": "I have a job for 6 more days, then im being declared redundant. My company is selling me to another company to work there on behalf of the old one. Where they remove my benefits, no overtime, and two more weeks worth of work being on call. Im just gonna let AI have this one.",
+        "author": "@FunDumb",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugw7GIlMQ9NvWJHmrr14AaABAg",
+        "content": "I think devs just need to get to the point where they host their own LLMs, reducing costs. We just need configurable IDEs to hookup everything, but we will be self sufficient soon enough.",
+        "author": "@j2csharp",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 15,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyWiw_LLn5JE7YNPLN4AaABAg",
+        "content": "Prior to 1971, improvements in productivity were shared between capital and labour. Since 1971, automation improvements went solely to capital. The owners of this capital won't be sharing, and they have the bunkers to prove it.",
+        "author": "@AAjax",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgydC9U57yhexKKMWr94AaABAg",
+        "content": "Man its almost as if anybody with two brain cells to rub together could have predicted this but collectively and individually had no power to stop it",
+        "author": "@fritz8096",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyf0JL444vwglbbojB4AaABAg",
+        "content": "it's not like entry level jobs truly exist anymore",
+        "author": "@Ferrolune",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 7,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwZtZBeAq1_b2Yxia54AaABAg",
+        "content": "Greater productivity = they fired your coworker and forced you to take on their job in addition to yours 🙃",
+        "author": "@friendlyneighborhoodclippy",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxUhglKYJszws2m6G54AaABAg",
+        "content": "How is a worker of a job that never had anything to do with programing, software enginering and ai development supposed to get an ai related job,these are ultra specialized jobs that require a very specialized skillset and knowledge base that very few people have, not to mention a rare kind of brain that is compatible with these domains, like you just lost your clerk or graphic designer job and then someone tells you to just magically become a scientist and the problem is solved and its all milk and honey, are these people serious",
+        "author": "@madalinradion",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyFb1w9Bo3wjS_y6PV4AaABAg",
+        "content": "It creates a paradox. If companies replace large amounts of jobs with AI they save on overhead and make more profit short term, however, their money comes from consumer spending. If people lose high end jobs that will dramatically reduce consumer spending and will cause companies to lose profits long term.\nIf companies make their money from consumer spending and they create unemployment, there is no consumer to spend money.",
+        "author": "@NoCodeFilmmaker",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyxbSPHZ7rve1SYrXl4AaABAg",
+        "content": "Capitalism is living it's final years.",
+        "author": "@FuraficFark",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 18,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyW076dXL5gstIAdnp4AaABAg",
+        "content": "Now we'll be saying, \"ok zoomer\"",
+        "author": "@mematron",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwZ9XBeUITBOp4GRY14AaABAg",
+        "content": "I love how the government is using short attention span to kick the can on job losses. 911,000 job revision from March '24-'25!?! Yikes.",
+        "author": "@TheRebelCreative",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 10,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxxEtMtUZWKTbPdakV4AaABAg",
+        "content": "a possible solution is that everybody creating something, like movies, music or games needs to disclose whether it has been AI generated. I myself would refuse to play a game that has been AI generated. I'm just not interested to consume content that has been automatically generated.",
+        "author": "@oliverknill631",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzy20RQxu9AH60ORCF4AaABAg",
+        "content": "Call me when AI can fix my pipes, change my outlets, grow my food, change my roof? you know regular jobs. We sit at our desk jobs and pretend that this is all it takes for a society to work. We are a small clique of and we are not the ones that truly makes the world go round.",
+        "author": "@tombjornebark",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzjdz7XMO5ONNvjyu54AaABAg",
+        "content": "I am so glad that AI will get rid of jobs, I cannot wait to live in a better place where we can live without the need for capitalism (Or at least not in the way we have)\n\nOur purpose is to bring peace, love, hope, joy, bring good to the world. We no longer need the structure of jobs we have now, lets just hope the transition is cleaner then what we are being presented.",
+        "author": "@aguest5394",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 25,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwyqFhIytnr4oKL2p54AaABAg",
+        "content": "One of many needed ansures. 1. Tax the\nactions of Ai 2. Tax all motion / humanoid androids/ hybrid robots.  Per hour of use.\n3. All AI companies pay a 75% tax from the point of profits.A Flat Tax. 4. To keep society healthy happy and wise. Living wage. Free housing as needed. Free health care. And of course  Free Education.",
+        "author": "@irri4662",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 16,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugz4JO7ljK1yyAbPHTR4AaABAg",
+        "content": "All the new jobs that are being created now are going to be automated within 10 years. Humans are so shortsighted and unserious smh",
+        "author": "@vancecookcobain",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 7,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwLpMKqJHDossIPnwN4AaABAg",
+        "content": "I said this before and will say it again: Simply do the math as tasks that took a day can now be done in 5 minutes. And next year can be done in 30 seconds. 8 hour day in 30 seconds. Do the math here.",
+        "author": "@OZtwo",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 16,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyIgcpuWHqZ9p20cGV4AaABAg",
+        "content": "Half of entry level jobs sounds very optimistic and generous. More like 80-90% and half of the remaining senior role jobs as well… 😅",
+        "author": "@kristianlavigne8270",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwmWK_ycSaGz525l-94AaABAg",
+        "content": "Apparently many companies have been praying for an employee that never sleeps, randomly hallucinates, and occasionally sets everything on fire.",
+        "author": "@ScottLahteine",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwjyLQIaWOjcEBF97R4AaABAg",
+        "content": "I saw 2 robots playing ping-pong yesterday. Even if they improve only slightly over time - we are doomed.",
+        "author": "@magicgoku",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugwb-MPqvQaoBCrn6vR4AaABAg",
+        "content": "Once the robots are ready the disruption will move through every sector, this combined with population declines will be the nail in capitalisms coffin ⚰️. The current model will not tolerate shrinkage 🎉",
+        "author": "@thomasevans1501",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 7,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyxPB6CMgq0Fqkojvd4AaABAg",
+        "content": "About 6 months ago Dario from Anthropic said within 3 months 90% of all code will be written by AI.  Yeah...",
+        "author": "@BetterFutureAI",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxcDvN6K5yhGVYNTdN4AaABAg",
+        "content": "You can downgrade to \"Burger Flipper\" from Engineering....you can't upgrade to \"Engineering\" from \"Burger Flipper\".",
+        "author": "@Sharepie",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgySn55ofaIdPmcruEB4AaABAg",
+        "content": "I’m taking classes now and seeing a lot of my colleges  panic. They know they have no future unless management keeps their heads buried in the luddite sand",
+        "author": "@BillAshtonNelo",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxIZ3SNA1kQyqHffO54AaABAg",
+        "content": "Taking economically useful jobs is not the issue. Capitalism is. If jobs would not be the single measure of prosperity, such a change would only make certain jobs more like niche art.",
+        "author": "@TDVL",
+        "publishedDate": "2025-09-13T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwJ2_mQA0pvF6MQ2054AaABAg",
+        "content": "-99% by 2030? So almost all plumbers, roofers, electricians, grill cooks, waitresses and waiters, flight attendants, refrigerator repair techs, etc. will be displaced in 5 years? Wanna bet?",
+        "author": "@cymeriandesigns",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugxn__rmO1DkaAKxpuB4AaABAg",
+        "content": "CEO's should not care about losing their jobs. They have more money for the next 1000 years to retire for them and their family.",
+        "author": "@sergey9986",
+        "publishedDate": "2025-09-16T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzTs13wDa1pZGeOM6Z4AaABAg",
+        "content": "No more Jobs because he died in 2011. Duh...",
+        "author": "@rogeriopcf",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzh3PF6YvyU_cellSV4AaABAg",
+        "content": "The ability to distinguish hallucination from a true response will sometimes require advanced knowledge. That's where skilled humans come in. Those skills can be rare in general, and where specific combinations of such skills is required, even more rare. For example, which conditions determine whether it's better to use feedback or residual connections, and their specific implementation details?",
+        "author": "@existenceisillusion6528",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzhFALTln0wPk6juRR4AaABAg",
+        "content": "For those saying AI can’t take your job, you’re missing the point. AI will take away the jobs of those whose earnings pay for the need of your job. It’s coming your way.",
+        "author": "@Konspire",
+        "publishedDate": "2025-09-13T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyXmn7fhihXTJ7bAxp4AaABAg",
+        "content": "lets be honest. the lack of jobs wont be because of AI. AI is just the next logical replacement for a system that relies on printing money to stay afloat. and good luck having an economy and society where no one works.",
+        "author": "@duskbladex",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgylnfDHn5ohoOVOHhF4AaABAg",
+        "content": "AI has got already higher intelligence than average human today. So mentally intellectually working employees are done and over and will be no needed in 2026 any longer. They will become literally obsolete and redundant. AI will do all their work by itself. Any resistance is quite futile today. Game is over, time is up.😢",
+        "author": "@Truthseeker-cx46g",
+        "publishedDate": "2025-09-13T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzyFTuq9rzu0puCNB54AaABAg",
+        "content": "The whispering ad is disgusting!Please ban it asap!",
+        "author": "@李原-j6r",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyUUPzRxWrNwRvWUhZ4AaABAg",
+        "content": "That list of fastest growing jobs is so inaccurate it’s laughable.",
+        "author": "@Sam66131",
+        "publishedDate": "2025-09-14T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzifWlgK9Li6C7O3vR4AaABAg",
+        "content": "This guy is 100% correct. \nThe notion that innovation creates more jobs is an inaccurate myth perpetuated by the wealthy.\nIt's plain and simply untrue. Technology has only increased income disparity and monopolies.\nTechnology is great. However, it's currently used to make the rich even richer.\nTax AI. Tax automation stealing jobs. Tax the rich. UBI for all. Healthcare for all. Housing for all.\nFUCK THE RICH. They can join Charlie for all I care.",
+        "author": "@Larry_Dean",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy9eL5VAPOmbyDb_nN4AaABAg",
+        "content": "\"Technology X is going to reduce the number of jobs\" is the least effective argument against progress.",
+        "author": "@andgarrett",
+        "publishedDate": "2025-09-13T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyofJDzWGNPmBqLv454AaABAg",
+        "content": "No, it didn’t. Stop the nonsense.",
+        "author": "@aardvarkmindshank",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy-YksFN8gI6UpppbN4AaABAg",
+        "content": "Correction - AI will eliminate all entry level white collar jobs by 2030",
+        "author": "@alexg9790",
+        "publishedDate": "2025-09-12T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugx6qBXJYTOcb2YwRah4AaABAg",
+        "content": "Lack of any plan other than allowing more than 99% of the population of the earth to become starved, impoverished and without purpose is the biggest AI safety risk. The latter of the three will very rapidly change.",
+        "author": "@thatbellnd",
+        "publishedDate": "2025-09-13T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      }
+    ]
+  },
+  "metadata": {
+    "extractedAt": "2025-09-18T16:46:05Z",
+    "source": "apify-youtube-scraper",
+    "processingVersion": "1.0.0"
+  }
+}

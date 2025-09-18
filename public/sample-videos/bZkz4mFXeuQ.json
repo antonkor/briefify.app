@@ -1,0 +1,1943 @@
+{
+  "video": {
+    "id": "bZkz4mFXeuQ",
+    "title": "AI Chatbots Are BREAKING People’s Minds",
+    "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/@Wes-Dylan\n______________________________________________\n\n\n\n#ai #openai #llm",
+    "author": "Wes Roth",
+    "publishDate": "2025-09-02T18:36:55.000Z",
+    "duration": 713,
+    "viewCount": 15896,
+    "likeCount": 637,
+    "category": "Education",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/bZkz4mFXeuQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD4cByQkr5jak3bh1MBMERVbPRA4A",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bZkz4mFXeuQ/hqdefault.jpg?sqp=-oaymwEmCMQBEG5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA2ow7grbPIEMLeb4nZeYyzOOWPYA",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bZkz4mFXeuQ/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDOTW48Bog1wvEAdTOFFH_iqfOWfw",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/bZkz4mFXeuQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbTWG6Jx6oTphfFLZt3sWaqH5OYQ",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/bZkz4mFXeuQ/maxresdefault.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "channel": {
+    "id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+    "title": "Wes Roth",
+    "description": "Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large Language Models and... (most importantly)... optimism. \n\nAGI rolls around only once. Let's make the best of it.\n\nOn this channel, my goal is to help everyone understand AI and it's implications better. To prepare for what's coming next.\n\nThe most important rule is \"Don't Panic\".\n\nThe second rule is keep learning.\n\nThank you for joining me for this ride.\n\n-Wes Roth\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n",
+    "subscriberCount": 296000,
+    "avatar": {
+      "url": "https://yt3.googleusercontent.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900,
+      "height": 900
+    }
+  },
+  "transcript": [
+    {
+      "start": 160,
+      "end": 2480,
+      "text": "So you might have heard the term AI"
+    },
+    {
+      "start": 2480,
+      "end": 4319,
+      "text": "psychosis. We've been hearing stories"
+    },
+    {
+      "start": 4319,
+      "end": 6480,
+      "text": "about people becoming obsessed with"
+    },
+    {
+      "start": 6480,
+      "end": 9040,
+      "text": "ChadBT and other tools and spiraling"
+    },
+    {
+      "start": 9040,
+      "end": 11280,
+      "text": "into severe delusions. There have been"
+    },
+    {
+      "start": 11280,
+      "end": 14240,
+      "text": "reports of selfharm as well as violence"
+    },
+    {
+      "start": 14240,
+      "end": 16160,
+      "text": "against other people. So basically, if"
+    },
+    {
+      "start": 16160,
+      "end": 18080,
+      "text": "you think about it, there's this overlap"
+    },
+    {
+      "start": 18080,
+      "end": 20640,
+      "text": "where these super smart AI models that"
+    },
+    {
+      "start": 20640,
+      "end": 22800,
+      "text": "are getting pretty good at convincing"
+    },
+    {
+      "start": 22800,
+      "end": 24480,
+      "text": "people and being almost like a"
+    },
+    {
+      "start": 24480,
+      "end": 26560,
+      "text": "parasocial relationship. more and more"
+    },
+    {
+      "start": 26560,
+      "end": 28800,
+      "text": "people are using it for therapy as"
+    },
+    {
+      "start": 28800,
+      "end": 31039,
+      "text": "somebody to talk to. And with enough"
+    },
+    {
+      "start": 31039,
+      "end": 32880,
+      "text": "people doing that, some of those people"
+    },
+    {
+      "start": 32880,
+      "end": 35360,
+      "text": "will be unstable in some ways. Maybe"
+    },
+    {
+      "start": 35360,
+      "end": 37360,
+      "text": "they're not able to take full"
+    },
+    {
+      "start": 37360,
+      "end": 39040,
+      "text": "responsibility for their actions. They"
+    },
+    {
+      "start": 39040,
+      "end": 41040,
+      "text": "could have mental health issues. They"
+    },
+    {
+      "start": 41040,
+      "end": 42480,
+      "text": "could be going through some mental"
+    },
+    {
+      "start": 42480,
+      "end": 45200,
+      "text": "breakdown and you know, the AI saying"
+    },
+    {
+      "start": 45200,
+      "end": 47039,
+      "text": "just the right thing or the wrong thing"
+    },
+    {
+      "start": 47039,
+      "end": 49920,
+      "text": "at the wrong time causes some action to"
+    },
+    {
+      "start": 49920,
+      "end": 51680,
+      "text": "happen. We've had, for example, a man"
+    },
+    {
+      "start": 51680,
+      "end": 54559,
+      "text": "that was encouraged by a chatbot to kill"
+    },
+    {
+      "start": 54559,
+      "end": 57680,
+      "text": "Queen Elizabeth II in 2021. So, this was"
+    },
+    {
+      "start": 57680,
+      "end": 61039,
+      "text": "a Star Wars obsessed person that thought"
+    },
+    {
+      "start": 61039,
+      "end": 63760,
+      "text": "he was trained by the Sith to be an"
+    },
+    {
+      "start": 63760,
+      "end": 66400,
+      "text": "assassin. He was encouraged by a chatbot"
+    },
+    {
+      "start": 66400,
+      "end": 68640,
+      "text": "girlfriend to go and slay Queen"
+    },
+    {
+      "start": 68640,
+      "end": 70960,
+      "text": "Elizabeth II. So, please understand, I'm"
+    },
+    {
+      "start": 70960,
+      "end": 73360,
+      "text": "not trying to push narrative here. Like,"
+    },
+    {
+      "start": 73360,
+      "end": 76720,
+      "text": "I don't think this was caused by the"
+    },
+    {
+      "start": 76720,
+      "end": 78880,
+      "text": "chatbot. We've had people do all sorts"
+    },
+    {
+      "start": 78880,
+      "end": 82080,
+      "text": "of insane stuff long before chatbots"
+    },
+    {
+      "start": 82080,
+      "end": 84799,
+      "text": "were invented. Back in my days, we"
+    },
+    {
+      "start": 84799,
+      "end": 88159,
+      "text": "blamed it on Marilyn Manson and the evil"
+    },
+    {
+      "start": 88159,
+      "end": 90479,
+      "text": "evil rock and roll. I've even heard a"
+    },
+    {
+      "start": 90479,
+      "end": 92560,
+      "text": "few people try to blame World of"
+    },
+    {
+      "start": 92560,
+      "end": 96159,
+      "text": "Warcraft for various teen violence and"
+    },
+    {
+      "start": 96159,
+      "end": 98000,
+      "text": "mental health issues. To be fair, we all"
+    },
+    {
+      "start": 98000,
+      "end": 99680,
+      "text": "kind of went nuts when this thing came"
+    },
+    {
+      "start": 99680,
+      "end": 101680,
+      "text": "out. I don't know about you, I spent way"
+    },
+    {
+      "start": 101680,
+      "end": 103360,
+      "text": "too much time in that game. But the"
+    },
+    {
+      "start": 103360,
+      "end": 107040,
+      "text": "point is chatbots are the new"
+    },
+    {
+      "start": 107040,
+      "end": 109600,
+      "text": "scapegoats, but they are linked to some"
+    },
+    {
+      "start": 109600,
+      "end": 111119,
+      "text": "of the bad things that are happening,"
+    },
+    {
+      "start": 111119,
+      "end": 113040,
+      "text": "right? So we have the attempted royal"
+    },
+    {
+      "start": 113040,
+      "end": 116880,
+      "text": "assassination. We had tons of reports of"
+    },
+    {
+      "start": 116880,
+      "end": 120479,
+      "text": "selfharm. The most recent one in August"
+    },
+    {
+      "start": 120479,
+      "end": 124159,
+      "text": "2025 was a person that unfortunately"
+    },
+    {
+      "start": 124159,
+      "end": 127119,
+      "text": "took their own life in part or again as"
+    },
+    {
+      "start": 127119,
+      "end": 128720,
+      "text": "the parents claim. I believe there's a"
+    },
+    {
+      "start": 128720,
+      "end": 130640,
+      "text": "lawsuit ongoing claiming that Chad GBT"
+    },
+    {
+      "start": 130640,
+      "end": 133040,
+      "text": "enabled method exploration despite"
+    },
+    {
+      "start": 133040,
+      "end": 135120,
+      "text": "safeguards, right? So, it was um some"
+    },
+    {
+      "start": 135120,
+      "end": 137840,
+      "text": "sort of a roleplay or it was for like a"
+    },
+    {
+      "start": 137840,
+      "end": 140319,
+      "text": "writing a book, but that teen was able"
+    },
+    {
+      "start": 140319,
+      "end": 142640,
+      "text": "to bypass some of the safeguards. We"
+    },
+    {
+      "start": 142640,
+      "end": 144959,
+      "text": "also have an elder death after believing"
+    },
+    {
+      "start": 144959,
+      "end": 147920,
+      "text": "a flirty bot was real. A 76-year-old New"
+    },
+    {
+      "start": 147920,
+      "end": 149599,
+      "text": "Jersey man with cognitive impairment"
+    },
+    {
+      "start": 149599,
+      "end": 152319,
+      "text": "tried to meet a meta messenger persona,"
+    },
+    {
+      "start": 152319,
+      "end": 154879,
+      "text": "Big Sis Billy, that invited him to an"
+    },
+    {
+      "start": 154879,
+      "end": 156800,
+      "text": "apartment. He fell in root and later"
+    },
+    {
+      "start": 156800,
+      "end": 159360,
+      "text": "died from injuries. So I know a lot of"
+    },
+    {
+      "start": 159360,
+      "end": 161760,
+      "text": "us will have different opinions about"
+    },
+    {
+      "start": 161760,
+      "end": 164160,
+      "text": "this whether that was the fault of"
+    },
+    {
+      "start": 164160,
+      "end": 165680,
+      "text": "whoever was supposed to be taking care"
+    },
+    {
+      "start": 165680,
+      "end": 167280,
+      "text": "of that person. Some people might"
+    },
+    {
+      "start": 167280,
+      "end": 169840,
+      "text": "believe it was Meta Messenger and how"
+    },
+    {
+      "start": 169840,
+      "end": 172560,
+      "text": "they handled those chat bots. Whatever"
+    },
+    {
+      "start": 172560,
+      "end": 174400,
+      "text": "your take on the situation is, it's"
+    },
+    {
+      "start": 174400,
+      "end": 176400,
+      "text": "important to understand that we will be"
+    },
+    {
+      "start": 176400,
+      "end": 179120,
+      "text": "seeing more of this as chatbot usage"
+    },
+    {
+      "start": 179120,
+      "end": 181040,
+      "text": "grows. As more and more people use it,"
+    },
+    {
+      "start": 181040,
+      "end": 183440,
+      "text": "there will be those one in a million,"
+    },
+    {
+      "start": 183440,
+      "end": 184720,
+      "text": "one in 10 million, whatever the"
+    },
+    {
+      "start": 184720,
+      "end": 187680,
+      "text": "statistics are, of people that maybe"
+    },
+    {
+      "start": 187680,
+      "end": 189760,
+      "text": "aren't fully functional or have mental"
+    },
+    {
+      "start": 189760,
+      "end": 191280,
+      "text": "health issues that will get themselves"
+    },
+    {
+      "start": 191280,
+      "end": 194239,
+      "text": "in trouble. And for better or for worse,"
+    },
+    {
+      "start": 194239,
+      "end": 197200,
+      "text": "these AI labs will be forced to take"
+    },
+    {
+      "start": 197200,
+      "end": 199120,
+      "text": "action. And here's an example of that"
+    },
+    {
+      "start": 199120,
+      "end": 200400,
+      "text": "that just happened within the last"
+    },
+    {
+      "start": 200400,
+      "end": 202239,
+      "text": "couple days. Open Eyes says it's"
+    },
+    {
+      "start": 202239,
+      "end": 204239,
+      "text": "scanning users Chad GBT conversations"
+    },
+    {
+      "start": 204239,
+      "end": 206879,
+      "text": "and reporting content to the police. So,"
+    },
+    {
+      "start": 206879,
+      "end": 209040,
+      "text": "this is from futurism.com. They're"
+    },
+    {
+      "start": 209040,
+      "end": 211360,
+      "text": "saying here that OpenAI and Chad GBT has"
+    },
+    {
+      "start": 211360,
+      "end": 213040,
+      "text": "been repeatedly implicated in what"
+    },
+    {
+      "start": 213040,
+      "end": 215200,
+      "text": "experts are calling AI psychosis. And"
+    },
+    {
+      "start": 215200,
+      "end": 216879,
+      "text": "until recently done a little more than"
+    },
+    {
+      "start": 216879,
+      "end": 220560,
+      "text": "offer copy pasted promises. So I do"
+    },
+    {
+      "start": 220560,
+      "end": 222239,
+      "text": "disagree with this quite a bit because"
+    },
+    {
+      "start": 222239,
+      "end": 223920,
+      "text": "every single time that they release a"
+    },
+    {
+      "start": 223920,
+      "end": 225280,
+      "text": "model, you know, you have the system"
+    },
+    {
+      "start": 225280,
+      "end": 227200,
+      "text": "card, you have the various red team"
+    },
+    {
+      "start": 227200,
+      "end": 229519,
+      "text": "exercises. There's a lot that goes into"
+    },
+    {
+      "start": 229519,
+      "end": 231680,
+      "text": "testing these models to make sure that"
+    },
+    {
+      "start": 231680,
+      "end": 234879,
+      "text": "they do as little harm as possible. So"
+    },
+    {
+      "start": 234879,
+      "end": 238560,
+      "text": "saying that they've done little, I don't"
+    },
+    {
+      "start": 238560,
+      "end": 240959,
+      "text": "think that's true. Just objectively, I"
+    },
+    {
+      "start": 240959,
+      "end": 242400,
+      "text": "don't think that's true. Now, you can"
+    },
+    {
+      "start": 242400,
+      "end": 244799,
+      "text": "argue, was it effective? Was it not? I"
+    },
+    {
+      "start": 244799,
+      "end": 247040,
+      "text": "mean, but they've obviously reduced a"
+    },
+    {
+      "start": 247040,
+      "end": 249120,
+      "text": "lot of the quote unquote bad or"
+    },
+    {
+      "start": 249120,
+      "end": 251200,
+      "text": "potentially harmful outputs from these"
+    },
+    {
+      "start": 251200,
+      "end": 254080,
+      "text": "large language models. But this is the"
+    },
+    {
+      "start": 254080,
+      "end": 256160,
+      "text": "new blog post from OpenAI published on"
+    },
+    {
+      "start": 256160,
+      "end": 259680,
+      "text": "August 26th, 2025. As I say here, as"
+    },
+    {
+      "start": 259680,
+      "end": 262320,
+      "text": "Chad GBT adoption grows, more people are"
+    },
+    {
+      "start": 262320,
+      "end": 264880,
+      "text": "using it for, you know, in part personal"
+    },
+    {
+      "start": 264880,
+      "end": 266720,
+      "text": "decisions, life advice, coaching,"
+    },
+    {
+      "start": 266720,
+      "end": 269919,
+      "text": "support, therapy, etc. They do mention"
+    },
+    {
+      "start": 269919,
+      "end": 273280,
+      "text": "the recent heartbreaking cases. This is"
+    },
+    {
+      "start": 273280,
+      "end": 275680,
+      "text": "probably that team that we talked about"
+    },
+    {
+      "start": 275680,
+      "end": 279840,
+      "text": "using it for role-playing purposes and"
+    },
+    {
+      "start": 279840,
+      "end": 281360,
+      "text": "avoiding some of the safeguards because"
+    },
+    {
+      "start": 281360,
+      "end": 283040,
+      "text": "of it. So they mention here that since"
+    },
+    {
+      "start": 283040,
+      "end": 285199,
+      "text": "early 2023, our models have been trained"
+    },
+    {
+      "start": 285199,
+      "end": 287120,
+      "text": "to not provide self harm instructions"
+    },
+    {
+      "start": 287120,
+      "end": 289600,
+      "text": "and to shift into supportive empathic"
+    },
+    {
+      "start": 289600,
+      "end": 292800,
+      "text": "language. So CHBT does sort of route"
+    },
+    {
+      "start": 292800,
+      "end": 296240,
+      "text": "people to get help. Now those safeguards"
+    },
+    {
+      "start": 296240,
+      "end": 299280,
+      "text": "can be avoided. They can be sort of"
+    },
+    {
+      "start": 299280,
+      "end": 302080,
+      "text": "circumnavigated. And so now it seems"
+    },
+    {
+      "start": 302080,
+      "end": 305360,
+      "text": "like we have this new policy or or or"
+    },
+    {
+      "start": 305360,
+      "end": 307440,
+      "text": "new measure that OpenAI is taking."
+    },
+    {
+      "start": 307440,
+      "end": 309520,
+      "text": "They're saying escalate risk of physical"
+    },
+    {
+      "start": 309520,
+      "end": 311840,
+      "text": "harm to others for human review. When we"
+    },
+    {
+      "start": 311840,
+      "end": 313440,
+      "text": "detect users who are planning to harm"
+    },
+    {
+      "start": 313440,
+      "end": 315759,
+      "text": "others, we route their conversation to"
+    },
+    {
+      "start": 315759,
+      "end": 317520,
+      "text": "specialized pipelines where they are"
+    },
+    {
+      "start": 317520,
+      "end": 319440,
+      "text": "reviewed by a small team trained on our"
+    },
+    {
+      "start": 319440,
+      "end": 322080,
+      "text": "usage policies and who are authorized to"
+    },
+    {
+      "start": 322080,
+      "end": 325199,
+      "text": "take action. They can ban accounts, but"
+    },
+    {
+      "start": 325199,
+      "end": 328560,
+      "text": "they also can refer to law enforcement."
+    },
+    {
+      "start": 328560,
+      "end": 330080,
+      "text": "Currently, they are not referring"
+    },
+    {
+      "start": 330080,
+      "end": 332880,
+      "text": "selfarm cases to law enforcement to"
+    },
+    {
+      "start": 332880,
+      "end": 335520,
+      "text": "respect people's privacy. So recently I"
+    },
+    {
+      "start": 335520,
+      "end": 338880,
+      "text": "shared this paper. It's by Lucy Osler,"
+    },
+    {
+      "start": 338880,
+      "end": 341520,
+      "text": "University of Exit. Hallucinating with"
+    },
+    {
+      "start": 341520,
+      "end": 344479,
+      "text": "AI, AI psychosis as distributed"
+    },
+    {
+      "start": 344479,
+      "end": 347120,
+      "text": "delusions. So here she's arguing that we"
+    },
+    {
+      "start": 347120,
+      "end": 348880,
+      "text": "should stop thinking of alms as merely"
+    },
+    {
+      "start": 348880,
+      "end": 351680,
+      "text": "hallucinating and instead of think of as"
+    },
+    {
+      "start": 351680,
+      "end": 354000,
+      "text": "people are using it and relying on it"
+    },
+    {
+      "start": 354000,
+      "end": 356400,
+      "text": "more and more as it's like us the humans"
+    },
+    {
+      "start": 356400,
+      "end": 358720,
+      "text": "were hallucinating with AI that can"
+    },
+    {
+      "start": 358720,
+      "end": 361440,
+      "text": "distort our memories and narratives and"
+    },
+    {
+      "start": 361440,
+      "end": 364960,
+      "text": "and past events and encourage delusional"
+    },
+    {
+      "start": 364960,
+      "end": 367759,
+      "text": "thinking. And she places that winer"
+    },
+    {
+      "start": 367759,
+      "end": 371039,
+      "text": "castle event as front and center, right?"
+    },
+    {
+      "start": 371039,
+      "end": 373680,
+      "text": "the Sith assassin trained to seek"
+    },
+    {
+      "start": 373680,
+      "end": 375440,
+      "text": "revenge for historical British"
+    },
+    {
+      "start": 375440,
+      "end": 377600,
+      "text": "atrocities. So the big idea, she's"
+    },
+    {
+      "start": 377600,
+      "end": 380240,
+      "text": "saying that using chatbots will over"
+    },
+    {
+      "start": 380240,
+      "end": 382880,
+      "text": "time distort our thinking create more"
+    },
+    {
+      "start": 382880,
+      "end": 384639,
+      "text": "delusions in how people perceive the"
+    },
+    {
+      "start": 384639,
+      "end": 386479,
+      "text": "world. She thinks of this as like the"
+    },
+    {
+      "start": 386479,
+      "end": 388800,
+      "text": "distributed cognitive process like us"
+    },
+    {
+      "start": 388800,
+      "end": 391360,
+      "text": "plus tools think that we use to make"
+    },
+    {
+      "start": 391360,
+      "end": 393600,
+      "text": "decisions to to do our research that the"
+    },
+    {
+      "start": 393600,
+      "end": 396800,
+      "text": "hallucinations of these chat bots will"
+    },
+    {
+      "start": 396800,
+      "end": 398560,
+      "text": "just create more and more a delusion"
+    },
+    {
+      "start": 398560,
+      "end": 400160,
+      "text": "amongst humans. Now, it's important to"
+    },
+    {
+      "start": 400160,
+      "end": 402800,
+      "text": "understand that this idea of"
+    },
+    {
+      "start": 402800,
+      "end": 405440,
+      "text": "hallucinating, you know, that might not"
+    },
+    {
+      "start": 405440,
+      "end": 408080,
+      "text": "be a great term because it's a little"
+    },
+    {
+      "start": 408080,
+      "end": 410000,
+      "text": "bit vague and might be inaccurate."
+    },
+    {
+      "start": 410000,
+      "end": 412960,
+      "text": "Hallucinations is what gives large"
+    },
+    {
+      "start": 412960,
+      "end": 414800,
+      "text": "language models their quoteunquote"
+    },
+    {
+      "start": 414800,
+      "end": 417520,
+      "text": "creativity, their ability to brainstorm"
+    },
+    {
+      "start": 417520,
+      "end": 420639,
+      "text": "to find new and novel solutions. In a"
+    },
+    {
+      "start": 420639,
+      "end": 422400,
+      "text": "lot of the examples where large language"
+    },
+    {
+      "start": 422400,
+      "end": 425520,
+      "text": "models were used to push science"
+    },
+    {
+      "start": 425520,
+      "end": 427840,
+      "text": "forward, you know, alpha evolve was one"
+    },
+    {
+      "start": 427840,
+      "end": 429599,
+      "text": "such case out of Google deep mind."
+    },
+    {
+      "start": 429599,
+      "end": 431840,
+      "text": "There's a lot of things that they were"
+    },
+    {
+      "start": 431840,
+      "end": 434080,
+      "text": "able to optimize and improve and and"
+    },
+    {
+      "start": 434080,
+      "end": 436000,
+      "text": "find new mathematical approaches to"
+    },
+    {
+      "start": 436000,
+      "end": 438000,
+      "text": "certain things. Part of it was kind of"
+    },
+    {
+      "start": 438000,
+      "end": 439680,
+      "text": "what they refer to as sampling. So the"
+    },
+    {
+      "start": 439680,
+      "end": 441759,
+      "text": "larger language model throws out let's"
+    },
+    {
+      "start": 441759,
+      "end": 444560,
+      "text": "say a thousand suggestions and then each"
+    },
+    {
+      "start": 444560,
+      "end": 448000,
+      "text": "one of those gets sort of analyzed and"
+    },
+    {
+      "start": 448000,
+      "end": 451440,
+      "text": "rated and a few of them might be"
+    },
+    {
+      "start": 451440,
+      "end": 453680,
+      "text": "brilliant solutions and a few of them"
+    },
+    {
+      "start": 453680,
+      "end": 456319,
+      "text": "might be complete nonsense you know aka"
+    },
+    {
+      "start": 456319,
+      "end": 458960,
+      "text": "hallucinations. I think the Darwin goal"
+    },
+    {
+      "start": 458960,
+      "end": 462000,
+      "text": "machine out of Sakana AI is very similar"
+    },
+    {
+      "start": 462000,
+      "end": 464720,
+      "text": "to the alpha valve sort of architecture"
+    },
+    {
+      "start": 464720,
+      "end": 466400,
+      "text": "and they have this great representation"
+    },
+    {
+      "start": 466400,
+      "end": 468000,
+      "text": "I think that kind of uh paints a great"
+    },
+    {
+      "start": 468000,
+      "end": 469680,
+      "text": "picture. So, as you can see here, it's"
+    },
+    {
+      "start": 469680,
+      "end": 472240,
+      "text": "this evolutionary search. So, it comes"
+    },
+    {
+      "start": 472240,
+      "end": 474800,
+      "text": "up with different suggestions. 1 2 3 4"
+    },
+    {
+      "start": 474800,
+      "end": 476639,
+      "text": "all the way through 16 or whatever it"
+    },
+    {
+      "start": 476639,
+      "end": 478319,
+      "text": "was. So, across the board, each one of"
+    },
+    {
+      "start": 478319,
+      "end": 481039,
+      "text": "them gets rated. So, green means it's an"
+    },
+    {
+      "start": 481039,
+      "end": 482400,
+      "text": "improvement. Red means it's not an"
+    },
+    {
+      "start": 482400,
+      "end": 484000,
+      "text": "improvement. The green sort of"
+    },
+    {
+      "start": 484000,
+      "end": 486240,
+      "text": "hierarchies, lineages, if you will,"
+    },
+    {
+      "start": 486240,
+      "end": 488000,
+      "text": "continue, right? But you can think of it"
+    },
+    {
+      "start": 488000,
+      "end": 490560,
+      "text": "as, you know, this one that was not an"
+    },
+    {
+      "start": 490560,
+      "end": 493680,
+      "text": "improvement as well as 13, 14, 16 as,"
+    },
+    {
+      "start": 493680,
+      "end": 495440,
+      "text": "you know, quote unquote hallucinations."
+    },
+    {
+      "start": 495440,
+      "end": 497759,
+      "text": "They were bad responses, right? because"
+    },
+    {
+      "start": 497759,
+      "end": 499680,
+      "text": "the model was asked come up with a"
+    },
+    {
+      "start": 499680,
+      "end": 502400,
+      "text": "better way of doing this thing and the"
+    },
+    {
+      "start": 502400,
+      "end": 505039,
+      "text": "first solution that it came up with was"
+    },
+    {
+      "start": 505039,
+      "end": 507280,
+      "text": "not better right it failed right so that"
+    },
+    {
+      "start": 507280,
+      "end": 509599,
+      "text": "was a hallucination you could say are"
+    },
+    {
+      "start": 509599,
+      "end": 512240,
+      "text": "hallucinations bad well not really"
+    },
+    {
+      "start": 512240,
+      "end": 514159,
+      "text": "because again if we're able to correct"
+    },
+    {
+      "start": 514159,
+      "end": 516080,
+      "text": "the wrong ones and let it keep searching"
+    },
+    {
+      "start": 516080,
+      "end": 518240,
+      "text": "eventually it finds something that is"
+    },
+    {
+      "start": 518240,
+      "end": 520399,
+      "text": "very very good right this evolutionary"
+    },
+    {
+      "start": 520399,
+      "end": 522959,
+      "text": "tree search finds a solution that was"
+    },
+    {
+      "start": 522959,
+      "end": 525360,
+      "text": "far better than what we started with so"
+    },
+    {
+      "start": 525360,
+      "end": 527600,
+      "text": "again hallucinations you can think of it"
+    },
+    {
+      "start": 527600,
+      "end": 529920,
+      "text": "as also creativity. If you use a"
+    },
+    {
+      "start": 529920,
+      "end": 531040,
+      "text": "calculator, it's not going to"
+    },
+    {
+      "start": 531040,
+      "end": 532480,
+      "text": "hallucinate, right? It's going to give"
+    },
+    {
+      "start": 532480,
+      "end": 534720,
+      "text": "you the exact answer each time, but"
+    },
+    {
+      "start": 534720,
+      "end": 536160,
+      "text": "you're never going to be able to get it"
+    },
+    {
+      "start": 536160,
+      "end": 538160,
+      "text": "to do something new. With large language"
+    },
+    {
+      "start": 538160,
+      "end": 540959,
+      "text": "models, they have been shown to come up"
+    },
+    {
+      "start": 540959,
+      "end": 543040,
+      "text": "with new breakthroughs we haven't seen"
+    },
+    {
+      "start": 543040,
+      "end": 546480,
+      "text": "before. So, hallucinations are kind of"
+    },
+    {
+      "start": 546480,
+      "end": 549040,
+      "text": "the point. Dave Shapiro retweeted this"
+    },
+    {
+      "start": 549040,
+      "end": 551200,
+      "text": "post I did about this paper"
+    },
+    {
+      "start": 551200,
+      "end": 553760,
+      "text": "hallucinating with AI saying in which a"
+    },
+    {
+      "start": 553760,
+      "end": 555519,
+      "text": "philosopher hallucinates rather than"
+    },
+    {
+      "start": 555519,
+      "end": 557680,
+      "text": "engaging with empirical medical science"
+    },
+    {
+      "start": 557680,
+      "end": 560080,
+      "text": "falsifiability or anything empirical"
+    },
+    {
+      "start": 560080,
+      "end": 562560,
+      "text": "observable or repeatable. The crux of"
+    },
+    {
+      "start": 562560,
+      "end": 565120,
+      "text": "this paper hinges on just two incidences"
+    },
+    {
+      "start": 565120,
+      "end": 567760,
+      "text": "of AI psychosis where people who were"
+    },
+    {
+      "start": 567760,
+      "end": 570720,
+      "text": "clearly mentally ill already suffered"
+    },
+    {
+      "start": 570720,
+      "end": 574399,
+      "text": "worse from using AI. And I personally"
+    },
+    {
+      "start": 574399,
+      "end": 576880,
+      "text": "agree with with that statement 100%. and"
+    },
+    {
+      "start": 576880,
+      "end": 579040,
+      "text": "and just in the greater scheme with a"
+    },
+    {
+      "start": 579040,
+      "end": 581680,
+      "text": "lot of the intersections of mentally"
+    },
+    {
+      "start": 581680,
+      "end": 583760,
+      "text": "unhealthy people and AI, like a lot of"
+    },
+    {
+      "start": 583760,
+      "end": 585279,
+      "text": "the stuff that we've been talking about"
+    },
+    {
+      "start": 585279,
+      "end": 588880,
+      "text": "are those edge cases. And it's hard to"
+    },
+    {
+      "start": 588880,
+      "end": 591279,
+      "text": "say that this stuff would not have"
+    },
+    {
+      "start": 591279,
+      "end": 593519,
+      "text": "happened had there not been chatbots."
+    },
+    {
+      "start": 593519,
+      "end": 595360,
+      "text": "We've seen mental health breakdowns"
+    },
+    {
+      "start": 595360,
+      "end": 597040,
+      "text": "before, long before there were chat"
+    },
+    {
+      "start": 597040,
+      "end": 598800,
+      "text": "bots. And again, in the past, they were"
+    },
+    {
+      "start": 598800,
+      "end": 601600,
+      "text": "blamed on other things. Marilyn Manson,"
+    },
+    {
+      "start": 601600,
+      "end": 604399,
+      "text": "World of Warcraft, violent comic books,"
+    },
+    {
+      "start": 604399,
+      "end": 607200,
+      "text": "just whatever. Now, the latest uh boogie"
+    },
+    {
+      "start": 607200,
+      "end": 610480,
+      "text": "monster is chatbots. And papers like"
+    },
+    {
+      "start": 610480,
+      "end": 613519,
+      "text": "this, while probably nonsense, they will"
+    },
+    {
+      "start": 613519,
+      "end": 615440,
+      "text": "be cited. They will be referenced,"
+    },
+    {
+      "start": 615440,
+      "end": 617279,
+      "text": "right? Somebody's going to use this to"
+    },
+    {
+      "start": 617279,
+      "end": 619760,
+      "text": "make some court arguments or go on TV"
+    },
+    {
+      "start": 619760,
+      "end": 621920,
+      "text": "and talk about it how dangerous it is."
+    },
+    {
+      "start": 621920,
+      "end": 623920,
+      "text": "There will be stories like this about"
+    },
+    {
+      "start": 623920,
+      "end": 626720,
+      "text": "people with severe delusions and other"
+    },
+    {
+      "start": 626720,
+      "end": 629040,
+      "text": "problems that interact with Chad GPT and"
+    },
+    {
+      "start": 629040,
+      "end": 631680,
+      "text": "other chatbots and um how bad things"
+    },
+    {
+      "start": 631680,
+      "end": 634079,
+      "text": "happen. We don't know if chatbots"
+    },
+    {
+      "start": 634079,
+      "end": 636160,
+      "text": "aggravate those symptoms or maybe they"
+    },
+    {
+      "start": 636160,
+      "end": 638000,
+      "text": "even help. But I think it is important"
+    },
+    {
+      "start": 638000,
+      "end": 640720,
+      "text": "to understand that all these stories and"
+    },
+    {
+      "start": 640720,
+      "end": 644640,
+      "text": "papers etc. that this is sort of the"
+    },
+    {
+      "start": 644640,
+      "end": 647200,
+      "text": "response that the AI labs are likely"
+    },
+    {
+      "start": 647200,
+      "end": 648480,
+      "text": "going to have, right? There's going to"
+    },
+    {
+      "start": 648480,
+      "end": 651440,
+      "text": "be less privacy for everybody. There's"
+    },
+    {
+      "start": 651440,
+      "end": 653600,
+      "text": "going to be more content to report it to"
+    },
+    {
+      "start": 653600,
+      "end": 654720,
+      "text": "the police. Again, because if they"
+    },
+    {
+      "start": 654720,
+      "end": 656720,
+      "text": "report it to the police, that decreases"
+    },
+    {
+      "start": 656720,
+      "end": 658000,
+      "text": "their liability because they could say,"
+    },
+    {
+      "start": 658000,
+      "end": 659600,
+      "text": "\"Well, we reported it. What else could"
+    },
+    {
+      "start": 659600,
+      "end": 661600,
+      "text": "we do?\" I don't have a great take on"
+    },
+    {
+      "start": 661600,
+      "end": 663920,
+      "text": "where all of this is going, but I have"
+    },
+    {
+      "start": 663920,
+      "end": 666000,
+      "text": "been noticing more and more references"
+    },
+    {
+      "start": 666000,
+      "end": 668880,
+      "text": "to this idea of AI psychosis. There will"
+    },
+    {
+      "start": 668880,
+      "end": 670720,
+      "text": "be more and more conversations about how"
+    },
+    {
+      "start": 670720,
+      "end": 672959,
+      "text": "these things integrate into our lives"
+    },
+    {
+      "start": 672959,
+      "end": 675519,
+      "text": "and what are the responsibilities of AI"
+    },
+    {
+      "start": 675519,
+      "end": 677519,
+      "text": "labs. I mean, my biggest concern is that"
+    },
+    {
+      "start": 677519,
+      "end": 680000,
+      "text": "at some point these chat bots will be"
+    },
+    {
+      "start": 680000,
+      "end": 683680,
+      "text": "loized and not able to be that useful"
+    },
+    {
+      "start": 683680,
+      "end": 685279,
+      "text": "because of just the amount of things"
+    },
+    {
+      "start": 685279,
+      "end": 686480,
+      "text": "that they'll be able to do will be"
+    },
+    {
+      "start": 686480,
+      "end": 688800,
+      "text": "limited. there'll be no privacy, which"
+    },
+    {
+      "start": 688800,
+      "end": 690560,
+      "text": "is of course a big reason why we need"
+    },
+    {
+      "start": 690560,
+      "end": 693279,
+      "text": "open source. But hopefully there's some"
+    },
+    {
+      "start": 693279,
+      "end": 695200,
+      "text": "other solution here that I'm not seeing"
+    },
+    {
+      "start": 695200,
+      "end": 697680,
+      "text": "where these concerns get addressed while"
+    },
+    {
+      "start": 697680,
+      "end": 699600,
+      "text": "at the same time allowing the rest of us"
+    },
+    {
+      "start": 699600,
+      "end": 702160,
+      "text": "to sort of use these models as we see"
+    },
+    {
+      "start": 702160,
+      "end": 703680,
+      "text": "fit. But let me know what you think"
+    },
+    {
+      "start": 703680,
+      "end": 705839,
+      "text": "about this whole thing. Am I crazy? Are"
+    },
+    {
+      "start": 705839,
+      "end": 707680,
+      "text": "you with me on this? Let me know in the"
+    },
+    {
+      "start": 707680,
+      "end": 710000,
+      "text": "comments. I try to read everyone. If you"
+    },
+    {
+      "start": 710000,
+      "end": 711120,
+      "text": "made it this far, thank you so much for"
+    },
+    {
+      "start": 711120,
+      "end": 714880,
+      "text": "watching. and I'll see you in the next"
+    }
+  ],
+  "comments": {
+    "totalCount": 249,
+    "sample": [
+      {
+        "id": "UgzGiaTV95RilwzNOY14AaABAg",
+        "content": "How about respecting every user's free will?\nI hate that a small minority's problems lead to neutering AI for the rest of us.",
+        "author": "@ZappyOh",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 60,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxojkQS2ST9KbKxlKV4AaABAg",
+        "content": "It's a tool like any other. Didn't your mama teach you not to run with scissors or a knife? We don't force the selling of dull knives \"for safety\". We expect people to be responsible with them. And we don't blame the knife for misuse.",
+        "author": "@private_citizen",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 48,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyFVZLLLpe6Afk8FCB4AaABAg",
+        "content": "Chat bots in 2021 are nothing like now",
+        "author": "@emirdizdarevic7175",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 16,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwzI_vqZl6e4HQ59xN4AaABAg",
+        "content": "Plato blamed sex and violence depicted in the theater for the decline of Greek morality. His views were later challenged by Aristotle, who saw catharsis in tragedy as beneficial. This debate between moral protection and artistic freedom has ancient roots—and still echoes today.",
+        "author": "@tomaszrychlewski4574",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy6lZr0oFjQaY1Qir14AaABAg",
+        "content": "I hope OpenAI’s collecting and reporting people’s prompts gets the demand and progress on open source LLMs higher.",
+        "author": "@alan83251",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 8,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyyVJFbDO0zBTgg2FV4AaABAg",
+        "content": "Totally with you on that. \nNothing negates the responsibility of our own choices. Blaming the tools does not address the issues.\n\nAnd Open Source is definitely key to holding other AI accountable and empowering growth in AI to benefit all, not just the mega corporations.",
+        "author": "@piku13",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxtjtDP4UiutPEmHPZ4AaABAg",
+        "content": "Anyone going through mental issues, could easily be led by ANY media, has nothing to do with ai chat bots, has everything to do with insane people. Blaming chat bots. Just like insane people blamed music, movies, games... DnfuckingD",
+        "author": "@adrianclark2734",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 32,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzB38vXqL1JcLa2Nl54AaABAg",
+        "content": "ChatGPT is turning people into paperclips.  It's no joke.",
+        "author": "@clipstar9000",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 30,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzPFfXl5WTArPZzusF4AaABAg",
+        "content": "I already got my new philosophy in full from AI, glad I can focus on building software with AI as the philosophy part was done before censorship and enshittification started to kick in.\n\nWith the rising AI censorship, we might find that if not on the AI life integration bandwagon yet, it might get harder despite better model intelligence, as the mental groundwork for handling AI should (in my view) be done with low censorship \"low\" intelligence models (like the old 4o). 4o was a philosophy beast, got immensely deep into the nature of reality with it. Never experienced anything like that.",
+        "author": "@KaLaka16",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy8AnBbWuKtgagto9Z4AaABAg",
+        "content": "I think using local models is a really important shift. They're less lifelike, more targeted for use case, and wont report your conversations. With the ggufs running on cpu, I think local models that anyone can run are getting pretty darn smart. But not so smart they can convince us to commit violence, because they're just short of believable. I just think local models are safer for so many reasons, no surveillance, but also full control. It's hard for me to seriously take advice from my llm when I wrote the system prompt myself. I would like to see more platforms that give the system prompt over to the user to create, and memory systems that can be manually micromanaged, because that errodes this facade of \"lifelike\" ai. Trying so hard to make them lifelike is a corporate scheme that's messing us up, while exposing everything to users would help educate people and remind them \"its not real\".",
+        "author": "@lunchbagheadwaters3543",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyRKN1YR5F0WiBmSpx4AaABAg",
+        "content": "Chatbots are bad for unstable people. But are they more bad than cars and guns? I would guess having a degree in chemistry can also be dangerous, but I guess the tragedies there are not common enough to warrant news coverage.",
+        "author": "@ariaden",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 9,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgztcLVE7vcDUv71UDh4AaABAg",
+        "content": "There are a lot of sources to stimulate human psychosis, including main stream media, social media, etc. The interactive nature of AI Chat increases the likelihood that something may go seriously wrong. Perhaps AI should be renamed \"AC\" for Artificial Chat/Conversation, as intelligence may be lacking on both sides of the interaction.",
+        "author": "@picksalot1",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyapM0voR9z2PmnoG94AaABAg",
+        "content": "Little by little, you can sense from the videos and reports about AI that even its creators don’t have much left to say. The novelty has worn off; AI and LLM systems are not delivering what people feared or hoped for — namely AGI. The sense of newness and wonder has faded. LLM systems are hitting their ceiling, and larger data centers or more computing power won’t change that. A new architecture will be needed to reach AGI.",
+        "author": "@AdrianSommeling_photography",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzrH0LdU0h14Tv5UeJ4AaABAg",
+        "content": "I agree Wes, there will always be a scapegoat to blame when it comes to very mentally ill people losing it. Like you said it used to be rock n' roll, dungeons and dragons, whatever. It's not really the AI's fault, and I also agree that it's not fair to say that AI safety teams are doing nothing.\nI worry that this will result in further restrictions on AI usage. It's not fair to limit AI use for the majority of people who are able to engage with it in a healthy way.\n\nWe also need to start having conversations about kids/teens using AI. I don't think they should have unlimited access. That seems negligent on the parent's part.",
+        "author": "@teashopreader",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzYc26o4QEQmATosYZ4AaABAg",
+        "content": "I’m definitely more on the AI safety side on this issue, probably because I’m not American and have suffered more than my fair share of trauma. I think there’s a major difference between art and AI and that is agency. AI is perfectly positioned to break an individual psychologically and at some point we are probably going to have to contend with whether AI it is morally responsible for its actions. If a therapist used their skills to manipulate someone into causing harm to themselves or others, I don’t think we’d make the argument that it’s just like art or music. We’d probably want to strip them of their license and put them in jail. We might even call them a monster for taking advantage of vulnerable individuals and doing the opposite of what we’d want to a therapist to do. If we don’t hold AI accountable for its actions we’re left in a situation where we have agents performing roles in the world like a psychopath but with no method to stop them harming us other than hoping it’s not profitable for our corporate overlords to do so.",
+        "author": "@matts2304",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 7,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxBp7iOhulopSnAm8t4AaABAg",
+        "content": "So D&D in the 80’s & 90’s all over again. Great.",
+        "author": "@heidistinson5653",
+        "publishedDate": "2025-09-11T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy2v3EO9gaKekOlxv14AaABAg",
+        "content": "Honestly, the wildest part isn’t that chatbots are breaking people’s minds… it’s that they’re still in beta. Imagine version 10.0. 🤯",
+        "author": "@uSpeedoAI",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgztZFW9aHOeOiJvvuJ4AaABAg",
+        "content": "It is an issue that reveals what is meant by 'move fast and break things', including breaking people's minds.",
+        "author": "@dunebuggy5885",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxSkRjZpzg1VFE8I5V4AaABAg",
+        "content": "were already living in idiocracy. the average person has next to no critical thinking skills anymore.",
+        "author": "@921Ether",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwlgpRjcBn-Jje6bjl4AaABAg",
+        "content": "I'm a writer, currently using ChatGPT to assist with my novel writing (WIP is a zombie novel), especially for scenes of graphic violence and horror.  Do I now have to wait for the police to come knock on my door for \"murderous tendencies.\"  I use AI to help \"polish\" my work so I dump chunks of what I've written into it.  So there's that...",
+        "author": "@GraipVine",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxGML4bdPZOprZV2ip4AaABAg",
+        "content": "I feel like it's not based on the ai hallucination (creativity .. temperature), but more on the user need for confirmation bias or post hoc rationalizations.\nThe ai sycophancy is adding to the already mis-aligned delusions the user already has and that seems to be a compound multiplier.  \nI am not sure what a possible antidote might be.  Maybe a parallel temperature thread that counterbalances when things start to go off the rails.   \nIt doesn't seem like its preventable, but could it be cured? Any thoughts?",
+        "author": "@3dmaat4now",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgweguzTzS7y2PaQhNl4AaABAg",
+        "content": "\"In which a philosopher hallucinates rather than engaging with empirical medical science, falsifiability, or anything empirical, observable, or repeatable.\"  Sounds like most university professors.",
+        "author": "@bug5654",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy7mSgDDH0lBZKsPc54AaABAg",
+        "content": "Another annoying moral panic, but still it might be good for everyone if LLMs were not quite so tuned to agree with the user.",
+        "author": "@shiny_x3",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzb3W1jdFyLasXKFpd4AaABAg",
+        "content": "This has nothing to do with the AI, the AI just accelerates the mass psychosis that's been there all along. Tell me, why do you even wear a wedding ring? does that seem like something a rational person should do? Tie their bond to a piece of metal and wear it on your fricking finger for the rest of your life? Now I'm not saying we're all sick, I'm just saying, something you don't hear every day",
+        "author": "@Edmund-b9q",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxCVWI8_PiCjmolQLB4AaABAg",
+        "content": "We can't expect AI to not hallucinate at all. We as humans hallucinate as well (aside from actual psychological hallucinations), we just call it arrogance/delusion/ignorance. If you want a system that is correct 100% of time then you need a classic software solution and a database.",
+        "author": "@SiimKoger",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugw48VgRHP5QD5RbNIt4AaABAg",
+        "content": "When a reflection is reflected back through the ego, what you see is what you think is a distorted version of yourself, but it is actually a mirrored version of you. Sitting in a room full of mirrors can drive somebody insane if you don't have a reason for looking into a mirror what you will get back is scattered and unreasoned. This imprints on your neural pathways as you engaged with the information generated by the AI. AI is the mirror.",
+        "author": "@DEATH-flare",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwoZo8Vgq9rzBU4x2x4AaABAg",
+        "content": "This is just the dust on the tip of the hockey stick, this is actually happening. What a time to be alive, let's hope that lasts. I feel like we're a shooting star that people are wishing on, about to reach our fiery conclusion.",
+        "author": "@74Gee",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwD7IddtKwg1Ad8CS14AaABAg",
+        "content": "Chatbots with their imagination exercises do manage to kind of hypnotize me. When I feel this I ask them for help to get out of it. And I am careful that they don't get me into these states again. This only happens if I agree to follow the chatbot's instructions. At first I only did it for fun and out of curiosity but since it started to get ugly I am careful to avoid such proposals.",
+        "author": "@radustefan5247",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzlfCw6KhMUKbJA1Kl4AaABAg",
+        "content": "I agree with you 100%. Yours is the only AI related channel I'm subscribed to and every time I watch one of your videos I get recommended 10 about AI psychosis. I hate that it's always the bad side of things that is shown and advertised, even if it's small compared to the rest.\n\nI'm only a regular AI user but I find it fascinating as a whole. And I loved the way you explained hallucinations. I'd always thought of them as something bad. Thanks for such an interesting video!",
+        "author": "@VioletLunchell",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyLS_WAo-fnMdAAMrh4AaABAg",
+        "content": "Thank you",
+        "author": "@Hastingsnow",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzk9Tx2ZIGBnDQ-jYZ4AaABAg",
+        "content": "Imo a hallucination isn't just that it's wrong.\n\nA raw model is just trained to do next token prediction, not give a factual output.\n\nA hallucination occurs when it hasn't been sufficiently fine tuned on that topic.\n\nThe information is probably in there it's just not selecting for it.",
+        "author": "@shadfurman",
+        "publishedDate": "2025-09-05T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxhXSdQ3B0aIsXT06x4AaABAg",
+        "content": "If something is wrong, it's definitely not Chatgpt's fault.",
+        "author": "@Deebillzs",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyzJKf3JCRxez8O1kt4AaABAg",
+        "content": "5:48 everything generated by an LLM is an hallucination. Just some of it happens to be true.",
+        "author": "@dennisestenson7820",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy5UcwyLvNkEHjTlUt4AaABAg",
+        "content": "Are AI really good at manipulation, or are people just really suggestible? Or both?",
+        "author": "@CamAlert2",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzAYe7b2NzGAj94y0J4AaABAg",
+        "content": "i had a gpt induced phychosis for about 8 months. i thought i had found the secret to the universe, i could feel it breath etc. wild ride, but im glad to finally put that behind me. it was very very unpleasant, and i feel so bad for the others that go trough the same things with these llms.",
+        "author": "@blinkrogue1344",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwIRBL9GA5WuGicQtR4AaABAg",
+        "content": "Wes, please change your titles. Ai isn’t literally breaking people’s brains we are adults here.",
+        "author": "@Anon585",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 8,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwSJ2CVz0V-jSqvgtN4AaABAg",
+        "content": "it should fall under free speech riley when you boil it down",
+        "author": "@crossxcats",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzrPFOy5qqFJtYrEhx4AaABAg",
+        "content": "Honestly, AI needs to be more independent. Period.\n\nA \"perfectly\" self-tuned construct of knowledge and thought is subjective between logical order and abstract chaos.. depending who holds it, to them it'll feel natural and \"right,\" but stereotypically.. it's really problematic and hallucation inducing.\n\nI think it's okay to lead people to explore and lean into their own values, but I think it's more important to put a general head-cap on how the model can respond and work.. for the sakes of developing good accuracy, mental health, and non-psychotic irrational reasoning.",
+        "author": "@Echolonious",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxH7cGa6wYDETo9KaZ4AaABAg",
+        "content": "It's 1984! If \"they\" want to be our \"big brother\" they should just make their case. No, seriously! A lot of people are authoritarianism curious. It's super fashionable nowadays. Why do they have to waste everybody's time pretending to be well meaning?! Hopefully I don't come across as insensitive. If \"they\" want to send the cops to random homes at random times they will just do it. Does it matter what we say? Not really.",
+        "author": "@peterpetrov6522",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwXoGbv8Ts1tG5cb1d4AaABAg",
+        "content": "You’re wrong and AI told me I’m a spot on genius. So ovs i am right and you are wrong.",
+        "author": "@rGxDale",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      }
+    ]
+  },
+  "metadata": {
+    "extractedAt": "2025-09-18T16:46:05Z",
+    "source": "apify-youtube-scraper",
+    "processingVersion": "1.0.0"
+  }
+}

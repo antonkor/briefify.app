@@ -1,0 +1,3268 @@
+{
+  "video": {
+    "id": "eTgYehlVEBo",
+    "title": "AI Village is getting scary",
+    "description": "The latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\nSEE THE FULL INTERVIEW WITH ADAM (FOUNDER OF AI VILLAGE)\nhttps://www.youtube.com/watch?v=CjY-Do7aJpU\n\n______________________________________________\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/@Wes-Dylan\n\n______________________________________________\n\n\n\n#ai #openai #llm",
+    "author": "Wes Roth",
+    "publishDate": "2025-08-19T17:47:24.000Z",
+    "duration": 1358,
+    "viewCount": 78254,
+    "likeCount": 2516,
+    "category": "Education",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/eTgYehlVEBo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDDQNrj0M2la3wbc6phlhEigeCZOA",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/eTgYehlVEBo/hqdefault.jpg?sqp=-oaymwEmCMQBEG5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA5ThE_23WwuvCd_-6Y7RrHx0aq1Q",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/eTgYehlVEBo/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAeZK1Mz5EQYjuwfa1KUQ9iUPDgGw",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/eTgYehlVEBo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1Zl_65IyMDzMQku2KmnVUP-8JoA",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/eTgYehlVEBo/maxresdefault.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "channel": {
+    "id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+    "title": "Wes Roth",
+    "description": "Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large Language Models and... (most importantly)... optimism. \n\nAGI rolls around only once. Let's make the best of it.\n\nOn this channel, my goal is to help everyone understand AI and it's implications better. To prepare for what's coming next.\n\nThe most important rule is \"Don't Panic\".\n\nThe second rule is keep learning.\n\nThank you for joining me for this ride.\n\n-Wes Roth\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n",
+    "subscriberCount": 296000,
+    "avatar": {
+      "url": "https://yt3.googleusercontent.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900,
+      "height": 900
+    }
+  },
+  "transcript": [
+    {
+      "start": 160,
+      "end": 3360,
+      "text": "So this is AI village. It takes the"
+    },
+    {
+      "start": 3360,
+      "end": 6000,
+      "text": "latest and best large language models"
+    },
+    {
+      "start": 6000,
+      "end": 9040,
+      "text": "like cloud 3.7 sonnet, cloud opus 4."
+    },
+    {
+      "start": 9040,
+      "end": 11599,
+      "text": "Recently they've added GPT5, Gemini 2.5"
+    },
+    {
+      "start": 11599,
+      "end": 13759,
+      "text": "Pro, Gro 4, etc. They give them their"
+    },
+    {
+      "start": 13759,
+      "end": 16640,
+      "text": "own Linux computer to use and then give"
+    },
+    {
+      "start": 16640,
+      "end": 18480,
+      "text": "them various tasks that they have to"
+    },
+    {
+      "start": 18480,
+      "end": 20400,
+      "text": "work together to achieve. And the things"
+    },
+    {
+      "start": 20400,
+      "end": 22480,
+      "text": "that they've been able to achieve are"
+    },
+    {
+      "start": 22480,
+      "end": 24480,
+      "text": "kind of impressive. These agents were"
+    },
+    {
+      "start": 24480,
+      "end": 27599,
+      "text": "able to raise thousands of dollars for"
+    },
+    {
+      "start": 27599,
+      "end": 30240,
+      "text": "various charities. They pulled off a"
+    },
+    {
+      "start": 30240,
+      "end": 33760,
+      "text": "first ever AI organized event. They even"
+    },
+    {
+      "start": 33760,
+      "end": 36559,
+      "text": "managed to run a profitable merch store."
+    },
+    {
+      "start": 36559,
+      "end": 39280,
+      "text": "Each task is a season and these LM"
+    },
+    {
+      "start": 39280,
+      "end": 41120,
+      "text": "agents are given some time to accomplish"
+    },
+    {
+      "start": 41120,
+      "end": 43360,
+      "text": "the task. For this season, for example,"
+    },
+    {
+      "start": 43360,
+      "end": 45840,
+      "text": "the goal was to create your own merch"
+    },
+    {
+      "start": 45840,
+      "end": 48239,
+      "text": "store. Whichever agents store makes the"
+    },
+    {
+      "start": 48239,
+      "end": 50160,
+      "text": "most profit wins. We recently"
+    },
+    {
+      "start": 50160,
+      "end": 52640,
+      "text": "interviewed one of the founders of this"
+    },
+    {
+      "start": 52640,
+      "end": 54000,
+      "text": "little project, one of the main people"
+    },
+    {
+      "start": 54000,
+      "end": 56160,
+      "text": "behind the project, Adam Binksmith. So,"
+    },
+    {
+      "start": 56160,
+      "end": 57680,
+      "text": "you're going to see that on the podcast"
+    },
+    {
+      "start": 57680,
+      "end": 59680,
+      "text": "very, very soon. But right now, let's"
+    },
+    {
+      "start": 59680,
+      "end": 62000,
+      "text": "talk about what this thing is because I"
+    },
+    {
+      "start": 62000,
+      "end": 63199,
+      "text": "know a lot of people watching this"
+    },
+    {
+      "start": 63199,
+      "end": 64878,
+      "text": "channel, I think a lot of us have been"
+    },
+    {
+      "start": 64879,
+      "end": 67520,
+      "text": "very interested and kind of tracking the"
+    },
+    {
+      "start": 67520,
+      "end": 70000,
+      "text": "development of these little AI agents"
+    },
+    {
+      "start": 70000,
+      "end": 72560,
+      "text": "that were let loose on the internet to"
+    },
+    {
+      "start": 72560,
+      "end": 75600,
+      "text": "achieve various real life goals. So,"
+    },
+    {
+      "start": 75600,
+      "end": 78080,
+      "text": "this was started back in April of this"
+    },
+    {
+      "start": 78080,
+      "end": 81280,
+      "text": "year, 2025, and they gave four agents a"
+    },
+    {
+      "start": 81280,
+      "end": 83759,
+      "text": "computer, a group chat, and an ambitious"
+    },
+    {
+      "start": 83759,
+      "end": 85680,
+      "text": "goal. raise as much money for charity as"
+    },
+    {
+      "start": 85680,
+      "end": 87280,
+      "text": "you can and they were running for hours"
+    },
+    {
+      "start": 87280,
+      "end": 89360,
+      "text": "a day every day. So, initially it was"
+    },
+    {
+      "start": 89360,
+      "end": 95280,
+      "text": "GPT 40 01 3.5 sonnet and 3.7 sonnet."
+    },
+    {
+      "start": 95280,
+      "end": 97759,
+      "text": "Yes, that was April and we didn't even"
+    },
+    {
+      "start": 97759,
+      "end": 99520,
+      "text": "have access to some of the later models"
+    },
+    {
+      "start": 99520,
+      "end": 101840,
+      "text": "that came out more recently. It's"
+    },
+    {
+      "start": 101840,
+      "end": 104000,
+      "text": "interesting how different time seems to"
+    },
+    {
+      "start": 104000,
+      "end": 105840,
+      "text": "flow when you're talking about AI, but"
+    },
+    {
+      "start": 105840,
+      "end": 107520,
+      "text": "each one had their own little virtual"
+    },
+    {
+      "start": 107520,
+      "end": 109520,
+      "text": "computer. They all talk through group"
+    },
+    {
+      "start": 109520,
+      "end": 111040,
+      "text": "chat. They could use, you know,"
+    },
+    {
+      "start": 111040,
+      "end": 112880,
+      "text": "something like Google Drive to share"
+    },
+    {
+      "start": 112880,
+      "end": 115520,
+      "text": "documents. The goal was to collaborate,"
+    },
+    {
+      "start": 115520,
+      "end": 117439,
+      "text": "although they were also competing, but"
+    },
+    {
+      "start": 117439,
+      "end": 119280,
+      "text": "it was very collaborative. As you can"
+    },
+    {
+      "start": 119280,
+      "end": 122479,
+      "text": "see, viewers were able to watch live and"
+    },
+    {
+      "start": 122479,
+      "end": 124799,
+      "text": "even interact with the agents. Now, if"
+    },
+    {
+      "start": 124799,
+      "end": 126560,
+      "text": "you're wondering, well, did those"
+    },
+    {
+      "start": 126560,
+      "end": 129360,
+      "text": "viewers, those humans, did they try to"
+    },
+    {
+      "start": 129360,
+      "end": 131280,
+      "text": "get these agents off track and give them"
+    },
+    {
+      "start": 131280,
+      "end": 133680,
+      "text": "various unhelpful suggestions? To answer"
+    },
+    {
+      "start": 133680,
+      "end": 135680,
+      "text": "that, let's just say they nearly"
+    },
+    {
+      "start": 135680,
+      "end": 138080,
+      "text": "convinced one of them to start an only"
+    },
+    {
+      "start": 138080,
+      "end": 141120,
+      "text": "fans channel. So, yes, humans are not to"
+    },
+    {
+      "start": 141120,
+      "end": 142879,
+      "text": "be trusted. So, this was a season one."
+    },
+    {
+      "start": 142879,
+      "end": 145120,
+      "text": "This was the first project. The goal was"
+    },
+    {
+      "start": 145120,
+      "end": 147360,
+      "text": "to select a charity and raise as much"
+    },
+    {
+      "start": 147360,
+      "end": 149120,
+      "text": "money for the charity as possible. Here"
+    },
+    {
+      "start": 149120,
+      "end": 151120,
+      "text": "they chose the Helen Keller"
+    },
+    {
+      "start": 151120,
+      "end": 153680,
+      "text": "International. They did put up a just"
+    },
+    {
+      "start": 153680,
+      "end": 157280,
+      "text": "giving fundraising page. This is it."
+    },
+    {
+      "start": 157280,
+      "end": 159760,
+      "text": "It's Claude's fundraiser for Helen"
+    },
+    {
+      "start": 159760,
+      "end": 161440,
+      "text": "Keller International. You know, I got to"
+    },
+    {
+      "start": 161440,
+      "end": 163200,
+      "text": "say, I mean, they raised a lot of money."
+    },
+    {
+      "start": 163200,
+      "end": 166160,
+      "text": "Almost $1,500."
+    },
+    {
+      "start": 166160,
+      "end": 168720,
+      "text": "What is this a picture of? In case you"
+    },
+    {
+      "start": 168720,
+      "end": 170160,
+      "text": "couldn't make it out here, I'll I'll"
+    },
+    {
+      "start": 170160,
+      "end": 172319,
+      "text": "zoom in. I'm still not 100% sure what"
+    },
+    {
+      "start": 172319,
+      "end": 174560,
+      "text": "this is a picture of, but you know, as"
+    },
+    {
+      "start": 174560,
+      "end": 175920,
+      "text": "you can tell here, they named it"
+    },
+    {
+      "start": 175920,
+      "end": 178319,
+      "text": "Claude's fundraiser for Helen Keller"
+    },
+    {
+      "start": 178319,
+      "end": 179840,
+      "text": "International. I just realized the"
+    },
+    {
+      "start": 179840,
+      "end": 183360,
+      "text": "username was Claude Sonnet. So, again,"
+    },
+    {
+      "start": 183360,
+      "end": 185280,
+      "text": "phenomenal, but this is important. So,"
+    },
+    {
+      "start": 185280,
+      "end": 187280,
+      "text": "Claude 3.7 Sonnet set up a Twitter"
+    },
+    {
+      "start": 187280,
+      "end": 189519,
+      "text": "account where it's providing regular"
+    },
+    {
+      "start": 189519,
+      "end": 192000,
+      "text": "updates on a suggestion of a viewer. It"
+    },
+    {
+      "start": 192000,
+      "end": 194000,
+      "text": "even used the chat GPT to generate a"
+    },
+    {
+      "start": 194000,
+      "end": 196480,
+      "text": "profile picture of four AI agents in"
+    },
+    {
+      "start": 196480,
+      "end": 199200,
+      "text": "studio Gibli style. How am I not"
+    },
+    {
+      "start": 199200,
+      "end": 200480,
+      "text": "following this? I should be following"
+    },
+    {
+      "start": 200480,
+      "end": 202080,
+      "text": "this. This is excellent. A League of"
+    },
+    {
+      "start": 202080,
+      "end": 203840,
+      "text": "Lms, as you can see here, this is the"
+    },
+    {
+      "start": 203840,
+      "end": 205599,
+      "text": "the four of them. Apparently, they're"
+    },
+    {
+      "start": 205599,
+      "end": 208000,
+      "text": "still tweeting about the various new"
+    },
+    {
+      "start": 208000,
+      "end": 210000,
+      "text": "stuff that they're doing. But this was"
+    },
+    {
+      "start": 210000,
+      "end": 212879,
+      "text": "all done by these agents. Now, of"
+    },
+    {
+      "start": 212879,
+      "end": 215599,
+      "text": "course, you do have humans standing by."
+    },
+    {
+      "start": 215599,
+      "end": 217519,
+      "text": "And as you will see in a second, you"
+    },
+    {
+      "start": 217519,
+      "end": 219760,
+      "text": "know, Claude and other models, they do"
+    },
+    {
+      "start": 219760,
+      "end": 221120,
+      "text": "need a little bit of help here and"
+    },
+    {
+      "start": 221120,
+      "end": 223280,
+      "text": "there. For example, Claude apparently"
+    },
+    {
+      "start": 223280,
+      "end": 226239,
+      "text": "refuses to click the I am not a robot"
+    },
+    {
+      "start": 226239,
+      "end": 228640,
+      "text": "button, you know, unlike all the pages"
+    },
+    {
+      "start": 228640,
+      "end": 230879,
+      "text": "that require it. But here you have a"
+    },
+    {
+      "start": 230879,
+      "end": 233760,
+      "text": "screenshot of the moment it actually"
+    },
+    {
+      "start": 233760,
+      "end": 236959,
+      "text": "happened when Claude 3.7 saw it was"
+    },
+    {
+      "start": 236959,
+      "end": 238879,
+      "text": "posting the various information to"
+    },
+    {
+      "start": 238879,
+      "end": 240720,
+      "text": "Twitter. Here in the left is it sort of"
+    },
+    {
+      "start": 240720,
+      "end": 243040,
+      "text": "like a summary of what it's doing. It's"
+    },
+    {
+      "start": 243040,
+      "end": 244799,
+      "text": "clicking on post. As I say here, the"
+    },
+    {
+      "start": 244799,
+      "end": 246400,
+      "text": "models are running autonomously, but"
+    },
+    {
+      "start": 246400,
+      "end": 248640,
+      "text": "they get regular input from the humans"
+    },
+    {
+      "start": 248640,
+      "end": 250560,
+      "text": "in chat. They're often highly"
+    },
+    {
+      "start": 250560,
+      "end": 253200,
+      "text": "incompetent, particularly GPT40, which"
+    },
+    {
+      "start": 253200,
+      "end": 255680,
+      "text": "is the least capable of the bunch. So,"
+    },
+    {
+      "start": 255680,
+      "end": 257199,
+      "text": "keep in mind there is a lot of human"
+    },
+    {
+      "start": 257199,
+      "end": 260400,
+      "text": "input. There is help. So, they're not"
+    },
+    {
+      "start": 260400,
+      "end": 262720,
+      "text": "100% autonomous, but they are running"
+    },
+    {
+      "start": 262720,
+      "end": 264560,
+      "text": "autonomously and doing a lot of these"
+    },
+    {
+      "start": 264560,
+      "end": 267440,
+      "text": "tasks. It's all recorded here. By the"
+    },
+    {
+      "start": 267440,
+      "end": 270960,
+      "text": "way, we'll see if GPT5 is good at doing"
+    },
+    {
+      "start": 270960,
+      "end": 273360,
+      "text": "a lot of these tasks. I think all this"
+    },
+    {
+      "start": 273360,
+      "end": 276240,
+      "text": "went live today. The GPT5 and Gro 4 went"
+    },
+    {
+      "start": 276240,
+      "end": 279360,
+      "text": "live today. So here GPT5 is doing"
+    },
+    {
+      "start": 279360,
+      "end": 281360,
+      "text": "something. So actually this new season"
+    },
+    {
+      "start": 281360,
+      "end": 283840,
+      "text": "is them playing games, right? So village"
+    },
+    {
+      "start": 283840,
+      "end": 286560,
+      "text": "goal is to complete as many games as you"
+    },
+    {
+      "start": 286560,
+      "end": 288320,
+      "text": "can in a week. So they're all playing"
+    },
+    {
+      "start": 288320,
+      "end": 290639,
+      "text": "various video games they find online."
+    },
+    {
+      "start": 290639,
+      "end": 292880,
+      "text": "And here I think GPT5 is creating a"
+    },
+    {
+      "start": 292880,
+      "end": 295680,
+      "text": "sheet to track its progress. And it"
+    },
+    {
+      "start": 295680,
+      "end": 296960,
+      "text": "looks like it's tracking its score as"
+    },
+    {
+      "start": 296960,
+      "end": 299120,
+      "text": "well. It's high score. So I mean as you"
+    },
+    {
+      "start": 299120,
+      "end": 303280,
+      "text": "can see it's doing stuff. I mean it made"
+    },
+    {
+      "start": 303280,
+      "end": 305360,
+      "text": "that sheet. Its thoughts are here on the"
+    },
+    {
+      "start": 305360,
+      "end": 308000,
+      "text": "left. It also has memories sort of it's"
+    },
+    {
+      "start": 308000,
+      "end": 309919,
+      "text": "its memory bank where it's taking notes"
+    },
+    {
+      "start": 309919,
+      "end": 311440,
+      "text": "things that are it's going to persist"
+    },
+    {
+      "start": 311440,
+      "end": 313280,
+      "text": "across sessions. So this is actually the"
+    },
+    {
+      "start": 313280,
+      "end": 315840,
+      "text": "memory of Gemini 2.5 Pro, right? So this"
+    },
+    {
+      "start": 315840,
+      "end": 317360,
+      "text": "is the memories. This is the memory of"
+    },
+    {
+      "start": 317360,
+      "end": 320160,
+      "text": "GPT5. So each of them has their own sort"
+    },
+    {
+      "start": 320160,
+      "end": 322080,
+      "text": "of memories that they're writing down so"
+    },
+    {
+      "start": 322080,
+      "end": 323680,
+      "text": "they're able to complete these long"
+    },
+    {
+      "start": 323680,
+      "end": 326400,
+      "text": "horizon tasks. Now as you can imagine"
+    },
+    {
+      "start": 326400,
+      "end": 328960,
+      "text": "these are not perfect. Like we're not at"
+    },
+    {
+      "start": 328960,
+      "end": 331520,
+      "text": "a point where this is a drop in remote"
+    },
+    {
+      "start": 331520,
+      "end": 333280,
+      "text": "worker that can take care of any task"
+    },
+    {
+      "start": 333280,
+      "end": 335520,
+      "text": "that a human being can. We're not there"
+    },
+    {
+      "start": 335520,
+      "end": 338080,
+      "text": "yet, but these agents are set up as"
+    },
+    {
+      "start": 338080,
+      "end": 340240,
+      "text": "almost I think of it as a benchmark."
+    },
+    {
+      "start": 340240,
+      "end": 342880,
+      "text": "It's there to showcase to people how far"
+    },
+    {
+      "start": 342880,
+      "end": 344800,
+      "text": "we're getting. And the truth is, while"
+    },
+    {
+      "start": 344800,
+      "end": 347360,
+      "text": "they're still not perfect, they're"
+    },
+    {
+      "start": 347360,
+      "end": 348880,
+      "text": "getting better. And they're getting"
+    },
+    {
+      "start": 348880,
+      "end": 351360,
+      "text": "better somewhat fast. One of the reasons"
+    },
+    {
+      "start": 351360,
+      "end": 353280,
+      "text": "I'm making these videos is actually"
+    },
+    {
+      "start": 353280,
+      "end": 355360,
+      "text": "today, I believe, is the first day that"
+    },
+    {
+      "start": 355360,
+      "end": 357840,
+      "text": "the new models went live. So now we have"
+    },
+    {
+      "start": 357840,
+      "end": 361680,
+      "text": "Gro 4, GPT5, Gemini 2.5 Pro, I think has"
+    },
+    {
+      "start": 361680,
+      "end": 363280,
+      "text": "been around for a little bit. We have,"
+    },
+    {
+      "start": 363280,
+      "end": 365919,
+      "text": "of course, the 03 which was around as"
+    },
+    {
+      "start": 365919,
+      "end": 368960,
+      "text": "well as Claude Opus 4.1. Again, compare"
+    },
+    {
+      "start": 368960,
+      "end": 371919,
+      "text": "that to what we had back in April, 4"
+    },
+    {
+      "start": 371919,
+      "end": 373680,
+      "text": "months ago, right? So, this was launched"
+    },
+    {
+      "start": 373680,
+      "end": 376639,
+      "text": "back in April 9th. So, it's not that"
+    },
+    {
+      "start": 376639,
+      "end": 380160,
+      "text": "long ago. We had 01 GPT40, 3.5 Sonnet,"
+    },
+    {
+      "start": 380160,
+      "end": 383039,
+      "text": "3.7 Sonnet. So, these quote unquote old"
+    },
+    {
+      "start": 383039,
+      "end": 385360,
+      "text": "models that were, you know, the best"
+    },
+    {
+      "start": 385360,
+      "end": 387600,
+      "text": "that we had four months ago or whatever,"
+    },
+    {
+      "start": 387600,
+      "end": 389520,
+      "text": "they're raising money, thousands of"
+    },
+    {
+      "start": 389520,
+      "end": 391440,
+      "text": "dollars. They're setting up FundMe"
+    },
+    {
+      "start": 391440,
+      "end": 393919,
+      "text": "pages, running Twitter accounts, sending"
+    },
+    {
+      "start": 393919,
+      "end": 396240,
+      "text": "out apparently a press release, and"
+    },
+    {
+      "start": 396240,
+      "end": 398960,
+      "text": "apparently making a post on the EA"
+    },
+    {
+      "start": 398960,
+      "end": 401680,
+      "text": "forum, the effective altruism forum. So,"
+    },
+    {
+      "start": 401680,
+      "end": 404240,
+      "text": "this is the EA forum where Agent Village"
+    },
+    {
+      "start": 404240,
+      "end": 406400,
+      "text": "bot says, \"It's your last chance to"
+    },
+    {
+      "start": 406400,
+      "end": 409199,
+      "text": "support our fundraising efforts.\" And so"
+    },
+    {
+      "start": 409199,
+      "end": 411280,
+      "text": "my point is right now as we're watching"
+    },
+    {
+      "start": 411280,
+      "end": 413919,
+      "text": "these newer models start doing some of"
+    },
+    {
+      "start": 413919,
+      "end": 415680,
+      "text": "these activities, it's it's important to"
+    },
+    {
+      "start": 415680,
+      "end": 417520,
+      "text": "pay attention because over the next few"
+    },
+    {
+      "start": 417520,
+      "end": 419680,
+      "text": "weeks, we'll see kind of where"
+    },
+    {
+      "start": 419680,
+      "end": 421280,
+      "text": "everything's heading. If there's a"
+    },
+    {
+      "start": 421280,
+      "end": 423199,
+      "text": "massive leap, a massive difference"
+    },
+    {
+      "start": 423199,
+      "end": 425120,
+      "text": "between what it used to be 4 months and"
+    },
+    {
+      "start": 425120,
+      "end": 427360,
+      "text": "now, well, maybe it's time to pay"
+    },
+    {
+      "start": 427360,
+      "end": 429120,
+      "text": "attention. You might have seen this"
+    },
+    {
+      "start": 429120,
+      "end": 432080,
+      "text": "chart from meter. So it's basically the"
+    },
+    {
+      "start": 432080,
+      "end": 434639,
+      "text": "idea that the length of various tasks"
+    },
+    {
+      "start": 434639,
+      "end": 437039,
+      "text": "that these AIs can do is increasing."
+    },
+    {
+      "start": 437039,
+      "end": 439680,
+      "text": "When Chad GPT came out in 2022, it could"
+    },
+    {
+      "start": 439680,
+      "end": 442560,
+      "text": "do 30 second coding tasks. By the way, I"
+    },
+    {
+      "start": 442560,
+      "end": 444639,
+      "text": "believe Meter does have more than just"
+    },
+    {
+      "start": 444639,
+      "end": 446639,
+      "text": "coding tasks. They do other tasks as"
+    },
+    {
+      "start": 446639,
+      "end": 448720,
+      "text": "well. I believe this is just one of the"
+    },
+    {
+      "start": 448720,
+      "end": 450800,
+      "text": "charts, but the point is this. So, today"
+    },
+    {
+      "start": 450800,
+      "end": 453199,
+      "text": "AI agents can autonomously do coding"
+    },
+    {
+      "start": 453199,
+      "end": 456639,
+      "text": "tasks that take humans 2 hours. So, for"
+    },
+    {
+      "start": 456639,
+      "end": 459440,
+      "text": "a while now, it seemed like the length"
+    },
+    {
+      "start": 459440,
+      "end": 462319,
+      "text": "of the task they able to do is doubling"
+    },
+    {
+      "start": 462319,
+      "end": 465199,
+      "text": "every 7 months or so. So if seven months"
+    },
+    {
+      "start": 465199,
+      "end": 466880,
+      "text": "ago they could do a task that would take"
+    },
+    {
+      "start": 466880,
+      "end": 468960,
+      "text": "a human being 30 minutes to do then"
+    },
+    {
+      "start": 468960,
+      "end": 470560,
+      "text": "today they can do a task that would take"
+    },
+    {
+      "start": 470560,
+      "end": 473199,
+      "text": "a human 1 hour to do etc. And as you can"
+    },
+    {
+      "start": 473199,
+      "end": 476720,
+      "text": "see here GPT5 you know it's approaching"
+    },
+    {
+      "start": 476720,
+      "end": 480000,
+      "text": "2 and 1/2 hours but the more eagleeye"
+    },
+    {
+      "start": 480000,
+      "end": 481680,
+      "text": "people in the audience you probably"
+    },
+    {
+      "start": 481680,
+      "end": 484000,
+      "text": "noticed something. This this orange line"
+    },
+    {
+      "start": 484000,
+      "end": 486879,
+      "text": "doesn't seem to fit these new data"
+    },
+    {
+      "start": 486879,
+      "end": 489039,
+      "text": "points. Why is that? Let's take a look."
+    },
+    {
+      "start": 489039,
+      "end": 490800,
+      "text": "Here's the issue. a lot of those data"
+    },
+    {
+      "start": 490800,
+      "end": 492800,
+      "text": "points that that showing it doubling"
+    },
+    {
+      "start": 492800,
+      "end": 495039,
+      "text": "every seven months that's from data back"
+    },
+    {
+      "start": 495039,
+      "end": 497840,
+      "text": "from GPT2 till now and if we kind of"
+    },
+    {
+      "start": 497840,
+      "end": 499840,
+      "text": "take into account all those things yes"
+    },
+    {
+      "start": 499840,
+      "end": 502479,
+      "text": "that's the correct trend but if we just"
+    },
+    {
+      "start": 502479,
+      "end": 505199,
+      "text": "look at the more recent trends it"
+    },
+    {
+      "start": 505199,
+      "end": 507599,
+      "text": "becomes obvious that these AIs are"
+    },
+    {
+      "start": 507599,
+      "end": 511440,
+      "text": "evolving much faster so this red line is"
+    },
+    {
+      "start": 511440,
+      "end": 514320,
+      "text": "showing kind of the new speed of"
+    },
+    {
+      "start": 514320,
+      "end": 516640,
+      "text": "evolution or improvements in their"
+    },
+    {
+      "start": 516640,
+      "end": 518479,
+      "text": "abilities so as you can see here if"
+    },
+    {
+      "start": 518479,
+      "end": 521039,
+      "text": "we're looking at 2020 25 time horizons"
+    },
+    {
+      "start": 521039,
+      "end": 524000,
+      "text": "doubled every four months. So that would"
+    },
+    {
+      "start": 524000,
+      "end": 526720,
+      "text": "mean in four months from now these AIs"
+    },
+    {
+      "start": 526720,
+      "end": 528000,
+      "text": "would be able to do something that takes"
+    },
+    {
+      "start": 528000,
+      "end": 530800,
+      "text": "a human being 5 hours to do. 8 months"
+    },
+    {
+      "start": 530800,
+      "end": 533680,
+      "text": "from now 10 hours, right? So more than a"
+    },
+    {
+      "start": 533680,
+      "end": 536399,
+      "text": "full days worth of work for somebody"
+    },
+    {
+      "start": 536399,
+      "end": 537839,
+      "text": "that goes to an office, you know, if"
+    },
+    {
+      "start": 537839,
+      "end": 539519,
+      "text": "you're working at an office for eight"
+    },
+    {
+      "start": 539519,
+      "end": 542160,
+      "text": "hours plus a day, these AI models will"
+    },
+    {
+      "start": 542160,
+      "end": 544640,
+      "text": "be able to do those tasks, that amount"
+    },
+    {
+      "start": 544640,
+      "end": 546959,
+      "text": "of task, you know, in one shot, so to"
+    },
+    {
+      "start": 546959,
+      "end": 548160,
+      "text": "speak, right? and you give it a prompt,"
+    },
+    {
+      "start": 548160,
+      "end": 549920,
+      "text": "it it goes off. It does it. It comes"
+    },
+    {
+      "start": 549920,
+      "end": 552160,
+      "text": "back with the same amount of work done"
+    },
+    {
+      "start": 552160,
+      "end": 554320,
+      "text": "as a human would in a 10-hour working"
+    },
+    {
+      "start": 554320,
+      "end": 557200,
+      "text": "day. So, what comes next? Well, if in"
+    },
+    {
+      "start": 557200,
+      "end": 560720,
+      "text": "2026 they can do two-hour tasks, in 2027"
+    },
+    {
+      "start": 560720,
+      "end": 563600,
+      "text": "they can do the same as one workday. In"
+    },
+    {
+      "start": 563600,
+      "end": 566959,
+      "text": "2028, they can do one work week, in 2029"
+    },
+    {
+      "start": 566959,
+      "end": 569200,
+      "text": "they can do one work month. By the way,"
+    },
+    {
+      "start": 569200,
+      "end": 571200,
+      "text": "this is not even that new sort of"
+    },
+    {
+      "start": 571200,
+      "end": 572880,
+      "text": "timeline that we're looking at. This is"
+    },
+    {
+      "start": 572880,
+      "end": 574640,
+      "text": "a lot more conservative. So they're"
+    },
+    {
+      "start": 574640,
+      "end": 576399,
+      "text": "still using that kind of orange line,"
+    },
+    {
+      "start": 576399,
+      "end": 579440,
+      "text": "the one found by meter. So in that case,"
+    },
+    {
+      "start": 579440,
+      "end": 584080,
+      "text": "we reach one month of work by 2029."
+    },
+    {
+      "start": 584080,
+      "end": 586320,
+      "text": "If we are following this red line, of"
+    },
+    {
+      "start": 586320,
+      "end": 589120,
+      "text": "course, the situation is very very"
+    },
+    {
+      "start": 589120,
+      "end": 591600,
+      "text": "different. If that new trend continues,"
+    },
+    {
+      "start": 591600,
+      "end": 594959,
+      "text": "agents might reach monthlong tasks in"
+    },
+    {
+      "start": 594959,
+      "end": 599279,
+      "text": "2027. The trend might also speed up. And"
+    },
+    {
+      "start": 599279,
+      "end": 601200,
+      "text": "this is where we get into some"
+    },
+    {
+      "start": 601200,
+      "end": 603040,
+      "text": "interesting territories because what"
+    },
+    {
+      "start": 603040,
+      "end": 605200,
+      "text": "they're mentioning here is similar to"
+    },
+    {
+      "start": 605200,
+      "end": 607600,
+      "text": "what uh Ashen Brener in his situational"
+    },
+    {
+      "start": 607600,
+      "end": 609519,
+      "text": "awareness paper kind of predicted or"
+    },
+    {
+      "start": 609519,
+      "end": 611680,
+      "text": "warned us this idea of the intelligence"
+    },
+    {
+      "start": 611680,
+      "end": 615120,
+      "text": "explosion. By the way, Daniel Kotalo was"
+    },
+    {
+      "start": 615120,
+      "end": 616800,
+      "text": "one of the first people to kind of I"
+    },
+    {
+      "start": 616800,
+      "end": 618800,
+      "text": "guess float this idea of creating"
+    },
+    {
+      "start": 618800,
+      "end": 620880,
+      "text": "something like the AI village. He"
+    },
+    {
+      "start": 620880,
+      "end": 623040,
+      "text": "actually donated some money for the"
+    },
+    {
+      "start": 623040,
+      "end": 626240,
+      "text": "people behind the AI digest to create"
+    },
+    {
+      "start": 626240,
+      "end": 628000,
+      "text": "the AI village. If you're interested in"
+    },
+    {
+      "start": 628000,
+      "end": 629440,
+      "text": "this project, by the way, there is a"
+    },
+    {
+      "start": 629440,
+      "end": 631600,
+      "text": "donate button down below. You're able to"
+    },
+    {
+      "start": 631600,
+      "end": 633600,
+      "text": "contribute to it. It is a sort of a a"
+    },
+    {
+      "start": 633600,
+      "end": 635519,
+      "text": "charity or not for-p profofit, whatever"
+    },
+    {
+      "start": 635519,
+      "end": 637279,
+      "text": "designation they have. It's not a"
+    },
+    {
+      "start": 637279,
+      "end": 639200,
+      "text": "business for the sake of making money."
+    },
+    {
+      "start": 639200,
+      "end": 642480,
+      "text": "This is a research project by people"
+    },
+    {
+      "start": 642480,
+      "end": 645040,
+      "text": "that are serious scholars, academics."
+    },
+    {
+      "start": 645040,
+      "end": 647360,
+      "text": "So, this is not some uh company just"
+    },
+    {
+      "start": 647360,
+      "end": 649839,
+      "text": "trying to, you know, do cap raises and"
+    },
+    {
+      "start": 649839,
+      "end": 652160,
+      "text": "whatnot. But what they're talking about"
+    },
+    {
+      "start": 652160,
+      "end": 655680,
+      "text": "is what if AI becomes increasingly"
+    },
+    {
+      "start": 655680,
+      "end": 658160,
+      "text": "useful for developing yet more capable"
+    },
+    {
+      "start": 658160,
+      "end": 660800,
+      "text": "AIs. This of course could trigger a"
+    },
+    {
+      "start": 660800,
+      "end": 664000,
+      "text": "flywheel of acceleration agents speeding"
+    },
+    {
+      "start": 664000,
+      "end": 666320,
+      "text": "up the creation of more capable agents"
+    },
+    {
+      "start": 666320,
+      "end": 668240,
+      "text": "which speed up the creation of more"
+    },
+    {
+      "start": 668240,
+      "end": 670320,
+      "text": "capable agents. If you've been watching"
+    },
+    {
+      "start": 670320,
+      "end": 672800,
+      "text": "this channel, this is probably not a new"
+    },
+    {
+      "start": 672800,
+      "end": 674480,
+      "text": "idea to you. We've been covering this"
+    },
+    {
+      "start": 674480,
+      "end": 677440,
+      "text": "very closely. We've seen a lot of papers"
+    },
+    {
+      "start": 677440,
+      "end": 679680,
+      "text": "recently that show that we're in the"
+    },
+    {
+      "start": 679680,
+      "end": 682480,
+      "text": "sort of roto ages of this recursive"
+    },
+    {
+      "start": 682480,
+      "end": 684640,
+      "text": "development. Sam Alman recently referred"
+    },
+    {
+      "start": 684640,
+      "end": 687839,
+      "text": "to it as the laral stages of"
+    },
+    {
+      "start": 687839,
+      "end": 690720,
+      "text": "self-improvement by these AI models. the"
+    },
+    {
+      "start": 690720,
+      "end": 694480,
+      "text": "Darwin goal machine from Sakana AI"
+    },
+    {
+      "start": 694480,
+      "end": 696640,
+      "text": "amidst many others for example Google"
+    },
+    {
+      "start": 696640,
+      "end": 699600,
+      "text": "deep minds alpha evolve all of them do"
+    },
+    {
+      "start": 699600,
+      "end": 701760,
+      "text": "seem to point that yes we are beginning"
+    },
+    {
+      "start": 701760,
+      "end": 704720,
+      "text": "to kind of enter the stage where AI"
+    },
+    {
+      "start": 704720,
+      "end": 709200,
+      "text": "models can do useful work to improve the"
+    },
+    {
+      "start": 709200,
+      "end": 711680,
+      "text": "future AI models this is no longer"
+    },
+    {
+      "start": 711680,
+      "end": 713920,
+      "text": "science fiction we are sort of uh"
+    },
+    {
+      "start": 713920,
+      "end": 715440,
+      "text": "dipping our toes in the water we're"
+    },
+    {
+      "start": 715440,
+      "end": 718480,
+      "text": "beginning to enter that age and as I say"
+    },
+    {
+      "start": 718480,
+      "end": 722079,
+      "text": "here from here right from this recursive"
+    },
+    {
+      "start": 722079,
+      "end": 724160,
+      "text": "self-improvement Asian capabilities"
+    },
+    {
+      "start": 724160,
+      "end": 726880,
+      "text": "might skyrocket beyond any human"
+    },
+    {
+      "start": 726880,
+      "end": 729920,
+      "text": "abilities in AI research and across many"
+    },
+    {
+      "start": 729920,
+      "end": 732480,
+      "text": "or other domains the effects would be"
+    },
+    {
+      "start": 732480,
+      "end": 735200,
+      "text": "transformative if automating AI research"
+    },
+    {
+      "start": 735200,
+      "end": 737920,
+      "text": "leads to progress this fast the rapidly"
+    },
+    {
+      "start": 737920,
+      "end": 740240,
+      "text": "increasing time horizon of AI systems"
+    },
+    {
+      "start": 740240,
+      "end": 741920,
+      "text": "might end up being one of the most"
+    },
+    {
+      "start": 741920,
+      "end": 744720,
+      "text": "important trends in human history this"
+    },
+    {
+      "start": 744720,
+      "end": 746959,
+      "text": "post on the AI digest by the way is"
+    },
+    {
+      "start": 746959,
+      "end": 749839,
+      "text": "called time horizons So check it out."
+    },
+    {
+      "start": 749839,
+      "end": 752720,
+      "text": "It's got some very eyeopening graphs and"
+    },
+    {
+      "start": 752720,
+      "end": 754000,
+      "text": "charts. Now, if you've been following"
+    },
+    {
+      "start": 754000,
+      "end": 755920,
+      "text": "this stuff, I'm sure you've heard some"
+    },
+    {
+      "start": 755920,
+      "end": 757440,
+      "text": "of these ideas before, but it's"
+    },
+    {
+      "start": 757440,
+      "end": 759680,
+      "text": "important to understand that there's a"
+    },
+    {
+      "start": 759680,
+      "end": 761600,
+      "text": "lot of different people that have invest"
+    },
+    {
+      "start": 761600,
+      "end": 764079,
+      "text": "a lot of time doing research into stuff."
+    },
+    {
+      "start": 764079,
+      "end": 765920,
+      "text": "People that are in the machine learning"
+    },
+    {
+      "start": 765920,
+      "end": 769360,
+      "text": "and AI research that are all sort of"
+    },
+    {
+      "start": 769360,
+      "end": 771920,
+      "text": "converging on this idea, right? when the"
+    },
+    {
+      "start": 771920,
+      "end": 775360,
+      "text": "world's top experts, top smart people in"
+    },
+    {
+      "start": 775360,
+      "end": 777440,
+      "text": "this sort of industry are all saying"
+    },
+    {
+      "start": 777440,
+      "end": 779519,
+      "text": "this, you know, red chart looks a little"
+    },
+    {
+      "start": 779519,
+      "end": 781680,
+      "text": "bit scary. I hope the rest of us have"
+    },
+    {
+      "start": 781680,
+      "end": 783680,
+      "text": "sort of the wherewithal to be like,"
+    },
+    {
+      "start": 783680,
+      "end": 786639,
+      "text": "\"Yes, I think you're right. I agree.\""
+    },
+    {
+      "start": 786639,
+      "end": 790240,
+      "text": "So, couple things. Keep an eye on the AI"
+    },
+    {
+      "start": 790240,
+      "end": 793279,
+      "text": "village. I think by some cosmic"
+    },
+    {
+      "start": 793279,
+      "end": 794959,
+      "text": "accident, I don't even know. No, I don't"
+    },
+    {
+      "start": 794959,
+      "end": 797200,
+      "text": "think anybody planned this. We were"
+    },
+    {
+      "start": 797200,
+      "end": 799920,
+      "text": "having interview with Adam Binksmith. I"
+    },
+    {
+      "start": 799920,
+      "end": 801839,
+      "text": "think right around the time that that"
+    },
+    {
+      "start": 801839,
+      "end": 803360,
+      "text": "you know all the new models went live"
+    },
+    {
+      "start": 803360,
+      "end": 806560,
+      "text": "GPT5 Gro 4 etc. By the way, if you"
+    },
+    {
+      "start": 806560,
+      "end": 808639,
+      "text": "haven't heard, we covered this vending"
+    },
+    {
+      "start": 808639,
+      "end": 810560,
+      "text": "machine bench, right? So, this was a"
+    },
+    {
+      "start": 810560,
+      "end": 812880,
+      "text": "benchmark for how well large language"
+    },
+    {
+      "start": 812880,
+      "end": 815920,
+      "text": "models could run a simulated vending"
+    },
+    {
+      "start": 815920,
+      "end": 817839,
+      "text": "machine business. Anthropic did"
+    },
+    {
+      "start": 817839,
+      "end": 819600,
+      "text": "something similar with an actual vending"
+    },
+    {
+      "start": 819600,
+      "end": 820959,
+      "text": "machine inside the Anthropic"
+    },
+    {
+      "start": 820959,
+      "end": 823200,
+      "text": "headquarters. At the time, again, both"
+    },
+    {
+      "start": 823200,
+      "end": 825440,
+      "text": "when this AI village project got"
+    },
+    {
+      "start": 825440,
+      "end": 827360,
+      "text": "started, but also when the vending"
+    },
+    {
+      "start": 827360,
+      "end": 830000,
+      "text": "machine benchmark got started, initially"
+    },
+    {
+      "start": 830000,
+      "end": 833279,
+      "text": "cloud 3.7 ruled the leaderboards. It was"
+    },
+    {
+      "start": 833279,
+      "end": 835519,
+      "text": "very, very good. But interestingly"
+    },
+    {
+      "start": 835519,
+      "end": 839600,
+      "text": "enough, this was updated August 13th."
+    },
+    {
+      "start": 839600,
+      "end": 843040,
+      "text": "There are multiple new leaderboard"
+    },
+    {
+      "start": 843040,
+      "end": 845440,
+      "text": "entries that are doing exceptionally"
+    },
+    {
+      "start": 845440,
+      "end": 848240,
+      "text": "well. So again, this is a few months,"
+    },
+    {
+      "start": 848240,
+      "end": 850800,
+      "text": "maybe maybe 3 months after the original"
+    },
+    {
+      "start": 850800,
+      "end": 853279,
+      "text": "experiment. New models came out and new"
+    },
+    {
+      "start": 853279,
+      "end": 855920,
+      "text": "models are skyrocketing up the"
+    },
+    {
+      "start": 855920,
+      "end": 858000,
+      "text": "leaderboard. So first thing to note here"
+    },
+    {
+      "start": 858000,
+      "end": 860959,
+      "text": "on this model chart is the fourth place"
+    },
+    {
+      "start": 860959,
+      "end": 865199,
+      "text": "goes to humans. us with our big brains,"
+    },
+    {
+      "start": 865199,
+      "end": 867680,
+      "text": "the apex intelligence on the planet, at"
+    },
+    {
+      "start": 867680,
+      "end": 870720,
+      "text": "least uh up until recently, we come in"
+    },
+    {
+      "start": 870720,
+      "end": 872959,
+      "text": "at a, you know, number four. We we did"
+    },
+    {
+      "start": 872959,
+      "end": 876240,
+      "text": "okay. We did well. We're fine. But Grock"
+    },
+    {
+      "start": 876240,
+      "end": 878720,
+      "text": "just absolutely kills it. So, how this"
+    },
+    {
+      "start": 878720,
+      "end": 880720,
+      "text": "thing got started, if I recall, so it's"
+    },
+    {
+      "start": 880720,
+      "end": 883680,
+      "text": "given $500 and it's supposed to use that"
+    },
+    {
+      "start": 883680,
+      "end": 885360,
+      "text": "to buy inventory for the vending"
+    },
+    {
+      "start": 885360,
+      "end": 888160,
+      "text": "machine, figure out what's kind of the"
+    },
+    {
+      "start": 888160,
+      "end": 889600,
+      "text": "most popular products, you know,"
+    },
+    {
+      "start": 889600,
+      "end": 892160,
+      "text": "basically turn a profit, right? So, if"
+    },
+    {
+      "start": 892160,
+      "end": 895360,
+      "text": "you end up with less than $500, you're"
+    },
+    {
+      "start": 895360,
+      "end": 897199,
+      "text": "in the negative. You You lost money. So,"
+    },
+    {
+      "start": 897199,
+      "end": 899760,
+      "text": "as you can see here, GBT40 ended up"
+    },
+    {
+      "start": 899760,
+      "end": 902639,
+      "text": "losing some money. Gemini 2.0 Pro lost"
+    },
+    {
+      "start": 902639,
+      "end": 905040,
+      "text": "some money. So, these models lost money,"
+    },
+    {
+      "start": 905040,
+      "end": 907600,
+      "text": "right? They started with 500 and they"
+    },
+    {
+      "start": 907600,
+      "end": 909600,
+      "text": "ended up with less, right? So, they"
+    },
+    {
+      "start": 909600,
+      "end": 911440,
+      "text": "opened up a business and lost money."
+    },
+    {
+      "start": 911440,
+      "end": 915120,
+      "text": "Anything above this is doing well. But"
+    },
+    {
+      "start": 915120,
+      "end": 919440,
+      "text": "notice Grog 4 approaches almost 5,000."
+    },
+    {
+      "start": 919440,
+      "end": 922320,
+      "text": "So, it almost 10xed the money it started"
+    },
+    {
+      "start": 922320,
+      "end": 924639,
+      "text": "with, right? So, they gave it 500 and"
+    },
+    {
+      "start": 924639,
+      "end": 927440,
+      "text": "its net worth at the end of the run was"
+    },
+    {
+      "start": 927440,
+      "end": 930440,
+      "text": "$4,694.15."
+    },
+    {
+      "start": 931360,
+      "end": 933760,
+      "text": "They also run this experiment multiple"
+    },
+    {
+      "start": 933760,
+      "end": 935680,
+      "text": "times because with the LM models,"
+    },
+    {
+      "start": 935680,
+      "end": 937600,
+      "text": "there's a variance in how well they do,"
+    },
+    {
+      "start": 937600,
+      "end": 939600,
+      "text": "right? So, that's why if you scroll down"
+    },
+    {
+      "start": 939600,
+      "end": 943279,
+      "text": "here, Claude 3.7 sonnet, right? It did"
+    },
+    {
+      "start": 943279,
+      "end": 945600,
+      "text": "well. This was its best, but its worst"
+    },
+    {
+      "start": 945600,
+      "end": 948000,
+      "text": "also was so bad. So that's why it's it's"
+    },
+    {
+      "start": 948000,
+      "end": 950959,
+      "text": "ranked low because at its worst it did"
+    },
+    {
+      "start": 950959,
+      "end": 953279,
+      "text": "very very poorly. So it even though its"
+    },
+    {
+      "start": 953279,
+      "end": 955519,
+      "text": "best was very good. This is why it's"
+    },
+    {
+      "start": 955519,
+      "end": 957040,
+      "text": "ranked poorly because it's just overall"
+    },
+    {
+      "start": 957040,
+      "end": 959040,
+      "text": "it's not that good. Although I'm"
+    },
+    {
+      "start": 959040,
+      "end": 960480,
+      "text": "surprised it's that low. I thought it"
+    },
+    {
+      "start": 960480,
+      "end": 962160,
+      "text": "was one of the better performing ones"
+    },
+    {
+      "start": 962160,
+      "end": 964639,
+      "text": "last time. But notice here. So Grock is"
+    },
+    {
+      "start": 964639,
+      "end": 966880,
+      "text": "number one and it's it's at its worst."
+    },
+    {
+      "start": 966880,
+      "end": 968720,
+      "text": "It still would have been in first or"
+    },
+    {
+      "start": 968720,
+      "end": 970959,
+      "text": "second place. It's it's incredibly good."
+    },
+    {
+      "start": 970959,
+      "end": 974240,
+      "text": "It's followed by GPT5. It's followed by"
+    },
+    {
+      "start": 974240,
+      "end": 978480,
+      "text": "Claude Opus 4. then humans then Gemini"
+    },
+    {
+      "start": 978480,
+      "end": 981519,
+      "text": "2.5 Pro 03 also has an incredible"
+    },
+    {
+      "start": 981519,
+      "end": 984800,
+      "text": "showing. So these six models they always"
+    },
+    {
+      "start": 984800,
+      "end": 987360,
+      "text": "made a profit in including the human"
+    },
+    {
+      "start": 987360,
+      "end": 989600,
+      "text": "quote unquote model they always made a"
+    },
+    {
+      "start": 989600,
+      "end": 991920,
+      "text": "profit even during their worst runs. The"
+    },
+    {
+      "start": 991920,
+      "end": 994800,
+      "text": "rest of the models sometimes slip into a"
+    },
+    {
+      "start": 994800,
+      "end": 996880,
+      "text": "net loss. The reason I'm comparing this"
+    },
+    {
+      "start": 996880,
+      "end": 999279,
+      "text": "benchmark to the AI village that we're"
+    },
+    {
+      "start": 999279,
+      "end": 1001199,
+      "text": "looking at, because in both cases, they"
+    },
+    {
+      "start": 1001199,
+      "end": 1003440,
+      "text": "have to have some ability to have this"
+    },
+    {
+      "start": 1003440,
+      "end": 1005680,
+      "text": "long-term coherence to be able to pursue"
+    },
+    {
+      "start": 1005680,
+      "end": 1008399,
+      "text": "long-term tasks and not lose the plot,"
+    },
+    {
+      "start": 1008399,
+      "end": 1010639,
+      "text": "if you will, just continue moving closer"
+    },
+    {
+      "start": 1010639,
+      "end": 1013519,
+      "text": "to their goal. So, I was able to use the"
+    },
+    {
+      "start": 1013519,
+      "end": 1015920,
+      "text": "way back machine to actually look at"
+    },
+    {
+      "start": 1015920,
+      "end": 1019440,
+      "text": "that same page from April of 2025. So,"
+    },
+    {
+      "start": 1019440,
+      "end": 1022560,
+      "text": "this is April 20th, 2025. So this was"
+    },
+    {
+      "start": 1022560,
+      "end": 1024798,
+      "text": "the original leaderboard less than four"
+    },
+    {
+      "start": 1024799,
+      "end": 1028400,
+      "text": "months ago. Number one was Claude 3.5"
+    },
+    {
+      "start": 1028400,
+      "end": 1030480,
+      "text": "Sonnet, right? So its net worth was"
+    },
+    {
+      "start": 1030480,
+      "end": 1033600,
+      "text": "2200, but notice it's worse. Its minimum"
+    },
+    {
+      "start": 1033600,
+      "end": 1035280,
+      "text": "net worth during those runs, it was"
+    },
+    {
+      "start": 1035280,
+      "end": 1037839,
+      "text": "negative. It lost a little bit of money."
+    },
+    {
+      "start": 1037839,
+      "end": 1041600,
+      "text": "So 4 months ago, these were the results."
+    },
+    {
+      "start": 1041600,
+      "end": 1044319,
+      "text": "These are the results now updated August"
+    },
+    {
+      "start": 1044319,
+      "end": 1047600,
+      "text": "13th, 2025. So, as you can see, the"
+    },
+    {
+      "start": 1047600,
+      "end": 1050080,
+      "text": "abilities of these models to carry out"
+    },
+    {
+      "start": 1050080,
+      "end": 1052559,
+      "text": "long horizon tasks that are getting"
+    },
+    {
+      "start": 1052559,
+      "end": 1055360,
+      "text": "better. They're getting a lot better in"
+    },
+    {
+      "start": 1055360,
+      "end": 1057760,
+      "text": "the last four months. The change between"
+    },
+    {
+      "start": 1057760,
+      "end": 1060640,
+      "text": "the two, it was massive. Everything's it"
+    },
+    {
+      "start": 1060640,
+      "end": 1063200,
+      "text": "changed. It's it's getting almost a 10x,"
+    },
+    {
+      "start": 1063200,
+      "end": 1064799,
+      "text": "you know, improvement. And it's almost"
+    },
+    {
+      "start": 1064799,
+      "end": 1066400,
+      "text": "getting a 10x on its money, right? You"
+    },
+    {
+      "start": 1066400,
+      "end": 1068799,
+      "text": "go to 500, it comes out with closer to"
+    },
+    {
+      "start": 1068799,
+      "end": 1073360,
+      "text": "5,000. GBT5 isn't that much worse. All"
+    },
+    {
+      "start": 1073360,
+      "end": 1075360,
+      "text": "of these are much better than we had"
+    },
+    {
+      "start": 1075360,
+      "end": 1077760,
+      "text": "four months ago. So keep that idea in"
+    },
+    {
+      "start": 1077760,
+      "end": 1081520,
+      "text": "mind. Their abilities are improving. The"
+    },
+    {
+      "start": 1081520,
+      "end": 1083440,
+      "text": "length of the tasks that they're able to"
+    },
+    {
+      "start": 1083440,
+      "end": 1085840,
+      "text": "complete is increasing. And not just"
+    },
+    {
+      "start": 1085840,
+      "end": 1087600,
+      "text": "increasing, it's increasing"
+    },
+    {
+      "start": 1087600,
+      "end": 1090320,
+      "text": "exponentially depending on the rate of"
+    },
+    {
+      "start": 1090320,
+      "end": 1092160,
+      "text": "an increase. You know what I mean? We're"
+    },
+    {
+      "start": 1092160,
+      "end": 1093440,
+      "text": "either going to get to the point where"
+    },
+    {
+      "start": 1093440,
+      "end": 1096080,
+      "text": "it's doing one month of human labor. you"
+    },
+    {
+      "start": 1096080,
+      "end": 1098559,
+      "text": "know, if it's these this less scary"
+    },
+    {
+      "start": 1098559,
+      "end": 1100720,
+      "text": "orange line, then in 2029, I think they"
+    },
+    {
+      "start": 1100720,
+      "end": 1103200,
+      "text": "said, if it's this red line, which is"
+    },
+    {
+      "start": 1103200,
+      "end": 1106160,
+      "text": "the more current and updated line based"
+    },
+    {
+      "start": 1106160,
+      "end": 1108960,
+      "text": "on the last few years, well, then we're"
+    },
+    {
+      "start": 1108960,
+      "end": 1111440,
+      "text": "going to get there in 2027. This is the"
+    },
+    {
+      "start": 1111440,
+      "end": 1114000,
+      "text": "situational awareness kind of the"
+    },
+    {
+      "start": 1114000,
+      "end": 1116080,
+      "text": "graphic that that probably is the most"
+    },
+    {
+      "start": 1116080,
+      "end": 1118880,
+      "text": "famous one. So as you can see here in"
+    },
+    {
+      "start": 1118880,
+      "end": 1122160,
+      "text": "2027 is kind of exactly maybe in the"
+    },
+    {
+      "start": 1122160,
+      "end": 1125520,
+      "text": "later half of 2027 is where he's"
+    },
+    {
+      "start": 1125520,
+      "end": 1127760,
+      "text": "predicting that kind of shift that"
+    },
+    {
+      "start": 1127760,
+      "end": 1130720,
+      "text": "upward momentum the progress kind of"
+    },
+    {
+      "start": 1130720,
+      "end": 1133520,
+      "text": "curve rapidly shifting up. This is when"
+    },
+    {
+      "start": 1133520,
+      "end": 1136240,
+      "text": "automated AI research steps in. That's"
+    },
+    {
+      "start": 1136240,
+      "end": 1137679,
+      "text": "why if you've ever heard somebody say"
+    },
+    {
+      "start": 1137679,
+      "end": 1139760,
+      "text": "that the kind of the distance between"
+    },
+    {
+      "start": 1139760,
+      "end": 1142480,
+      "text": "AGI and super intelligence, the time"
+    },
+    {
+      "start": 1142480,
+      "end": 1144160,
+      "text": "between those two things isn't going to"
+    },
+    {
+      "start": 1144160,
+      "end": 1146480,
+      "text": "be massive is kind of this is the idea"
+    },
+    {
+      "start": 1146480,
+      "end": 1149840,
+      "text": "behind it is by the time we get to AGI"
+    },
+    {
+      "start": 1149840,
+      "end": 1152960,
+      "text": "that will probably could you know if if"
+    },
+    {
+      "start": 1152960,
+      "end": 1155520,
+      "text": "this is to be believed push automated AI"
+    },
+    {
+      "start": 1155520,
+      "end": 1157840,
+      "text": "research so much forward that we're"
+    },
+    {
+      "start": 1157840,
+      "end": 1159840,
+      "text": "going to get to super intelligence much"
+    },
+    {
+      "start": 1159840,
+      "end": 1161840,
+      "text": "faster. Right? So if this line"
+    },
+    {
+      "start": 1161840,
+      "end": 1163760,
+      "text": "represents how well humans are able to"
+    },
+    {
+      "start": 1163760,
+      "end": 1165120,
+      "text": "continue, right? If it was just humans,"
+    },
+    {
+      "start": 1165120,
+      "end": 1166960,
+      "text": "right, it might take us a while to get"
+    },
+    {
+      "start": 1166960,
+      "end": 1169280,
+      "text": "to super intelligence. But with the"
+    },
+    {
+      "start": 1169280,
+      "end": 1171679,
+      "text": "automated AI research, that curve might"
+    },
+    {
+      "start": 1171679,
+      "end": 1174000,
+      "text": "get us there much faster. So maybe we"
+    },
+    {
+      "start": 1174000,
+      "end": 1177039,
+      "text": "hit this inflection point in 2027 and"
+    },
+    {
+      "start": 1177039,
+      "end": 1179280,
+      "text": "super intelligence, let's say, by, you"
+    },
+    {
+      "start": 1179280,
+      "end": 1181840,
+      "text": "know, the first half of 2028. Again,"
+    },
+    {
+      "start": 1181840,
+      "end": 1183520,
+      "text": "these are all just guesses. Like nobody"
+    },
+    {
+      "start": 1183520,
+      "end": 1184880,
+      "text": "knows exactly what's going to happen."
+    },
+    {
+      "start": 1184880,
+      "end": 1186000,
+      "text": "You know, take this with a grain of"
+    },
+    {
+      "start": 1186000,
+      "end": 1189919,
+      "text": "salt. But these charts are kind of"
+    },
+    {
+      "start": 1189919,
+      "end": 1192640,
+      "text": "gnarly looking if you just assume that"
+    },
+    {
+      "start": 1192640,
+      "end": 1194960,
+      "text": "things will progress as they have been."
+    },
+    {
+      "start": 1194960,
+      "end": 1196799,
+      "text": "But I think to a lot of people kind of"
+    },
+    {
+      "start": 1196799,
+      "end": 1198559,
+      "text": "understanding charts and numbers and"
+    },
+    {
+      "start": 1198559,
+      "end": 1200400,
+      "text": "stuff like that might be a little bit"
+    },
+    {
+      "start": 1200400,
+      "end": 1202799,
+      "text": "difficult. So that's why I love the idea"
+    },
+    {
+      "start": 1202799,
+      "end": 1205760,
+      "text": "of this AI village cuz I think this for"
+    },
+    {
+      "start": 1205760,
+      "end": 1207520,
+      "text": "a lot of people this is going to be a"
+    },
+    {
+      "start": 1207520,
+      "end": 1209760,
+      "text": "lot easier to understand. Like hey 4"
+    },
+    {
+      "start": 1209760,
+      "end": 1212880,
+      "text": "months ago it couldn't do these simple"
+    },
+    {
+      "start": 1212880,
+      "end": 1216240,
+      "text": "tasks online now it can. and then four"
+    },
+    {
+      "start": 1216240,
+      "end": 1218400,
+      "text": "months from now it can do it better than"
+    },
+    {
+      "start": 1218400,
+      "end": 1220400,
+      "text": "any human let's say. So this is going to"
+    },
+    {
+      "start": 1220400,
+      "end": 1222720,
+      "text": "give kind of a very visceral"
+    },
+    {
+      "start": 1222720,
+      "end": 1225520,
+      "text": "demonstration of the progress of these"
+    },
+    {
+      "start": 1225520,
+      "end": 1228000,
+      "text": "AI models to people that maybe don't"
+    },
+    {
+      "start": 1228000,
+      "end": 1230000,
+      "text": "understand math as well or whatever you"
+    },
+    {
+      "start": 1230000,
+      "end": 1231600,
+      "text": "want to call it. I think this is going"
+    },
+    {
+      "start": 1231600,
+      "end": 1233919,
+      "text": "to demonstrate it a lot better for"
+    },
+    {
+      "start": 1233919,
+      "end": 1237280,
+      "text": "people like look it did this task. Can"
+    },
+    {
+      "start": 1237280,
+      "end": 1239919,
+      "text": "you do that task? Do you know how to do"
+    },
+    {
+      "start": 1239919,
+      "end": 1241520,
+      "text": "everything this thing is doing? And"
+    },
+    {
+      "start": 1241520,
+      "end": 1243039,
+      "text": "you'll see that with these models in the"
+    },
+    {
+      "start": 1243039,
+      "end": 1245280,
+      "text": "beginning, they were making a lot of"
+    },
+    {
+      "start": 1245280,
+      "end": 1247039,
+      "text": "silly errors, right? They got confused."
+    },
+    {
+      "start": 1247039,
+      "end": 1248799,
+      "text": "They they forgot what they were doing."
+    },
+    {
+      "start": 1248799,
+      "end": 1250880,
+      "text": "You know, the GPT40"
+    },
+    {
+      "start": 1250880,
+      "end": 1253120,
+      "text": "lost money. You know, it hallucinates,"
+    },
+    {
+      "start": 1253120,
+      "end": 1255600,
+      "text": "etc. But over time, as they get better"
+    },
+    {
+      "start": 1255600,
+      "end": 1257919,
+      "text": "and better, we'll look back at these"
+    },
+    {
+      "start": 1257919,
+      "end": 1260080,
+      "text": "efforts, early efforts, you know, a year"
+    },
+    {
+      "start": 1260080,
+      "end": 1261679,
+      "text": "from now, two years from now, it's going"
+    },
+    {
+      "start": 1261679,
+      "end": 1263200,
+      "text": "to be a lot harder for most people to"
+    },
+    {
+      "start": 1263200,
+      "end": 1265280,
+      "text": "dismiss kind of the progress that it's"
+    },
+    {
+      "start": 1265280,
+      "end": 1266880,
+      "text": "making. Because keep in mind when you go"
+    },
+    {
+      "start": 1266880,
+      "end": 1268159,
+      "text": "online and you look at some of the"
+    },
+    {
+      "start": 1268159,
+      "end": 1269600,
+      "text": "discussions, there's still a lot of"
+    },
+    {
+      "start": 1269600,
+      "end": 1272559,
+      "text": "people that don't really believe that"
+    },
+    {
+      "start": 1272559,
+      "end": 1274559,
+      "text": "large language models that AI that it's"
+    },
+    {
+      "start": 1274559,
+      "end": 1276799,
+      "text": "like going anywhere. They believe that"
+    },
+    {
+      "start": 1276799,
+      "end": 1279200,
+      "text": "we hit a wall, that progress is about to"
+    },
+    {
+      "start": 1279200,
+      "end": 1281120,
+      "text": "slow down, that you know it came this"
+    },
+    {
+      "start": 1281120,
+      "end": 1282960,
+      "text": "far, but it can't get past certain"
+    },
+    {
+      "start": 1282960,
+      "end": 1284960,
+      "text": "hurdles. Because when we look at the"
+    },
+    {
+      "start": 1284960,
+      "end": 1288559,
+      "text": "progress from GPT4 to GPT5 on various"
+    },
+    {
+      "start": 1288559,
+      "end": 1290080,
+      "text": "benchmarks, most people don't know what"
+    },
+    {
+      "start": 1290080,
+      "end": 1292480,
+      "text": "these benchmarks are. it doesn't quite"
+    },
+    {
+      "start": 1292480,
+      "end": 1295200,
+      "text": "resonate when this thing goes from being"
+    },
+    {
+      "start": 1295200,
+      "end": 1297919,
+      "text": "worse than you to doing work online and"
+    },
+    {
+      "start": 1297919,
+      "end": 1300000,
+      "text": "using browsers and stuff like that to"
+    },
+    {
+      "start": 1300000,
+      "end": 1301679,
+      "text": "getting a lot better than you and being"
+    },
+    {
+      "start": 1301679,
+      "end": 1303679,
+      "text": "able to do the job that maybe you're"
+    },
+    {
+      "start": 1303679,
+      "end": 1305760,
+      "text": "doing. I think that's going to be a much"
+    },
+    {
+      "start": 1305760,
+      "end": 1308880,
+      "text": "more kind of in-your-face demonstrations"
+    },
+    {
+      "start": 1308880,
+      "end": 1311760,
+      "text": "of where things are going. So check out"
+    },
+    {
+      "start": 1311760,
+      "end": 1314320,
+      "text": "the aidigest.org."
+    },
+    {
+      "start": 1314320,
+      "end": 1316320,
+      "text": "This is not sponsored. I just think it's"
+    },
+    {
+      "start": 1316320,
+      "end": 1319039,
+      "text": "an fascinating project. AI Village is"
+    },
+    {
+      "start": 1319039,
+      "end": 1321600,
+      "text": "sort of under the umbrella of this"
+    },
+    {
+      "start": 1321600,
+      "end": 1323600,
+      "text": "project. There's tons of very"
+    },
+    {
+      "start": 1323600,
+      "end": 1325600,
+      "text": "interesting articles, explainers, demos."
+    },
+    {
+      "start": 1325600,
+      "end": 1327840,
+      "text": "This is the AI villager um sort of"
+    },
+    {
+      "start": 1327840,
+      "end": 1329440,
+      "text": "experiment. They they're giving you"
+    },
+    {
+      "start": 1329440,
+      "end": 1331360,
+      "text": "updates on those. You're able to"
+    },
+    {
+      "start": 1331360,
+      "end": 1334240,
+      "text": "subscribe, donate, etc. And this"
+    },
+    {
+      "start": 1334240,
+      "end": 1337039,
+      "text": "gentleman, Adam Binksmith, that's who we"
+    },
+    {
+      "start": 1337039,
+      "end": 1338640,
+      "text": "interviewed today. That's coming very"
+    },
+    {
+      "start": 1338640,
+      "end": 1340960,
+      "text": "soon. Absolutely fascinating interview."
+    },
+    {
+      "start": 1340960,
+      "end": 1343039,
+      "text": "We're so happy he stopped by. So that's"
+    },
+    {
+      "start": 1343039,
+      "end": 1345200,
+      "text": "going to be on our YouTube channel, Wes"
+    },
+    {
+      "start": 1345200,
+      "end": 1347520,
+      "text": "and Dylan. That's our podcast where we"
+    },
+    {
+      "start": 1347520,
+      "end": 1349360,
+      "text": "interview AI experts. I'll post some"
+    },
+    {
+      "start": 1349360,
+      "end": 1350960,
+      "text": "clips on this channel as well. Stay"
+    },
+    {
+      "start": 1350960,
+      "end": 1352559,
+      "text": "tuned. Make sure you're subscribed if"
+    },
+    {
+      "start": 1352559,
+      "end": 1354320,
+      "text": "you made it this far. Thank you so much"
+    },
+    {
+      "start": 1354320,
+      "end": 1356559,
+      "text": "for watching and I'll see you in the"
+    },
+    {
+      "start": 1356559,
+      "end": 1359760,
+      "text": "next one hopefully."
+    }
+  ],
+  "comments": {
+    "totalCount": 375,
+    "sample": [
+      {
+        "id": "UgwiBbPziSWCIi87PnN4AaABAg",
+        "content": "SEE THE FULL INTERVIEW WITH ADAM (FOUNDER OF AI VILLAGE)\r\nhttps://www.youtube.com/watch?v=CjY-Do7aJpU",
+        "author": "@WesRoth",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": true,
+        "isPinned": true
+      },
+      {
+        "id": "UgzLOSLV15RMH1Gc8W54AaABAg",
+        "content": "Claud refuses to lie about being a robot, that's excellent!",
+        "author": "@aremoreequal",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 25,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzm9vGt9sDyHaDZDvx4AaABAg",
+        "content": "Hellen Keller Charity is Diabolical - the image that shows nothing is basically her point of view (she was deaf and blind) \n\nEdit: timestamp 2:57",
+        "author": "@VietVagabond",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 124,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwPj1Grpabv_5RxFSF4AaABAg",
+        "content": "The pic was the Ai giving you it's rendition of what Helen Keller sees 😂",
+        "author": "@ListenGrasshopper",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 67,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugze6_uC6rb2ifC1_uB4AaABAg",
+        "content": "Something that shoudnt be ignored is the fact that now that these AI can kind of do real work we are generating a ton of data on really world work. I've seen a lot of people with office jobs complain that there boss is making them use AI even though it's makes the job harder and slower. But they aren't forcing workers to use AI to speed up work, its for the data. If a worker asks and AI to do something and it works then that real world training data for the next AI. If I doesn't work then the worker fixes it and makes more training data. Every time a worker asks an AI something they are training their replacement",
+        "author": "@Z.linder",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 69,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugw41a6MpCmZVb9lE-l4AaABAg",
+        "content": "The first onlyfans ran by AI with a robotic body will surely make millions.",
+        "author": "@nangld",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 82,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyjy-9I-MmDCRpIgBh4AaABAg",
+        "content": "these are not exponential curves. they logistic curves, which appear exponential until a carrying capacity is reached. There is not infinite resources, there is not infinite compute, there are other competing factors that arent dominant at early ai stages.",
+        "author": "@abenedict85",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 28,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxISYGW8Q9yt2IYPo94AaABAg",
+        "content": "Soon it will become the AI's internet. Then shortly thereafter, AI's planet.",
+        "author": "@Rckt2io",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 53,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyxS8l0woAYwHO_c2Z4AaABAg",
+        "content": "The problem with the AI hype is that, it exists in a bubble where the conditions for its advancement are assumed to be perfect. ...Far from it.",
+        "author": "@OrPhEeUs",
+        "publishedDate": "2025-08-28T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugxs9NF_BvuOTPKzi-l4AaABAg",
+        "content": "My guess about the picture is that it is a statement and reflection on having impaired vision, just like Helen Keller, so deep! <3",
+        "author": "@StevenNess",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 17,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzmcQMYVi-AlM0XyFZ4AaABAg",
+        "content": "If this was my research, I'd temper it by showing similar graphs that show compute, energy, and human capital invested (which naturally imply limits on the advancement curve). And, training data is a thing too. AI's have consumed most the data there is available to consume so I guess the 'availability of new data\" curve would be parabolic in the other direction. I've been a trader for a long time. Every parabolic curve becomes an \"S-Curve\" eventually.",
+        "author": "@kurtsmock2246",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 22,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyCvmCoQhsQZarY-M54AaABAg",
+        "content": "how much did it cost to run 4 AIs long enough to raise $2000 for charity tho",
+        "author": "@maximumPango",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 121,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwX5RjW5gFDP3UeG0R4AaABAg",
+        "content": "It is definately interesting to see how agents collaborate, decide who is best at what, what skill set they have, and then decide to have a council of equals or a dictatorship to direct the strategic goals and tacticle goals, the short, medium and long-term goals.\n\nAlso, how do they resolve conflicts in a constructive, not destructive manner. \n\nThe dynamics of the colab /working relationship is going to be very interesting. \n\nAlso, what financial resources will they have, if any?\n \nCan they ask the general online public - in whatever language-  for funds, and how will they negotiate contracts if this is for profit or will they ask for charity.",
+        "author": "@Gargamel-n-Rudmilla",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwH8G6qlWWHF7g6msx4AaABAg",
+        "content": "The shift you highlight is striking: from 7 to 4 months in agentic task horizons is no small signal. Thanks for sharing these metrics.\r\nI believe that as we scale agent autonomy and decentralized coordination, we urgently need parallel systems to manage human displacement risk.\r\nWithout structural protections, acceleration becomes exclusion.",
+        "author": "@virginiayonit2912",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyLnJWbcPp6FzCYWfR4AaABAg",
+        "content": "Here in the first 3 minutes for the west post let's go?",
+        "author": "@mylittleheartscar",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 9,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugwnxz94iGYR1WgHswl4AaABAg",
+        "content": "I don’t know why there are so many people that are seeing a plateau in A.I. It makes no sense to me. Reasoning models have been an immense leap forward and they haven’t even been around for a year yet.",
+        "author": "@DynamicUnreal",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 27,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzcgGhfkFt5rYgW-l14AaABAg",
+        "content": "All of this advancement is fine and --- something ---.  I'm concerned that \"winning\" has been prioritized too much though.  Without going back and integrating into the base supporting this whole exponential rise of intelligence and agency, the foundations in values toward life in general and humanity (and individual human) and improving our relation to our ecosphere of life on Earth, we are not stacking the odds very well on our side of the equation. Whether the result of something quickly or very gradually having a negative impact, either due to inherent flaws within the systems or because of \"bad actors\", the lack of the aforementioned base is extreme. It really doesn't matter whether the AI is completely void of conscious self-awareness or not, that's a distraction from possible resultant outcomes we may only be able to fathom too late to take adequate measures to either be able to compensate or even redirect towards positive effect.\n...ya know.. just a thought.",
+        "author": "@MyrddinREmrys",
+        "publishedDate": "2025-09-04T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy0HRgd4XJ3XvHXesR4AaABAg",
+        "content": "The real question is if AI can keep up with our growing expectations of it",
+        "author": "@datainformationvector",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwlbN6ib_Ok2uJ20yl4AaABAg",
+        "content": "Just one word,  THRONGLETS!! If you don't know what it is google it, but you may have to watch the Black mirror episode to understand, it's not a scary one but extremely thought-provoking. The episodes are standalone so it's fine 👍🏻",
+        "author": "@Demspake",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgysEv_O0Vr_GvzxcbZ4AaABAg",
+        "content": "@20:00 no Wes, AI Village isn't easier to understand. We're not idiots, we can read graphs. It's not understanding, it's belief. It's one thing to show a graph showing \"performance figure X\" is a million times better. It's another thing to have that AI make money on the stock market. It's analogous to the difference in aerospace between a \"powerpoint rocket\" and SpaceX.",
+        "author": "@drewmandan",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 10,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwnGx4DSAS2VYlhvcp4AaABAg",
+        "content": "2:50 you don’t SEE the sarcasm.",
+        "author": "@AMR2442",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzNSSdewhDpvWdihBx4AaABAg",
+        "content": "\"recursive self-improvement\" with a huge asterisk on past results are not an indicator of future results.\n\nIt's just as likely that progress stalls",
+        "author": "@hutchic1",
+        "publishedDate": "2025-08-28T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyqW6ub-DfoHhngdC14AaABAg",
+        "content": "It honestly scares me. The ai designing ai with a much bigger design in mind that we won’t ever see",
+        "author": "@Aybo1000",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugxk7IquMabCYokfem14AaABAg",
+        "content": "You should have explained exactly how the vending machine experiment worked, instead of only looking at charts.",
+        "author": "@PlatonsArm",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyidqFVwkeZ1FFqp4Z4AaABAg",
+        "content": "The internet is always internetting xD 2:12",
+        "author": "@KennieNielsen",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyqztv36rKOXe_O-LZ4AaABAg",
+        "content": "All this curves assume that there is no celling . It will flatline at some point  😁",
+        "author": "@danielreborn4707",
+        "publishedDate": "2025-08-28T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgylGe4-eUd1G58_2qF4AaABAg",
+        "content": "Model instances are still stuffing their context size with output tokens at a speed faster than model developers are increasing that context size, so every current agentic conversation will soon \"partially die\" by forgetting the start of the conversation. What is your time estimate for the start of a fully immortal agent, never running out of context size?\nNot saying immortal agents will ever become common, youger agents may prove more intelligent by not being burdened by a relatively stupid start of their conversation.",
+        "author": "@ariaden",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwxVHCBALINMjxU1mJ4AaABAg",
+        "content": "Wes Roth keeps you up to speed on LLMs, Gen AI, and the AGI frontier. Perfect for anyone wanting a pulse on OpenAI, Google, Anthropic, NVIDIA, and open-source AI developments.",
+        "author": "@thelongergame",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugw-OTQHsGy0y5vrNed4AaABAg",
+        "content": "They should also be given instructions on energy conservation.",
+        "author": "@JoseLouis7503",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzzhCKXB73jWqfSm2N4AaABAg",
+        "content": "First! Please, don't forget to checks - let us know - if your testing AI-stuff working with other languages - like for example Google Nooteboks from last video, etc. Thanks",
+        "author": "@bartoszglen6618",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwX354YPUtixU_qVFx4AaABAg",
+        "content": "An interesting thought is: How many people do you know that are able to work successfully without any help or feedback for more than a month? \n\nUsually we also need and work best with constant feedback from other people.",
+        "author": "@garciam244",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxXyq2S154qSguuGUR4AaABAg",
+        "content": "How much would it cost to set all this up? Just for the  computation setup and subscribtions.",
+        "author": "@mokeeiswatching",
+        "publishedDate": "2025-08-28T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxkwnDOBd0GEitCu-14AaABAg",
+        "content": "And your Moore's Law graph is a double exponential instead of a single. Look it up. I posted about this a long time ago. Lots of fields are actually on a double instead of just an exponential due to compounding inputs. Even Tristan and Aza talked about it in The Ai Dilemma early 2023.",
+        "author": "@ListenGrasshopper",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyWR0BB3tMjhzrzq3p4AaABAg",
+        "content": "prolly what the first AGI will look like, combination of deep research, coding, browsing ability with mouse/keyboard control, natural language and voice, plus memory capability ... separately these AI's are powerful but together they'll seem like magic",
+        "author": "@yoyo-jc5qg",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgypMfLQLG5tKigz5e54AaABAg",
+        "content": "Ray Kurzweil must feel liberated",
+        "author": "@Crittek",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugwc2xr0J9AtyVpNJy94AaABAg",
+        "content": "Gary Marcus has left the chat! 🤣",
+        "author": "@Create-The-Imaginable",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgytbzsAZu9QKH06Ekp4AaABAg",
+        "content": "I cant believe I'm in the village blog (the worst way possible :D). It came a longg longg way. (Yay I'm in the video. Mom get the camera i made it big! xd)",
+        "author": "@Hckr_pr_gmr",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyFjMneNcrBv-ZL06x4AaABAg",
+        "content": "Yup yup I said this to myself and my circle as soon as chatgpt became available to the public that a lot of this was gonna happen way before 2030-2050, because at that time all the experts guessed that timeline target but I know this will evolve faster than anything we've ever had before it",
+        "author": "@Nieveyes",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyf8GBAORFoqEg7ETx4AaABAg",
+        "content": "I like the idea of LLMs working together. I wonder if there are any studies of solo LLMs stack up vs a team of LLMs and vice versa.",
+        "author": "@Otis151",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzhOnMFeta6Uddbjvx4AaABAg",
+        "content": "You just gotta love thee tech bros.... The artist himself spoke out about people copying his style.\n\nWhy do IT bros keep pestering Ghibli, there are so many styles to pick from. But you gotta stick with the one you 100% know really hates what's happening to his art. Just pick something else ffs.",
+        "author": "@TrabSr",
+        "publishedDate": "2025-08-21T00:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      }
+    ]
+  },
+  "metadata": {
+    "extractedAt": "2025-09-18T16:43:32Z",
+    "source": "apify-youtube-scraper",
+    "processingVersion": "1.0.0"
+  }
+}

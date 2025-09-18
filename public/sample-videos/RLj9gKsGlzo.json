@@ -1,0 +1,2873 @@
+{
+  "video": {
+    "id": "RLj9gKsGlzo",
+    "title": "GPT 5 Codex is a BEAST Autonomous Coding Agent",
+    "description": "Tutorial:https://natural20.com/gpt-5-codex/\n\nThe latest AI News. Learn about LLMs, Gen AI and get ready for the rollout of AGI. Wes Roth covers the latest happenings in the world of OpenAI, Google, Anthropic, NVIDIA and Open Source AI.\n\n______________________________________________\nMy Links 🔗\n➡️ Twitter: https://x.com/WesRothMoney\n➡️ AI Newsletter: https://natural20.beehiiv.com/subscribe\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n\nCheck out my AI Podcast where me and Dylan interview AI experts:\nhttps://www.youtube.com/@Wes-Dylan\n______________________________________________\n\n00:00 GPT-5-Codex\n05:53 TESTING IT\n06:42 How to Use Tutorial\n08:30 Voice Modulator\n10:52 Web Design\n12:24 YouTube View Tracker\n16:10 Final Thoughts\n\n\n\n#ai #openai #llm",
+    "author": "Wes Roth",
+    "publishDate": "2025-09-16T23:45:31.000Z",
+    "duration": 1102,
+    "viewCount": 46486,
+    "likeCount": 2664,
+    "category": "Education",
+    "thumbnails": [
+      {
+        "url": "https://i.ytimg.com/vi/RLj9gKsGlzo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCrCfqbz_eR-8HOggYG0TIUBF2fNg",
+        "width": 168,
+        "height": 94
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RLj9gKsGlzo/hqdefault.jpg?sqp=-oaymwEmCMQBEG5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCFhoDX2Gm4fDmqwYBCegNn05PkPQ",
+        "width": 196,
+        "height": 110
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RLj9gKsGlzo/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDRklRdkK27uiyYHMSDV03SGRz8Cg",
+        "width": 246,
+        "height": 138
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RLj9gKsGlzo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBs1t37SpBlRAbaFivCZ191QIgb7A",
+        "width": 336,
+        "height": 188
+      },
+      {
+        "url": "https://i.ytimg.com/vi_webp/RLj9gKsGlzo/maxresdefault.webp",
+        "width": 1920,
+        "height": 1080
+      }
+    ]
+  },
+  "channel": {
+    "id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+    "title": "Wes Roth",
+    "description": "Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large Language Models and... (most importantly)... optimism. \n\nAGI rolls around only once. Let's make the best of it.\n\nOn this channel, my goal is to help everyone understand AI and it's implications better. To prepare for what's coming next.\n\nThe most important rule is \"Don't Panic\".\n\nThe second rule is keep learning.\n\nThank you for joining me for this ride.\n\n-Wes Roth\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n",
+    "subscriberCount": 296000,
+    "avatar": {
+      "url": "https://yt3.googleusercontent.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s900-c-k-c0x00ffffff-no-rj",
+      "width": 900,
+      "height": 900
+    }
+  },
+  "transcript": [
+    {
+      "start": 160,
+      "end": 1839,
+      "text": "What you're seeing on your screen is a"
+    },
+    {
+      "start": 1839,
+      "end": 3840,
+      "text": "glimpse into the future. This is four"
+    },
+    {
+      "start": 3840,
+      "end": 6720,
+      "text": "different codec agents running at the"
+    },
+    {
+      "start": 6720,
+      "end": 9040,
+      "text": "same time. All four creating various"
+    },
+    {
+      "start": 9040,
+      "end": 11599,
+      "text": "pieces of software that I've tasked them"
+    },
+    {
+      "start": 11599,
+      "end": 14000,
+      "text": "with and they have been working for"
+    },
+    {
+      "start": 14000,
+      "end": 16480,
+      "text": "quite a while. Openi recently introduced"
+    },
+    {
+      "start": 16480,
+      "end": 20160,
+      "text": "a new version of codec. Actually, a new"
+    },
+    {
+      "start": 20160,
+      "end": 23439,
+      "text": "model. They're naming the model GPT5"
+    },
+    {
+      "start": 23439,
+      "end": 25359,
+      "text": "codeex. I'm not even going to touch"
+    },
+    {
+      "start": 25359,
+      "end": 28400,
+      "text": "that. It's just whatever. the way they"
+    },
+    {
+      "start": 28400,
+      "end": 30560,
+      "text": "tend to name their products. After"
+    },
+    {
+      "start": 30560,
+      "end": 32398,
+      "text": "seeing it long enough, you just like you"
+    },
+    {
+      "start": 32399,
+      "end": 35280,
+      "text": "just give up. So, GPT5 Codeex is an"
+    },
+    {
+      "start": 35280,
+      "end": 38160,
+      "text": "actual model. It's now in a lot of"
+    },
+    {
+      "start": 38160,
+      "end": 41520,
+      "text": "different products like Codeex CLI. So,"
+    },
+    {
+      "start": 41520,
+      "end": 42800,
+      "text": "if you wanted to try it for yourself,"
+    },
+    {
+      "start": 42800,
+      "end": 45040,
+      "text": "you would copy this, go to your favorite"
+    },
+    {
+      "start": 45040,
+      "end": 47680,
+      "text": "terminal, just paste that in and run it."
+    },
+    {
+      "start": 47680,
+      "end": 49360,
+      "text": "I already have it installed. Once you"
+    },
+    {
+      "start": 49360,
+      "end": 52000,
+      "text": "install it, logs you into your ChadBt"
+    },
+    {
+      "start": 52000,
+      "end": 55280,
+      "text": "account, and you're able to build stuff."
+    },
+    {
+      "start": 55280,
+      "end": 57280,
+      "text": "So that's the CLI, command line"
+    },
+    {
+      "start": 57280,
+      "end": 59280,
+      "text": "interface. You're able to select the"
+    },
+    {
+      "start": 59280,
+      "end": 61440,
+      "text": "model at the top. So this is a GPT5"
+    },
+    {
+      "start": 61440,
+      "end": 63520,
+      "text": "codeex. This is kind of what that looks"
+    },
+    {
+      "start": 63520,
+      "end": 66479,
+      "text": "like. And notice it says 613,000 tokens"
+    },
+    {
+      "start": 66479,
+      "end": 69280,
+      "text": "used, 56% context left. I'll show you"
+    },
+    {
+      "start": 69280,
+      "end": 71040,
+      "text": "what it's able to do in just a second."
+    },
+    {
+      "start": 71040,
+      "end": 73360,
+      "text": "But first, it's important to understand"
+    },
+    {
+      "start": 73360,
+      "end": 76000,
+      "text": "why this is a big deal. Number one is"
+    },
+    {
+      "start": 76000,
+      "end": 77840,
+      "text": "that it's available everywhere you use"
+    },
+    {
+      "start": 77840,
+      "end": 80479,
+      "text": "Codex. You can do it for cloud tasks and"
+    },
+    {
+      "start": 80479,
+      "end": 82159,
+      "text": "code review. You can use it for local"
+    },
+    {
+      "start": 82159,
+      "end": 85680,
+      "text": "tasks via codeex CLI and any integrated"
+    },
+    {
+      "start": 85680,
+      "end": 87520,
+      "text": "development environment. So you can use"
+    },
+    {
+      "start": 87520,
+      "end": 91119,
+      "text": "VS Code for example. And this is where"
+    },
+    {
+      "start": 91119,
+      "end": 93360,
+      "text": "it gets very interesting. You basically"
+    },
+    {
+      "start": 93360,
+      "end": 95520,
+      "text": "are able to move seamlessly between"
+    },
+    {
+      "start": 95520,
+      "end": 98479,
+      "text": "working hands-on on your computer. Then"
+    },
+    {
+      "start": 98479,
+      "end": 100640,
+      "text": "let's say you have to go to sleep. You"
+    },
+    {
+      "start": 100640,
+      "end": 102400,
+      "text": "seamlessly move to the cloud"
+    },
+    {
+      "start": 102400,
+      "end": 105119,
+      "text": "environment. You make some tasks that"
+    },
+    {
+      "start": 105119,
+      "end": 107840,
+      "text": "this thing can work on by itself while"
+    },
+    {
+      "start": 107840,
+      "end": 109840,
+      "text": "you sleep or you're out and about doing"
+    },
+    {
+      "start": 109840,
+      "end": 111520,
+      "text": "your business. you're still able to"
+    },
+    {
+      "start": 111520,
+      "end": 113520,
+      "text": "check in with it while it's doing those"
+    },
+    {
+      "start": 113520,
+      "end": 116479,
+      "text": "things. And it can run autonomously for"
+    },
+    {
+      "start": 116479,
+      "end": 118799,
+      "text": "a surprisingly long time. As they"
+    },
+    {
+      "start": 118799,
+      "end": 120000,
+      "text": "mentioned here, during testing, we've"
+    },
+    {
+      "start": 120000,
+      "end": 122320,
+      "text": "seen GPT5 codecs work independently for"
+    },
+    {
+      "start": 122320,
+      "end": 125520,
+      "text": "more than 7 hours at a time on large"
+    },
+    {
+      "start": 125520,
+      "end": 127520,
+      "text": "complex tasks, iterating on its"
+    },
+    {
+      "start": 127520,
+      "end": 129360,
+      "text": "implementation, fixing test failures,"
+    },
+    {
+      "start": 129360,
+      "end": 131520,
+      "text": "and ultimately delivering a successful"
+    },
+    {
+      "start": 131520,
+      "end": 133520,
+      "text": "implementation. While I haven't been"
+    },
+    {
+      "start": 133520,
+      "end": 136160,
+      "text": "able to get anywhere near close to 7"
+    },
+    {
+      "start": 136160,
+      "end": 138480,
+      "text": "hours of of work time on this thing in"
+    },
+    {
+      "start": 138480,
+      "end": 141360,
+      "text": "one fell swoop, I do believe that that's"
+    },
+    {
+      "start": 141360,
+      "end": 143680,
+      "text": "possible. This thing can work for a long"
+    },
+    {
+      "start": 143680,
+      "end": 146800,
+      "text": "time. So here, for example, is codeex in"
+    },
+    {
+      "start": 146800,
+      "end": 148800,
+      "text": "the cloud. So like the the web version"
+    },
+    {
+      "start": 148800,
+      "end": 150480,
+      "text": "of it. So as you can see here, it ran"
+    },
+    {
+      "start": 150480,
+      "end": 153120,
+      "text": "for 11 minutes working on a project."
+    },
+    {
+      "start": 153120,
+      "end": 156000,
+      "text": "added close to a thousand lines, created"
+    },
+    {
+      "start": 156000,
+      "end": 158959,
+      "text": "the PR, and I was able to take that pull"
+    },
+    {
+      "start": 158959,
+      "end": 161680,
+      "text": "request and merge it with the"
+    },
+    {
+      "start": 161680,
+      "end": 163920,
+      "text": "repository. Keep in mind, I'm not a"
+    },
+    {
+      "start": 163920,
+      "end": 165599,
+      "text": "developer. I've worked with code here"
+    },
+    {
+      "start": 165599,
+      "end": 166959,
+      "text": "and there. I've been doing a lot of"
+    },
+    {
+      "start": 166959,
+      "end": 169200,
+      "text": "stuff online, but I never had a"
+    },
+    {
+      "start": 169200,
+      "end": 171200,
+      "text": "full-time job as a developer. I never"
+    },
+    {
+      "start": 171200,
+      "end": 174000,
+      "text": "put in my 10,000 hours. So, it does seem"
+    },
+    {
+      "start": 174000,
+      "end": 175360,
+      "text": "like a lot of this stuff is getting a"
+    },
+    {
+      "start": 175360,
+      "end": 178000,
+      "text": "lot more accessible to people that are"
+    },
+    {
+      "start": 178000,
+      "end": 180080,
+      "text": "not necessarily full-time developers."
+    },
+    {
+      "start": 180080,
+      "end": 182080,
+      "text": "Run, a member of the OpenAI team, is"
+    },
+    {
+      "start": 182080,
+      "end": 183680,
+      "text": "saying, \"Right now is a time where"
+    },
+    {
+      "start": 183680,
+      "end": 185599,
+      "text": "takeoff looks the most rapid to"
+    },
+    {
+      "start": 185599,
+      "end": 188080,
+      "text": "insiders. We don't program anymore. We"
+    },
+    {
+      "start": 188080,
+      "end": 191120,
+      "text": "just yell at codeex agents, but may look"
+    },
+    {
+      "start": 191120,
+      "end": 193200,
+      "text": "slow to everyone else as the general"
+    },
+    {
+      "start": 193200,
+      "end": 195519,
+      "text": "chatbot medium saturates.\" Looks like"
+    },
+    {
+      "start": 195519,
+      "end": 198720,
+      "text": "GPT5 CEX is already 40% of the traffic"
+    },
+    {
+      "start": 198720,
+      "end": 201360,
+      "text": "for codecs. People seem to be loving"
+    },
+    {
+      "start": 201360,
+      "end": 203680,
+      "text": "this and it seems like they figured out"
+    },
+    {
+      "start": 203680,
+      "end": 205680,
+      "text": "how to do reinforcement learning for"
+    },
+    {
+      "start": 205680,
+      "end": 208720,
+      "text": "these agents to do these coding tasks a"
+    },
+    {
+      "start": 208720,
+      "end": 211200,
+      "text": "lot smarter. Here's a graph might look a"
+    },
+    {
+      "start": 211200,
+      "end": 213440,
+      "text": "little confusing at first, but Gnome"
+    },
+    {
+      "start": 213440,
+      "end": 214959,
+      "text": "Brown at OpenAI I think explains it"
+    },
+    {
+      "start": 214959,
+      "end": 217040,
+      "text": "pretty well. He's saying that GPT5"
+    },
+    {
+      "start": 217040,
+      "end": 220000,
+      "text": "Codeex is 10x faster for the easiest"
+    },
+    {
+      "start": 220000,
+      "end": 222560,
+      "text": "queries and will think twice as long for"
+    },
+    {
+      "start": 222560,
+      "end": 224879,
+      "text": "the hardest queries that benefit most"
+    },
+    {
+      "start": 224879,
+      "end": 227280,
+      "text": "from most compute. So it tends to think"
+    },
+    {
+      "start": 227280,
+      "end": 229599,
+      "text": "a lot more about the more complicated"
+    },
+    {
+      "start": 229599,
+      "end": 231680,
+      "text": "ones much more so than the previous"
+    },
+    {
+      "start": 231680,
+      "end": 234480,
+      "text": "model. So it allocates more thinking to"
+    },
+    {
+      "start": 234480,
+      "end": 236080,
+      "text": "problems that deserve to be thought"
+    },
+    {
+      "start": 236080,
+      "end": 238720,
+      "text": "about more and it thinks less about the"
+    },
+    {
+      "start": 238720,
+      "end": 240959,
+      "text": "simple problems in this lower 10th"
+    },
+    {
+      "start": 240959,
+      "end": 243519,
+      "text": "percentile 94%"
+    },
+    {
+      "start": 243519,
+      "end": 245599,
+      "text": "almost less tokens than the previous"
+    },
+    {
+      "start": 245599,
+      "end": 248400,
+      "text": "model GPT5 medium. As we covered before,"
+    },
+    {
+      "start": 248400,
+      "end": 251120,
+      "text": "there seems to be a very big trend of"
+    },
+    {
+      "start": 251120,
+      "end": 253840,
+      "text": "people moving over from cloud code to"
+    },
+    {
+      "start": 253840,
+      "end": 257040,
+      "text": "codeex, from Anthropic to OpenAI based"
+    },
+    {
+      "start": 257040,
+      "end": 259199,
+      "text": "on just some of the recent comments that"
+    },
+    {
+      "start": 259199,
+      "end": 260320,
+      "text": "I've been seeing. And this thing has"
+    },
+    {
+      "start": 260320,
+      "end": 262320,
+      "text": "been out for less than 24 hours. Keep"
+    },
+    {
+      "start": 262320,
+      "end": 264960,
+      "text": "that in mind. But it seems like a lot of"
+    },
+    {
+      "start": 264960,
+      "end": 267759,
+      "text": "people are going to be moving over to"
+    },
+    {
+      "start": 267759,
+      "end": 270320,
+      "text": "codeex. This is where it gets"
+    },
+    {
+      "start": 270320,
+      "end": 272320,
+      "text": "interesting. So with codecs, you can use"
+    },
+    {
+      "start": 272320,
+      "end": 274400,
+      "text": "images to share front-end design specs"
+    },
+    {
+      "start": 274400,
+      "end": 276400,
+      "text": "or explain UI bugs, right? Right? So,"
+    },
+    {
+      "start": 276400,
+      "end": 277520,
+      "text": "you take a screenshot and you're like,"
+    },
+    {
+      "start": 277520,
+      "end": 279759,
+      "text": "\"Make it look like this.\" Or if you have"
+    },
+    {
+      "start": 279759,
+      "end": 281280,
+      "text": "a design where something's broken, you"
+    },
+    {
+      "start": 281280,
+      "end": 283280,
+      "text": "just circle and go, \"Fix this.\" Remember"
+    },
+    {
+      "start": 283280,
+      "end": 285199,
+      "text": "those aliens in Star Trek that would"
+    },
+    {
+      "start": 285199,
+      "end": 287520,
+      "text": "kidnap like the really smart people from"
+    },
+    {
+      "start": 287520,
+      "end": 289120,
+      "text": "other ships and then you just tell it,"
+    },
+    {
+      "start": 289120,
+      "end": 291440,
+      "text": "\"It is broken. Can you make our ship"
+    },
+    {
+      "start": 291440,
+      "end": 293840,
+      "text": "go?\" That was sort of the extent of"
+    },
+    {
+      "start": 293840,
+      "end": 295440,
+      "text": "their capabilities. They would just"
+    },
+    {
+      "start": 295440,
+      "end": 297360,
+      "text": "point to things and go, \"It's broken."
+    },
+    {
+      "start": 297360,
+      "end": 300240,
+      "text": "Make it go.\" Or as Rune puts it, we"
+    },
+    {
+      "start": 300240,
+      "end": 301919,
+      "text": "don't program anymore. We just yell at"
+    },
+    {
+      "start": 301919,
+      "end": 304240,
+      "text": "codeex agents. Now, different coding"
+    },
+    {
+      "start": 304240,
+      "end": 306160,
+      "text": "models had that feature for a while."
+    },
+    {
+      "start": 306160,
+      "end": 308320,
+      "text": "That's not super new, but now we're"
+    },
+    {
+      "start": 308320,
+      "end": 310960,
+      "text": "beginning to see models develop these"
+    },
+    {
+      "start": 310960,
+      "end": 312880,
+      "text": "skills that I've been really looking"
+    },
+    {
+      "start": 312880,
+      "end": 314479,
+      "text": "forward to and talking about, and that"
+    },
+    {
+      "start": 314479,
+      "end": 316560,
+      "text": "is the ability to actually go and do its"
+    },
+    {
+      "start": 316560,
+      "end": 318960,
+      "text": "own troubleshooting by using a browser,"
+    },
+    {
+      "start": 318960,
+      "end": 320960,
+      "text": "by using vision. Here they say, as it"
+    },
+    {
+      "start": 320960,
+      "end": 323039,
+      "text": "builds for you, Codex can spin up its"
+    },
+    {
+      "start": 323039,
+      "end": 325120,
+      "text": "own browser, look at what it built,"
+    },
+    {
+      "start": 325120,
+      "end": 327120,
+      "text": "iterate, and attach a screenshot of the"
+    },
+    {
+      "start": 327120,
+      "end": 330160,
+      "text": "result to the task and GitHub PR. And"
+    },
+    {
+      "start": 330160,
+      "end": 332320,
+      "text": "here's an example of that. This is a"
+    },
+    {
+      "start": 332320,
+      "end": 335360,
+      "text": "kind of a cloud task that this agent is"
+    },
+    {
+      "start": 335360,
+      "end": 337360,
+      "text": "doing. And I think the big point is that"
+    },
+    {
+      "start": 337360,
+      "end": 339520,
+      "text": "we're slowly beginning to enter this"
+    },
+    {
+      "start": 339520,
+      "end": 343039,
+      "text": "agentic era where we delegate tasks. It"
+    },
+    {
+      "start": 343039,
+      "end": 346400,
+      "text": "goes off and does it on its own. And as"
+    },
+    {
+      "start": 346400,
+      "end": 349520,
+      "text": "far as I can tell, it's getting fairly"
+    },
+    {
+      "start": 349520,
+      "end": 352400,
+      "text": "accurate at these more long horizon"
+    },
+    {
+      "start": 352400,
+      "end": 354400,
+      "text": "tasks. So, let me show you a few things"
+    },
+    {
+      "start": 354400,
+      "end": 357360,
+      "text": "that I've built. Keep in mind, I've only"
+    },
+    {
+      "start": 357360,
+      "end": 359280,
+      "text": "had not not that many hours to play"
+    },
+    {
+      "start": 359280,
+      "end": 360639,
+      "text": "around with it. This thing has been out"
+    },
+    {
+      "start": 360639,
+      "end": 362720,
+      "text": "for less than 24 hours. I probably had a"
+    },
+    {
+      "start": 362720,
+      "end": 364560,
+      "text": "few hours to mess with it, as well as"
+    },
+    {
+      "start": 364560,
+      "end": 367280,
+      "text": "some AFK time as I was working in the"
+    },
+    {
+      "start": 367280,
+      "end": 370400,
+      "text": "cloud, but I feel like I just scratched"
+    },
+    {
+      "start": 370400,
+      "end": 372639,
+      "text": "the surface of what this thing can do."
+    },
+    {
+      "start": 372639,
+      "end": 374880,
+      "text": "I'm really hoping to see that somebody"
+    },
+    {
+      "start": 374880,
+      "end": 378479,
+      "text": "with a truly hairy project will kind of"
+    },
+    {
+      "start": 378479,
+      "end": 380240,
+      "text": "unleash this thing on it and and see"
+    },
+    {
+      "start": 380240,
+      "end": 382479,
+      "text": "where it takes them so we can really put"
+    },
+    {
+      "start": 382479,
+      "end": 384960,
+      "text": "this to the test. So, here's just a few"
+    },
+    {
+      "start": 384960,
+      "end": 386960,
+      "text": "examples of what I've been doing with"
+    },
+    {
+      "start": 386960,
+      "end": 390080,
+      "text": "it. Keep in mind it's not a true test. I"
+    },
+    {
+      "start": 390080,
+      "end": 391440,
+      "text": "need to come up with something that's a"
+    },
+    {
+      "start": 391440,
+      "end": 394240,
+      "text": "lot more challenging and a lot more"
+    },
+    {
+      "start": 394240,
+      "end": 396160,
+      "text": "complex to really test this thing out."
+    },
+    {
+      "start": 396160,
+      "end": 398160,
+      "text": "So these were just the first few test"
+    },
+    {
+      "start": 398160,
+      "end": 400400,
+      "text": "projects that I came up with off the top"
+    },
+    {
+      "start": 400400,
+      "end": 401919,
+      "text": "of my head to test this thing out. Let's"
+    },
+    {
+      "start": 401919,
+      "end": 403759,
+      "text": "take a look. So really fast, let me show"
+    },
+    {
+      "start": 403759,
+      "end": 406960,
+      "text": "you how to run it. I am on Windows. No,"
+    },
+    {
+      "start": 406960,
+      "end": 409199,
+      "text": "I don't know why. If you're on a Linux"
+    },
+    {
+      "start": 409199,
+      "end": 411600,
+      "text": "or a Mac, good for you. But on Windows,"
+    },
+    {
+      "start": 411600,
+      "end": 414400,
+      "text": "we'll say CD for change directory. All"
+    },
+    {
+      "start": 414400,
+      "end": 416800,
+      "text": "my stuff is in code/codex. So we'll go"
+    },
+    {
+      "start": 416800,
+      "end": 418800,
+      "text": "there. We'll do mk dear. Make a"
+    },
+    {
+      "start": 418800,
+      "end": 420960,
+      "text": "directory. We'll call it flappy bird."
+    },
+    {
+      "start": 420960,
+      "end": 423039,
+      "text": "We'll go into that directory. Enter. And"
+    },
+    {
+      "start": 423039,
+      "end": 425520,
+      "text": "then we'll run codeex by typing codeex."
+    },
+    {
+      "start": 425520,
+      "end": 426720,
+      "text": "So as you can see here, it shows you"
+    },
+    {
+      "start": 426720,
+      "end": 428560,
+      "text": "what directory you're in, what model"
+    },
+    {
+      "start": 428560,
+      "end": 430960,
+      "text": "you're running. That's a GPT5 codeex."
+    },
+    {
+      "start": 430960,
+      "end": 432800,
+      "text": "That's the start of the day, right? You"
+    },
+    {
+      "start": 432800,
+      "end": 435120,
+      "text": "can change the model by doing /model"
+    },
+    {
+      "start": 435120,
+      "end": 438560,
+      "text": "slashinit to create an agent.md file"
+    },
+    {
+      "start": 438560,
+      "end": 440880,
+      "text": "with instructions for codeex. This is"
+    },
+    {
+      "start": 440880,
+      "end": 443440,
+      "text": "very important. One of the upgrades of"
+    },
+    {
+      "start": 443440,
+      "end": 445360,
+      "text": "this model is it's able to follow those"
+    },
+    {
+      "start": 445360,
+      "end": 447280,
+      "text": "directions a lot better. So if you're"
+    },
+    {
+      "start": 447280,
+      "end": 449120,
+      "text": "working on a important project, that's"
+    },
+    {
+      "start": 449120,
+      "end": 450720,
+      "text": "probably the first place to start. We'll"
+    },
+    {
+      "start": 450720,
+      "end": 453039,
+      "text": "cover that in detail in a later video."
+    },
+    {
+      "start": 453039,
+      "end": 455360,
+      "text": "Now, I'll usually start with approvals,"
+    },
+    {
+      "start": 455360,
+      "end": 457759,
+      "text": "which allows us to set what this thing"
+    },
+    {
+      "start": 457759,
+      "end": 460319,
+      "text": "can do and what it should not do. So, by"
+    },
+    {
+      "start": 460319,
+      "end": 462240,
+      "text": "default, it starts in read only, so it"
+    },
+    {
+      "start": 462240,
+      "end": 464800,
+      "text": "can't really do anything. Auto means it"
+    },
+    {
+      "start": 464800,
+      "end": 466639,
+      "text": "can do all this stuff, but it will"
+    },
+    {
+      "start": 466639,
+      "end": 469120,
+      "text": "verify everything with you. And full"
+    },
+    {
+      "start": 469120,
+      "end": 471919,
+      "text": "access is you're just telling it to go"
+    },
+    {
+      "start": 471919,
+      "end": 474160,
+      "text": "for it. Use that only at your own risk,"
+    },
+    {
+      "start": 474160,
+      "end": 476160,
+      "text": "but we'll start there. If you do"
+    },
+    {
+      "start": 476160,
+      "end": 479520,
+      "text": "slashmodel, you can choose the reasoning"
+    },
+    {
+      "start": 479520,
+      "end": 481520,
+      "text": "and the model. Now, the only thing I"
+    },
+    {
+      "start": 481520,
+      "end": 483360,
+      "text": "could not get it to do is to create a"
+    },
+    {
+      "start": 483360,
+      "end": 486240,
+      "text": "flappy bird clone where you control the"
+    },
+    {
+      "start": 486240,
+      "end": 488240,
+      "text": "flapping of the bird by using your hands"
+    },
+    {
+      "start": 488240,
+      "end": 490160,
+      "text": "in front of your webcam. That was the"
+    },
+    {
+      "start": 490160,
+      "end": 492879,
+      "text": "only thing it couldn't do on GPT5 Codex"
+    },
+    {
+      "start": 492879,
+      "end": 496319,
+      "text": "Medium. So, let me go to high and try"
+    },
+    {
+      "start": 496319,
+      "end": 498560,
+      "text": "again. create a Flappy Bird game where"
+    },
+    {
+      "start": 498560,
+      "end": 500319,
+      "text": "you flap your hands in front of the"
+    },
+    {
+      "start": 500319,
+      "end": 502800,
+      "text": "webcam to control the bird and then you"
+    },
+    {
+      "start": 502800,
+      "end": 506879,
+      "text": "click enter and away it goes. So, we'll"
+    },
+    {
+      "start": 506879,
+      "end": 508960,
+      "text": "leave it alone while we check out what"
+    },
+    {
+      "start": 508960,
+      "end": 510879,
+      "text": "else it has built. So, first things"
+    },
+    {
+      "start": 510879,
+      "end": 512959,
+      "text": "first, I wanted to see if it can build a"
+    },
+    {
+      "start": 512959,
+      "end": 516159,
+      "text": "little website app for me where it would"
+    },
+    {
+      "start": 516159,
+      "end": 519120,
+      "text": "modulate my voice when I used my hands"
+    },
+    {
+      "start": 519120,
+      "end": 521360,
+      "text": "in front of the webcam. Again, I like"
+    },
+    {
+      "start": 521360,
+      "end": 523440,
+      "text": "that test because it utilizes a lot of"
+    },
+    {
+      "start": 523440,
+      "end": 525360,
+      "text": "different sort of things that have to"
+    },
+    {
+      "start": 525360,
+      "end": 527839,
+      "text": "plug in and work together. There's"
+    },
+    {
+      "start": 527839,
+      "end": 530480,
+      "text": "video, there's audio, there's hand"
+    },
+    {
+      "start": 530480,
+      "end": 532080,
+      "text": "recognition, right? It has to track"
+    },
+    {
+      "start": 532080,
+      "end": 533519,
+      "text": "where your fingers are in front of the"
+    },
+    {
+      "start": 533519,
+      "end": 535360,
+      "text": "camera. It has to do some sort of an"
+    },
+    {
+      "start": 535360,
+      "end": 537440,
+      "text": "audio modulation. So, there's there's a"
+    },
+    {
+      "start": 537440,
+      "end": 539120,
+      "text": "lot of stuff that goes into that. And it"
+    },
+    {
+      "start": 539120,
+      "end": 542480,
+      "text": "has to build it into a easy to use web"
+    },
+    {
+      "start": 542480,
+      "end": 545519,
+      "text": "format. It took a couple of tries,"
+    },
+    {
+      "start": 545519,
+      "end": 547600,
+      "text": "mainly because the audio wasn't coming"
+    },
+    {
+      "start": 547600,
+      "end": 549360,
+      "text": "out, but everything else was working"
+    },
+    {
+      "start": 549360,
+      "end": 552320,
+      "text": "flawlessly from the first shot. Let's"
+    },
+    {
+      "start": 552320,
+      "end": 554080,
+      "text": "take a look. So, here's what that"
+    },
+    {
+      "start": 554080,
+      "end": 555920,
+      "text": "website looks like. As you can see here,"
+    },
+    {
+      "start": 555920,
+      "end": 560000,
+      "text": "it's requesting to use my Razer Kio Pro"
+    },
+    {
+      "start": 560000,
+      "end": 561760,
+      "text": "Ultra and the microphone, whatever"
+    },
+    {
+      "start": 561760,
+      "end": 564959,
+      "text": "microphone I want to use. So, so far,"
+    },
+    {
+      "start": 564959,
+      "end": 567279,
+      "text": "everything is working really, really"
+    },
+    {
+      "start": 567279,
+      "end": 569920,
+      "text": "well. I do have to stop this stream in"
+    },
+    {
+      "start": 569920,
+      "end": 571920,
+      "text": "order to connect. So, all right, let's"
+    },
+    {
+      "start": 571920,
+      "end": 574160,
+      "text": "test this thing out. So, with my left"
+    },
+    {
+      "start": 574160,
+      "end": 576160,
+      "text": "hand, I am able to control the pitch."
+    },
+    {
+      "start": 576160,
+      "end": 578080,
+      "text": "So, let's see how my voice sounds when"
+    },
+    {
+      "start": 578080,
+      "end": 580959,
+      "text": "the pitch is all the way up here or what"
+    },
+    {
+      "start": 580959,
+      "end": 582640,
+      "text": "it sounds like when we bring it down all"
+    },
+    {
+      "start": 582640,
+      "end": 584560,
+      "text": "the way down here. How does it sound"
+    },
+    {
+      "start": 584560,
+      "end": 588160,
+      "text": "with pitch at 89?"
+    },
+    {
+      "start": 588160,
+      "end": 590560,
+      "text": "There we go. On the other side, we have"
+    },
+    {
+      "start": 590560,
+      "end": 592560,
+      "text": "wet. Now, I think for that to to work,"
+    },
+    {
+      "start": 592560,
+      "end": 594399,
+      "text": "you do have to have pitch as well. So,"
+    },
+    {
+      "start": 594399,
+      "end": 596959,
+      "text": "if we raise the wet level, this is what"
+    },
+    {
+      "start": 596959,
+      "end": 598959,
+      "text": "that looks like. This is the wet level"
+    },
+    {
+      "start": 598959,
+      "end": 602000,
+      "text": "high. And here we have our wet level"
+    },
+    {
+      "start": 602000,
+      "end": 604399,
+      "text": "low. Wet level low. By the way, if"
+    },
+    {
+      "start": 604399,
+      "end": 605839,
+      "text": "you've been enjoying this channel,"
+    },
+    {
+      "start": 605839,
+      "end": 608480,
+      "text": "please do me a huge, huge, huge favor."
+    },
+    {
+      "start": 608480,
+      "end": 610800,
+      "text": "Make sure you subscribe and hit the like"
+    },
+    {
+      "start": 610800,
+      "end": 614560,
+      "text": "button. That helps a lot."
+    },
+    {
+      "start": 614560,
+      "end": 615040,
+      "text": "A lot."
+    },
+    {
+      "start": 615040,
+      "end": 617279,
+      "text": "So, I got to say that's a pretty big"
+    },
+    {
+      "start": 617279,
+      "end": 620160,
+      "text": "leap forward. Not that many months ago,"
+    },
+    {
+      "start": 620160,
+      "end": 622399,
+      "text": "this would not have been impossible for"
+    },
+    {
+      "start": 622399,
+      "end": 625839,
+      "text": "a LM, for a coding agent to have done"
+    },
+    {
+      "start": 625839,
+      "end": 628720,
+      "text": "with just one prompt. And if it couldn't"
+    },
+    {
+      "start": 628720,
+      "end": 631120,
+      "text": "oneshot it, then you know telling it to"
+    },
+    {
+      "start": 631120,
+      "end": 634000,
+      "text": "try again would rarely work out. Now"
+    },
+    {
+      "start": 634000,
+      "end": 636079,
+      "text": "with these more advanced agents, once"
+    },
+    {
+      "start": 636079,
+      "end": 637680,
+      "text": "they know what the issue is, they keep"
+    },
+    {
+      "start": 637680,
+      "end": 640079,
+      "text": "working until they fix it. It's pretty"
+    },
+    {
+      "start": 640079,
+      "end": 641440,
+      "text": "impressive. There's a lot of moving"
+    },
+    {
+      "start": 641440,
+      "end": 644160,
+      "text": "pieces here, and it nails it flawlessly."
+    },
+    {
+      "start": 644160,
+      "end": 647120,
+      "text": "The wet and dry right-handed sometimes"
+    },
+    {
+      "start": 647120,
+      "end": 649839,
+      "text": "clipped in and out, but you can use your"
+    },
+    {
+      "start": 649839,
+      "end": 651680,
+      "text": "hands to modulate the voice how you"
+    },
+    {
+      "start": 651680,
+      "end": 653519,
+      "text": "wanted to, which is pretty cool. Next, I"
+    },
+    {
+      "start": 653519,
+      "end": 656399,
+      "text": "wanted to see if it could create a cool"
+    },
+    {
+      "start": 656399,
+      "end": 659360,
+      "text": "'9s video game themed website that was"
+    },
+    {
+      "start": 659360,
+      "end": 661680,
+      "text": "selling super intelligence. I wanted"
+    },
+    {
+      "start": 661680,
+      "end": 664640,
+      "text": "some gamelike backgrounds where there"
+    },
+    {
+      "start": 664640,
+      "end": 666720,
+      "text": "were ships floating around. Oof, it just"
+    },
+    {
+      "start": 666720,
+      "end": 667760,
+      "text": "blew that one up where there were"
+    },
+    {
+      "start": 667760,
+      "end": 670240,
+      "text": "missiles flying towards it and some sort"
+    },
+    {
+      "start": 670240,
+      "end": 672160,
+      "text": "of counters and stuff like that that"
+    },
+    {
+      "start": 672160,
+      "end": 674079,
+      "text": "would show how many people are signing"
+    },
+    {
+      "start": 674079,
+      "end": 676240,
+      "text": "up every second to take advantage of"
+    },
+    {
+      "start": 676240,
+      "end": 679200,
+      "text": "this these massive massive deals. It's a"
+    },
+    {
+      "start": 679200,
+      "end": 681200,
+      "text": "fully functional website. clicking"
+    },
+    {
+      "start": 681200,
+      "end": 683519,
+      "text": "different buttons takes you to where"
+    },
+    {
+      "start": 683519,
+      "end": 685519,
+      "text": "you're supposed to go. Well, I should"
+    },
+    {
+      "start": 685519,
+      "end": 686959,
+      "text": "say we we don't have the checkout"
+    },
+    {
+      "start": 686959,
+      "end": 689360,
+      "text": "process yet, but the sort of the front"
+    },
+    {
+      "start": 689360,
+      "end": 692320,
+      "text": "end, all of that stuff is working. We"
+    },
+    {
+      "start": 692320,
+      "end": 696000,
+      "text": "have some testimonials, of course, 100%"
+    },
+    {
+      "start": 696000,
+      "end": 699040,
+      "text": "made up and generated by AI. Really good"
+    },
+    {
+      "start": 699040,
+      "end": 701519,
+      "text": "call to actions, lots of, you know,"
+    },
+    {
+      "start": 701519,
+      "end": 703440,
+      "text": "numbers to make it look very, very"
+    },
+    {
+      "start": 703440,
+      "end": 706720,
+      "text": "realistic. Frequently aligned questions."
+    },
+    {
+      "start": 706720,
+      "end": 708480,
+      "text": "That's interesting. And believe it or"
+    },
+    {
+      "start": 708480,
+      "end": 712000,
+      "text": "not, we have working privacy pages and"
+    },
+    {
+      "start": 712000,
+      "end": 715360,
+      "text": "all of that stuff. Security and careers."
+    },
+    {
+      "start": 715360,
+      "end": 717920,
+      "text": "You can send in your mission brief. I"
+    },
+    {
+      "start": 717920,
+      "end": 719760,
+      "text": "just noticed it even made up an email"
+    },
+    {
+      "start": 719760,
+      "end": 721760,
+      "text": "address. Don't email that email address."
+    },
+    {
+      "start": 721760,
+      "end": 724240,
+      "text": "I don't know whose that is. But this was"
+    },
+    {
+      "start": 724240,
+      "end": 726480,
+      "text": "a piece of cake. So, I just need"
+    },
+    {
+      "start": 726480,
+      "end": 728399,
+      "text": "something much much more difficult."
+    },
+    {
+      "start": 728399,
+      "end": 730000,
+      "text": "That's what I'm planning to do for my"
+    },
+    {
+      "start": 730000,
+      "end": 732560,
+      "text": "next round of testing. something with a"
+    },
+    {
+      "start": 732560,
+      "end": 735040,
+      "text": "lot more functionality and just a bunch"
+    },
+    {
+      "start": 735040,
+      "end": 736800,
+      "text": "of different stuff that we're going to"
+    },
+    {
+      "start": 736800,
+      "end": 738639,
+      "text": "test out to see if we can stump this"
+    },
+    {
+      "start": 738639,
+      "end": 741120,
+      "text": "model in terms of its ability to do web"
+    },
+    {
+      "start": 741120,
+      "end": 742959,
+      "text": "development. So far, I mean, this is"
+    },
+    {
+      "start": 742959,
+      "end": 744720,
+      "text": "great. Again, a little bit too easy."
+    },
+    {
+      "start": 744720,
+      "end": 746480,
+      "text": "Now, if you've been paying attention to"
+    },
+    {
+      "start": 746480,
+      "end": 748240,
+      "text": "what's happening in YouTube land, you've"
+    },
+    {
+      "start": 748240,
+      "end": 750240,
+      "text": "probably seen a lot of creators are"
+    },
+    {
+      "start": 750240,
+      "end": 752800,
+      "text": "saying that their views are down. It's"
+    },
+    {
+      "start": 752800,
+      "end": 755760,
+      "text": "100% has something to do with automated"
+    },
+    {
+      "start": 755760,
+      "end": 758240,
+      "text": "traffic. It's not anything seasonal, but"
+    },
+    {
+      "start": 758240,
+      "end": 761360,
+      "text": "in this Lionus Tech Tips clip, they"
+    },
+    {
+      "start": 761360,
+      "end": 763600,
+      "text": "created a little bit of software that"
+    },
+    {
+      "start": 763600,
+      "end": 765680,
+      "text": "helped them analyze what was happening."
+    },
+    {
+      "start": 765680,
+      "end": 767680,
+      "text": "A little piece of software is probably a"
+    },
+    {
+      "start": 767680,
+      "end": 769360,
+      "text": "better way of saying that. So, this"
+    },
+    {
+      "start": 769360,
+      "end": 771920,
+      "text": "gentleman who I think is their engineer/"
+    },
+    {
+      "start": 771920,
+      "end": 774639,
+      "text": "tech support guy created this. What this"
+    },
+    {
+      "start": 774639,
+      "end": 777440,
+      "text": "does is basically it pulls the data from"
+    },
+    {
+      "start": 777440,
+      "end": 779600,
+      "text": "YouTube from whatever channel you want"
+    },
+    {
+      "start": 779600,
+      "end": 783519,
+      "text": "and it shows the view to like ratio."
+    },
+    {
+      "start": 783519,
+      "end": 785360,
+      "text": "Basically, it seems like somewhere"
+    },
+    {
+      "start": 785360,
+      "end": 788000,
+      "text": "around August 13th, I think, is when"
+    },
+    {
+      "start": 788000,
+      "end": 789920,
+      "text": "everything started kind of uh taking"
+    },
+    {
+      "start": 789920,
+      "end": 792079,
+      "text": "place. YouTube figured out how to filter"
+    },
+    {
+      "start": 792079,
+      "end": 795279,
+      "text": "a bunch of traffic out. So, the real"
+    },
+    {
+      "start": 795279,
+      "end": 797200,
+      "text": "humans stayed behind and a lot of the"
+    },
+    {
+      "start": 797200,
+      "end": 799600,
+      "text": "automated traffic was cut out. And you"
+    },
+    {
+      "start": 799600,
+      "end": 801440,
+      "text": "can see that because the like to view"
+    },
+    {
+      "start": 801440,
+      "end": 803200,
+      "text": "ratio kind of went through the roof,"
+    },
+    {
+      "start": 803200,
+      "end": 805920,
+      "text": "meaning that the number of likes stayed"
+    },
+    {
+      "start": 805920,
+      "end": 807839,
+      "text": "consistent, but you know, the views"
+    },
+    {
+      "start": 807839,
+      "end": 809600,
+      "text": "dropped, so the ratio increased. By the"
+    },
+    {
+      "start": 809600,
+      "end": 812079,
+      "text": "way, please hit like if you're a real"
+    },
+    {
+      "start": 812079,
+      "end": 814800,
+      "text": "human being. that's really helping out"
+    },
+    {
+      "start": 814800,
+      "end": 816720,
+      "text": "right now. Please do me a favor, hit"
+    },
+    {
+      "start": 816720,
+      "end": 819200,
+      "text": "like. Show me that you're not a dirty b,"
+    },
+    {
+      "start": 819200,
+      "end": 820800,
+      "text": "please. But the point is, they use this"
+    },
+    {
+      "start": 820800,
+      "end": 824079,
+      "text": "tool to analyze several other channels"
+    },
+    {
+      "start": 824079,
+      "end": 826480,
+      "text": "and lay it out in the graph like that. I"
+    },
+    {
+      "start": 826480,
+      "end": 829040,
+      "text": "wanted to see if Codeex could create"
+    },
+    {
+      "start": 829040,
+      "end": 831120,
+      "text": "something similar for me. So, I asked it"
+    },
+    {
+      "start": 831120,
+      "end": 834160,
+      "text": "to build something that uses the YouTube"
+    },
+    {
+      "start": 834160,
+      "end": 837040,
+      "text": "API to pull data from YouTube from"
+    },
+    {
+      "start": 837040,
+      "end": 839279,
+      "text": "whatever channels I choose and figure"
+    },
+    {
+      "start": 839279,
+      "end": 842560,
+      "text": "out what the likes to views ratio is."
+    },
+    {
+      "start": 842560,
+      "end": 844480,
+      "text": "Here's what it came up with. So, for"
+    },
+    {
+      "start": 844480,
+      "end": 847680,
+      "text": "example, if I put in the channel ID of"
+    },
+    {
+      "start": 847680,
+      "end": 849920,
+      "text": "Sabina Hassenfelder, it would look"
+    },
+    {
+      "start": 849920,
+      "end": 852639,
+      "text": "something like this. So, there it is."
+    },
+    {
+      "start": 852639,
+      "end": 855040,
+      "text": "Let me just expand it here. So, as you"
+    },
+    {
+      "start": 855040,
+      "end": 858880,
+      "text": "can see here, it's got like 5% 6% 7%"
+    },
+    {
+      "start": 858880,
+      "end": 861199,
+      "text": "like to view ratio. Here's the same"
+    },
+    {
+      "start": 861199,
+      "end": 863120,
+      "text": "thing for tech linked. So, again,"
+    },
+    {
+      "start": 863120,
+      "end": 864880,
+      "text": "similar numbers. Everything's looking"
+    },
+    {
+      "start": 864880,
+      "end": 868480,
+      "text": "good. It also creates a PNG of the graph"
+    },
+    {
+      "start": 868480,
+      "end": 869519,
+      "text": "so you can take a look at it and"
+    },
+    {
+      "start": 869519,
+      "end": 871600,
+      "text": "automatically saves it to that folder."
+    },
+    {
+      "start": 871600,
+      "end": 873839,
+      "text": "So, again, it's pretty nifty what you"
+    },
+    {
+      "start": 873839,
+      "end": 876320,
+      "text": "can do with it and it's pretty good at"
+    },
+    {
+      "start": 876320,
+      "end": 878079,
+      "text": "completing those tasks. Again, it's very"
+    },
+    {
+      "start": 878079,
+      "end": 879600,
+      "text": "cool, but we're going to hit it a lot"
+    },
+    {
+      "start": 879600,
+      "end": 881360,
+      "text": "harder next time. I promise. Next, I"
+    },
+    {
+      "start": 881360,
+      "end": 883920,
+      "text": "tested to see if I could use the OpenAI"
+    },
+    {
+      "start": 883920,
+      "end": 887360,
+      "text": "API to create a voice assistant. Here's"
+    },
+    {
+      "start": 887360,
+      "end": 889199,
+      "text": "kind of what that looked like. Press"
+    },
+    {
+      "start": 889199,
+      "end": 891519,
+      "text": "enter to speak. What day is it?"
+    },
+    {
+      "start": 891519,
+      "end": 894560,
+      "text": "Today is October 3rd, 2023. Need help"
+    },
+    {
+      "start": 894560,
+      "end": 895680,
+      "text": "with anything else?"
+    },
+    {
+      "start": 895680,
+      "end": 898000,
+      "text": "So, that's pretty good. You hit enter to"
+    },
+    {
+      "start": 898000,
+      "end": 901199,
+      "text": "record your voice. It transcribes it and"
+    },
+    {
+      "start": 901199,
+      "end": 903839,
+      "text": "the assistant responds with the voice."
+    },
+    {
+      "start": 903839,
+      "end": 906320,
+      "text": "Again, it's somewhat simple, but in the"
+    },
+    {
+      "start": 906320,
+      "end": 908079,
+      "text": "past, we've had a lot of these coding"
+    },
+    {
+      "start": 908079,
+      "end": 910639,
+      "text": "agents fail a task like this because you"
+    },
+    {
+      "start": 910639,
+      "end": 913040,
+      "text": "have API, you have sound, you have a lot"
+    },
+    {
+      "start": 913040,
+      "end": 914480,
+      "text": "of different packages that need to be"
+    },
+    {
+      "start": 914480,
+      "end": 917040,
+      "text": "installed, etc. Here, it did struggle"
+    },
+    {
+      "start": 917040,
+      "end": 919680,
+      "text": "with the voice a little bit. So, it was"
+    },
+    {
+      "start": 919680,
+      "end": 921519,
+      "text": "very easy for it to actually hook up to"
+    },
+    {
+      "start": 921519,
+      "end": 924720,
+      "text": "the OpenAI API, but the voice output"
+    },
+    {
+      "start": 924720,
+      "end": 927120,
+      "text": "took a few iterations, but eventually it"
+    },
+    {
+      "start": 927120,
+      "end": 929120,
+      "text": "nailed it. And finally, here's our"
+    },
+    {
+      "start": 929120,
+      "end": 932000,
+      "text": "Flappy Bird. As you can see here, it has"
+    },
+    {
+      "start": 932000,
+      "end": 933839,
+      "text": "tracking emotions. At first, I thought"
+    },
+    {
+      "start": 933839,
+      "end": 935839,
+      "text": "you were supposed to do this, and that"
+    },
+    {
+      "start": 935839,
+      "end": 937120,
+      "text": "didn't work. Apparently, you're supposed"
+    },
+    {
+      "start": 937120,
+      "end": 939519,
+      "text": "to really swing your hand. Let's see if"
+    },
+    {
+      "start": 939519,
+      "end": 942160,
+      "text": "I can. There you go. So, basically, when"
+    },
+    {
+      "start": 942160,
+      "end": 945040,
+      "text": "you swing your hand, the bird flaps its"
+    },
+    {
+      "start": 945040,
+      "end": 947440,
+      "text": "wings. It's surprisingly difficult. And"
+    },
+    {
+      "start": 947440,
+      "end": 951360,
+      "text": "I got to say, it's a bit of a workout. I"
+    },
+    {
+      "start": 951360,
+      "end": 954160,
+      "text": "mean, for someone that spends most of"
+    },
+    {
+      "start": 954160,
+      "end": 955920,
+      "text": "their day behind a computer, it's a bit"
+    },
+    {
+      "start": 955920,
+      "end": 959120,
+      "text": "of a workout, I should say. But, it"
+    },
+    {
+      "start": 959120,
+      "end": 961120,
+      "text": "nailed it. Again, it's a leap forward"
+    },
+    {
+      "start": 961120,
+      "end": 964240,
+      "text": "from the previous models. Oh boy, I"
+    },
+    {
+      "start": 964240,
+      "end": 966480,
+      "text": "started again. But I still need to do"
+    },
+    {
+      "start": 966480,
+      "end": 968880,
+      "text": "some more difficult and challenging"
+    },
+    {
+      "start": 968880,
+      "end": 972000,
+      "text": "tasks for this model. So, all in all, I"
+    },
+    {
+      "start": 972000,
+      "end": 974959,
+      "text": "am very impressed so far just with my"
+    },
+    {
+      "start": 974959,
+      "end": 977440,
+      "text": "early testing. Very excited cuz I feel"
+    },
+    {
+      "start": 977440,
+      "end": 979839,
+      "text": "like I found a new toy. There's tons of"
+    },
+    {
+      "start": 979839,
+      "end": 982000,
+      "text": "things to explore here. The ability to"
+    },
+    {
+      "start": 982000,
+      "end": 984639,
+      "text": "jump between, you know, terminal ID,"
+    },
+    {
+      "start": 984639,
+      "end": 987360,
+      "text": "web, even your phone, as they say, that"
+    },
+    {
+      "start": 987360,
+      "end": 989680,
+      "text": "seems like a big deal. you can be"
+    },
+    {
+      "start": 989680,
+      "end": 992639,
+      "text": "getting stuff done asynchronously away"
+    },
+    {
+      "start": 992639,
+      "end": 994399,
+      "text": "from your computer, checking in with"
+    },
+    {
+      "start": 994399,
+      "end": 997040,
+      "text": "your phone. This feels like a pretty big"
+    },
+    {
+      "start": 997040,
+      "end": 999440,
+      "text": "leap forward. Now, I'm still not sure if"
+    },
+    {
+      "start": 999440,
+      "end": 1001199,
+      "text": "this is going to mean that everybody's"
+    },
+    {
+      "start": 1001199,
+      "end": 1003279,
+      "text": "going to be using it to develop serious"
+    },
+    {
+      "start": 1003279,
+      "end": 1005920,
+      "text": "software. There's just been a handful of"
+    },
+    {
+      "start": 1005920,
+      "end": 1007920,
+      "text": "people on YouTube that are developers"
+    },
+    {
+      "start": 1007920,
+      "end": 1009680,
+      "text": "that have tested out. So far, it seems"
+    },
+    {
+      "start": 1009680,
+      "end": 1011759,
+      "text": "very, very promising. So I'll leave it"
+    },
+    {
+      "start": 1011759,
+      "end": 1014399,
+      "text": "up to them to tell us how good this is"
+    },
+    {
+      "start": 1014399,
+      "end": 1017519,
+      "text": "on actual enterprise serious projects."
+    },
+    {
+      "start": 1017519,
+      "end": 1019839,
+      "text": "But where this is 100% going to be a"
+    },
+    {
+      "start": 1019839,
+      "end": 1022240,
+      "text": "gamecher is for example for people that"
+    },
+    {
+      "start": 1022240,
+      "end": 1024240,
+      "text": "are thinking about doing a startup with"
+    },
+    {
+      "start": 1024240,
+      "end": 1025918,
+      "text": "their own app. They need a simple"
+    },
+    {
+      "start": 1025919,
+      "end": 1028000,
+      "text": "prototype. Back in the days it might"
+    },
+    {
+      "start": 1028000,
+      "end": 1030400,
+      "text": "have been difficult to create. Let's say"
+    },
+    {
+      "start": 1030400,
+      "end": 1032480,
+      "text": "somebody has some knowledge in a"
+    },
+    {
+      "start": 1032480,
+      "end": 1034240,
+      "text": "specific area. They want to create an"
+    },
+    {
+      "start": 1034240,
+      "end": 1036079,
+      "text": "app to utilize that knowledge but they"
+    },
+    {
+      "start": 1036079,
+      "end": 1037760,
+      "text": "don't have a coding background. In the"
+    },
+    {
+      "start": 1037760,
+      "end": 1039839,
+      "text": "past, they either had to shell out a lot"
+    },
+    {
+      "start": 1039839,
+      "end": 1041918,
+      "text": "of money for a developer to develop it"
+    },
+    {
+      "start": 1041919,
+      "end": 1044480,
+      "text": "or maybe they had to raise some money to"
+    },
+    {
+      "start": 1044480,
+      "end": 1046640,
+      "text": "make it a startup or they had to partner"
+    },
+    {
+      "start": 1046640,
+      "end": 1049200,
+      "text": "with a tech founder or potentially spend"
+    },
+    {
+      "start": 1049200,
+      "end": 1050960,
+      "text": "a lot of time learning how to do it"
+    },
+    {
+      "start": 1050960,
+      "end": 1054000,
+      "text": "themselves. That has changed. Now it's"
+    },
+    {
+      "start": 1054000,
+      "end": 1056880,
+      "text": "getting very easy to start creating your"
+    },
+    {
+      "start": 1056880,
+      "end": 1058400,
+      "text": "own software, especially if it's a"
+    },
+    {
+      "start": 1058400,
+      "end": 1060720,
+      "text": "simple app. You just need a prototype to"
+    },
+    {
+      "start": 1060720,
+      "end": 1062480,
+      "text": "give to your friends to start testing it"
+    },
+    {
+      "start": 1062480,
+      "end": 1064400,
+      "text": "to see if there's any market traction."
+    },
+    {
+      "start": 1064400,
+      "end": 1067280,
+      "text": "That road from zero to one. It just got"
+    },
+    {
+      "start": 1067280,
+      "end": 1070000,
+      "text": "a whole lot easier. That opens up the"
+    },
+    {
+      "start": 1070000,
+      "end": 1072000,
+      "text": "creativity to basically the entire"
+    },
+    {
+      "start": 1072000,
+      "end": 1074640,
+      "text": "world. Anybody with an idea can develop"
+    },
+    {
+      "start": 1074640,
+      "end": 1077360,
+      "text": "it fairly quickly and fairly easily with"
+    },
+    {
+      "start": 1077360,
+      "end": 1079520,
+      "text": "not a lot of money invested. I mean, if"
+    },
+    {
+      "start": 1079520,
+      "end": 1082000,
+      "text": "you get the pro plan, that's 200 a month"
+    },
+    {
+      "start": 1082000,
+      "end": 1084640,
+      "text": "and just spend the entire month just"
+    },
+    {
+      "start": 1084640,
+      "end": 1086400,
+      "text": "ranking it out, you can probably launch"
+    },
+    {
+      "start": 1086400,
+      "end": 1090400,
+      "text": "it for $200. So, more in-depth testing"
+    },
+    {
+      "start": 1090400,
+      "end": 1093200,
+      "text": "coming soon. But as of right now, from"
+    },
+    {
+      "start": 1093200,
+      "end": 1095360,
+      "text": "where I'm sitting, this thing feels"
+    },
+    {
+      "start": 1095360,
+      "end": 1097440,
+      "text": "extremely exciting. If you made it this"
+    },
+    {
+      "start": 1097440,
+      "end": 1099520,
+      "text": "far, please hit the thumbs up button to"
+    },
+    {
+      "start": 1099520,
+      "end": 1101679,
+      "text": "prove you're human. And I'll see you in"
+    },
+    {
+      "start": 1101679,
+      "end": 1103919,
+      "text": "the next"
+    }
+  ],
+  "comments": {
+    "totalCount": 244,
+    "sample": [
+      {
+        "id": "UgzMXnJDidoeE4XDqhl4AaABAg",
+        "content": "I used GPT5 to create a interactive Jukebox webpage - turned out very professional looking and I'm very impressed.  But, it took about a week of back & forth debugging it.",
+        "author": "@jdsguam",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 57,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyq5CkupDZYz8PLQ5R4AaABAg",
+        "content": "I'm a dev, tested it on a real project. works great",
+        "author": "@Edmund-b9q",
+        "publishedDate": "2025-09-17T00:00:00.000Z",
+        "likeCount": 95,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyNBr9QebuHRrHCvy94AaABAg",
+        "content": "October 2023?\nWes, your computer went back in time \nYou made a time machine",
+        "author": "@KiteTurbine",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 10,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgygmsiUVW-iADJHcuR4AaABAg",
+        "content": "The traffic drop came from ad blockers starting to block the YouTube API endpoint for tracking views. All the users with an ad blockers suddenly stopped being tracked on the 12th.",
+        "author": "@dynchaw",
+        "publishedDate": "2025-09-18T05:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy1DXJSIh_oWC7NxL94AaABAg",
+        "content": "13:35 you got me, pressed like",
+        "author": "@Luzivog",
+        "publishedDate": "2025-09-17T19:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwFr-0OwbkfK8UUrgN4AaABAg",
+        "content": "I subscribed to pro. It’s been killing it for me today. Claude stopped working well recently. gpt-5-codex is more honest and follows instructions better. It even called me out on being contradictory, which I appreciated. Claude would have just told me I was brilliant and then done the wrong thing. Sad because Claude was so good at first.",
+        "author": "@5thwalltv",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 26,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwzQI4pwtrPdgGCMMV4AaABAg",
+        "content": "My cousin who works at a delivery companies already replaced his 11 other colleagues due to GPT5. With this tool, this will accelerate even faster.",
+        "author": "@Truck_Kun_Driver",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 18,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwSKXoHoCMmYWEyjrR4AaABAg",
+        "content": "I have been working on an embedded ESP32 MIDI device written in C and C++.  The project started with Claude Code, but I have now switched to using Codex.  Can confirm it is very good, and the context window doesn't run out in forever. Also the code is of excellent quality with much less drama and need for intervention.  Highly recommended.",
+        "author": "@clipstar9000",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 33,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyRa9ih2RZqAMrj9Ct4AaABAg",
+        "content": "I just bounced codex off a relatively complicated layered fully dockerised system that I built using AI Studio and a poop-load of cut and paste, it has a frontend (next.js), backend (django), agent (python),  data (postgres + redis), messaging (rabbitmq). I first got it to analyse the project, then fix something for me, which worked first time. The next thing was for it to add additional functionality, it applied it, it broke something, I went back, it fixed it and the thing worked. My next job is to tear the thing down and see how it works from the original design documents that gemini way back forever ago cobbled together.\n\noh, I've also created a really crap one shot javascript game and a chrome extension that monitors Amazon uk products.\n\nLong and the short, I am really impresses so far with codex.\n\nI've got way too much time on my hands!!",
+        "author": "@paulbieles1956",
+        "publishedDate": "2025-09-17T18:00:00.000Z",
+        "likeCount": 5,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwaSOxaZf84PgTCPgN4AaABAg",
+        "content": "\"frequently aligned questions\"   😆",
+        "author": "@tdplayert",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugz1aNjR2p0BxPpPV7p4AaABAg",
+        "content": "liked and subbed even tho your on windows 😂",
+        "author": "@dreamstatemonkeys6447",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzj-R8m_CYgUwH9xOB4AaABAg",
+        "content": "So glad I took 4 bong rips before 10:00 😂😂😂😂",
+        "author": "@FF420Raw",
+        "publishedDate": "2025-09-18T05:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwSA79gGcpxRA1Nfl94AaABAg",
+        "content": "Dang Wes, wtf are you building? 😆 🤣 😂",
+        "author": "@mrmissionctrl",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzzVqj4FRWuLbTeE_d4AaABAg",
+        "content": "HOLD UP. Wasn’t 7 hours’ worth of “50% success rate work” only supposed to come NEXT YEAR with current prediction models??",
+        "author": "@nescaufe1991",
+        "publishedDate": "2025-09-17T00:00:00.000Z",
+        "likeCount": 16,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzLafRlBvnGAg-BK4t4AaABAg",
+        "content": "The like button part had me laughing",
+        "author": "@michaela.gallerizzo6920",
+        "publishedDate": "2025-09-17T20:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy0LVEFv7jqU6G8MNR4AaABAg",
+        "content": "Wes is like: \"I'm not even gonna touch that\" because he's not even gonna pretend to understand what the reasoning is for why they named the models what they do. We feel ya, Wes.",
+        "author": "@TalesfromtheGodsofEgypt",
+        "publishedDate": "2025-09-17T17:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwAYu7aZV1t85rqAEF4AaABAg",
+        "content": "Given the fact that Anthropic has allowed Claude to go totally stupid lately I might have to switch subscriptions and give Codex a solid try.",
+        "author": "@ShootingUtah",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 14,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugz14ffUS-ccYv5CKJN4AaABAg",
+        "content": "Just gave codex for vscode a powershell script and a simple change. Ruined it after 15min😢",
+        "author": "@nzdazza1",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 6,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyscNVd0ih4DXQZWph4AaABAg",
+        "content": "Love how clearly you broke this down 👏 Curious - has anyone here tried building full projects with Codex yet ? What’s your experience?",
+        "author": "@ALEAITSOLUTIONS",
+        "publishedDate": "2025-09-18T07:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyd3MfWMUhgLDjXNW94AaABAg",
+        "content": "If I wasn't already subscribed, 10:10 definitely would've done it lol",
+        "author": "@dayvudmorin",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugxh4a3tVl4XuSKqHGR4AaABAg",
+        "content": "if you want something hard to try: create a comprehensive ontology for all of human knowledge then create a multi-layer perceptron that distills this ontology to infer semantic embeddings based on 90% coverage of the english language while keeping it under 1mb and ensuring it works in the browser",
+        "author": "@EarthAaron",
+        "publishedDate": "2025-09-17T00:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugzk9kyxqdkjWKUgQ3x4AaABAg",
+        "content": "It seems reasonable to wait a few months to determine whether OpenAI will begin throttling the service to reduce costs.",
+        "author": "@LuarVikTimYashin",
+        "publishedDate": "2025-09-17T19:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzRgjT0QwApXVdn9zd4AaABAg",
+        "content": "9:45 what an opportunity to say: we are the Borg resistance of futile. 😂",
+        "author": "@AwesomeSauceShow",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugx16pRnnihu9SeDO2B4AaABAg",
+        "content": "Its very exciting and I am impressed with GPT-5's integration prior to this with Codex. \nI just had a task last night run for 39 mins.\n\nOne issue I found is when generating tasks on Cloud if you try Ask first, it suggests stratified tasks which then are worked on independently and merged later in multiple PR's which can lead to merge conflicts. I prefer not triggering those suggested tasks and instead launching it to work on one nuclear PR.",
+        "author": "@IndefiniteMark",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugwy2aFmegxgfgq2uDx4AaABAg",
+        "content": "I am a beginner coder for C++. AI helps me learn coding. I compile the code I want to use and then ask the AI to optimize it and explain to me the changes. Pretty sure this is a small example of the use computer engineers have for AI when developing their codes. I believe AI will not replace human coders for now, but can help improve our skills.",
+        "author": "@marodriguezbabilonia",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 9,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyfszQ_ai7bBlF5nZR4AaABAg",
+        "content": "It’s literally on par with opus.  Better at some things, worse at others.",
+        "author": "@DarkSideNewsOfficial",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 7,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzZNDTadR_yHcbNAFV4AaABAg",
+        "content": "This but for everything that's computer labor, and then next year it's the robots. Bots don't pay taxes. Robots don't pay taxes. Regions need a workforce under current paradigms.",
+        "author": "@gingerhipster",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugwf8NhVKWEnqeKQLqR4AaABAg",
+        "content": "Wow. This is it. \"Frequently Aligned Questions\" is actually witty. It's over. I'm a dev, testing it, and it's making me feel pretty fucking stupid.",
+        "author": "@r34ct4",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugx5bmQIFmh5r93XUHZ4AaABAg",
+        "content": "Have you noticed that the web interface locks up your entire browser? Can happen after 1 prompt but gets worse the more coding windows you get or images you ad, or other files. It started with gpt5.",
+        "author": "@illernpiller",
+        "publishedDate": "2025-09-17T20:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugw3CMN97-v7elx5z_h4AaABAg",
+        "content": "It's always about 50% success rate. So for every task there is 50% chance a human needs to spend at least as much time as if he/she was personally doing the task.\nWith sw development, the error rate can compound very fast.",
+        "author": "@drwhitewash",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugwv3ka62QD2uBB_edt4AaABAg",
+        "content": "I’ve had great success with a few small projects too.",
+        "author": "@CutcliffePaul",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzGBcMT5FILmbTQ5gV4AaABAg",
+        "content": "Gpt5 has been the best from onset the problem his people were expecting AGI",
+        "author": "@oluwajuwonloowojori8049",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwRhzHEMmfRVUp9wXh4AaABAg",
+        "content": "I noticed that gpt 5 in copilot is doing way better than Claude 4 recently. I often switch around models for different tasks but I find myself using gtp 5 more.. not sure if this has anything to do with it but gpt 5 has been kicking ass with one shot implementing, especially with contract contexts it can refer to.",
+        "author": "@obscura_tempura_studios",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyHkfpMa7p-zzVkKUp4AaABAg",
+        "content": "Great video, thank you!",
+        "author": "@patrickzupanc1795",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzQHXzgWnv2Q908OpV4AaABAg",
+        "content": "Very cool, could use a better date time api though",
+        "author": "@nathanryan2923",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwPed6zKmBE8L77SWl4AaABAg",
+        "content": "How do you avoid the sandbox restrictions ? For example when you need run integration tests with docker or databases , what do you do to give codex permissions to run it ?",
+        "author": "@JuanPabloAJ",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgyDnL2Le9pT8IqI8RZ4AaABAg",
+        "content": "I have CC Max, but im currently working with 20$ Codex.",
+        "author": "@StonedApe420",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzwUOBziFZZXNiEDpt4AaABAg",
+        "content": "10:04 love it😂😂",
+        "author": "@ClankerT800",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwbJjhNfAofcWZEIA14AaABAg",
+        "content": "Not only will I thumbs up this video. I'll save it to a unlisted playlist for future reference 😅",
+        "author": "@TheKnowledgeAge",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy84h7MRmyM10qBqgt4AaABAg",
+        "content": "So That was disturbing. lol. Thx, Wes! \nSubscribed as instructed.",
+        "author": "@peterpetrov6522",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugz7gIMTie9JTZGH89Z4AaABAg",
+        "content": "works better than opus in my systems",
+        "author": "@georgerauscher",
+        "publishedDate": "2025-09-17T19:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgycncY8yvacFYzyqwp4AaABAg",
+        "content": "Step1 : Improve your word salad , meta prompt the idea before you have it executed.  How do you do that ?\nAsk the tool to help your articulate the problem.\n\nStep 2 : Add coding axioms to the personality so it thinks like a developer : Functional  , Understandable , Maintainable , Expandable.   The secret concept is to have the llm list the idea instructions to recreate the code in the header as comments. It improves output and components going missing in the next output response.\n\nAdv Step : Ask for ontology sets. You ask for the ontology of the domain first and then a subset primary set of that domain.  You derive connections or ask the tool to do this part as well.",
+        "author": "@bonecircuit",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugy5ixX5vA5zOHgVxrR4AaABAg",
+        "content": "Been following this channel for a while and now I wish I knew how to program and code.",
+        "author": "@drsuperhero",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwKJkm7fJ0XOFGkLrB4AaABAg",
+        "content": "I can't imagine what programming majors starting today think. How could they possibly be as good as even the worst LLM agent in 4 years' time? I really don't think it's possible to be as good, if you're starting now, as an LLM in 4 years. I doubt any human will be as good to be honest.",
+        "author": "@johnsnow5305",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 2,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyqba09LZQdgzQJoFR4AaABAg",
+        "content": "LOVE.... the robotech voice effect!!!",
+        "author": "@KOSMIKFEADRECORDS",
+        "publishedDate": "2025-09-17T17:00:00.000Z",
+        "likeCount": 4,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugw8me9JodcjbMy9CIl4AaABAg",
+        "content": "Codex CLI asked me if I want to try the new Codex model, and after 30 minutes I was completely blown away by how absolutely TERRIBLE it was. The number of mistakes it made during a simple refactoring session was insane, so I immediately switched to 5-high and haven't looked back since.",
+        "author": "@anatolydyatlov963",
+        "publishedDate": "2025-09-17T17:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "Ugyc_-toQl6rlL3HYb94AaABAg",
+        "content": "That's a great test, I don't think many LLMs can achieve that",
+        "author": "@DaffaAnalytics",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgzxnvW31YH3zkybHEF4AaABAg",
+        "content": "Good timing!  For some reason, in the last week, Claude and Claude Code seem to have become much less good??  It's been working on a large codebase, making good progress - but in the last week has started making very questionable decisions - often ignoring the instructions.  I've been super impressed with Claude Code - but this week it has made me swear at it more than ever.  I'll give GPT Codex a go later!",
+        "author": "@Simon_Rafferty",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgxPC6HwglfG6GztZEF4AaABAg",
+        "content": "Its been soft confirmed that the view drops are due to adblocker views on computer not being counted by Youtube. Thats why views have dropped but not ad revenue.",
+        "author": "@MrDexterJKM",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 3,
+        "isCreator": false,
+        "isPinned": false
+      },
+      {
+        "id": "UgwQutwlsFlR0UBmQUt4AaABAg",
+        "content": "im waiting for further testing. but i feel like ordynary user [not programist] will have hard time to create production level app with this. because I think you need to ask right question, so you need to be aware what is needed to create a working program. still, it IS impressive",
+        "author": "@ojciecvaader9279",
+        "publishedDate": "2025-09-17T16:00:00.000Z",
+        "likeCount": 1,
+        "isCreator": false,
+        "isPinned": false
+      }
+    ]
+  },
+  "metadata": {
+    "extractedAt": "2025-09-18T16:46:05Z",
+    "source": "apify-youtube-scraper",
+    "processingVersion": "1.0.0"
+  }
+}
