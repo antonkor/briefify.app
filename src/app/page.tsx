@@ -351,7 +351,7 @@ export default function Home() {
     }
   }
 
-  const findCommentTimestamp = (comment) => {
+  const findCommentTimestamp = (comment: any) => {
     // Extract potential timestamps from comment content
     const timeRegex = /(\d{1,2}):(\d{2})/g
     const matches = comment.content.match(timeRegex)
@@ -360,21 +360,22 @@ export default function Home() {
     }
 
     // Generate a mock timestamp based on comment position/content
-    const commentIndex = videoData.comments.comments.findIndex(c => c.id === comment.id)
-    const estimatedTime = Math.floor((commentIndex / videoData.comments.comments.length) * videoData.length)
+    if (!videoData || !(videoData as any).comments?.comments) return '0:00'
+    const commentIndex = (videoData as any).comments.comments.findIndex((c: any) => c.id === comment.id)
+    const estimatedTime = Math.floor((commentIndex / (videoData as any).comments.comments.length) * (videoData as any).length)
     const minutes = Math.floor(estimatedTime / 60)
     const seconds = estimatedTime % 60
     return `${minutes}:${seconds.toString().padStart(2, '0')}`
   }
 
-  const getCommentContext = (comment) => {
+  const getCommentContext = (comment: any) => {
     const timestamp = findCommentTimestamp(comment)
     const [minutes, seconds] = timestamp.split(':').map(Number)
     const totalSeconds = minutes * 60 + seconds
 
     // Find transcript context around this time
-    if (videoData.transcript) {
-      const contextEntry = videoData.transcript.find(entry =>
+    if (videoData && (videoData as any).transcript) {
+      const contextEntry = (videoData as any).transcript.find((entry: any) =>
         entry.start <= totalSeconds * 1000 && entry.end >= totalSeconds * 1000
       )
       if (contextEntry) {
@@ -394,11 +395,11 @@ export default function Home() {
       "At this moment, the discussion turned to how traditional financial institutions might adapt."
     ]
 
-    const commentIndex = videoData.comments.comments.findIndex(c => c.id === comment.id)
+    const commentIndex = videoData ? (videoData as any).comments.comments.findIndex((c: any) => c.id === comment.id) : 0
     return contextTemplates[commentIndex % contextTemplates.length]
   }
 
-  const getExtendedContext = (comment) => {
+  const getExtendedContext = (comment: any) => {
     const timestamp = findCommentTimestamp(comment)
     const [minutes, seconds] = timestamp.split(':').map(Number)
     const totalSeconds = minutes * 60 + seconds
@@ -423,12 +424,12 @@ export default function Home() {
     }
   }
 
-  const handleCommentClick = (comment, e) => {
+  const handleCommentClick = (comment: any, e: any) => {
     e.preventDefault()
     setSelectedComment(comment)
   }
 
-  const generateMockReplies = (comment) => {
+  const generateMockReplies = (comment: any) => {
     if (comment.replyCount === 0) return []
 
     const mockReplies = [
@@ -461,11 +462,12 @@ export default function Home() {
 
   const renderCommentContent = () => {
     // Get comments for each category
-    const topComments = videoData.comments.comments.slice(0, 3)
-    const insightComments = videoData.comments.comments.filter(c => c.content.toLowerCase().includes('ai') || c.content.toLowerCase().includes('future') || c.content.toLowerCase().includes('tech')).slice(0, 3)
-    const lovedComments = videoData.comments.comments.filter(c => c.likeCount > 50 && (c.content.includes('!') || c.content.toLowerCase().includes('amazing') || c.content.toLowerCase().includes('great'))).slice(0, 3)
-    const mixedComments = videoData.comments.comments.filter(c => c.content.toLowerCase().includes('but') || c.content.toLowerCase().includes('however') || c.content.toLowerCase().includes('concern')).slice(0, 3)
-    const debateComments = videoData.comments.comments.filter(c => c.replyCount > 5 || c.content.includes('?')).slice(0, 3)
+    if (!videoData) return null
+    const topComments = (videoData as any).comments.comments.slice(0, 3)
+    const insightComments = (videoData as any).comments.comments.filter((c: any) => c.content.toLowerCase().includes('ai') || c.content.toLowerCase().includes('future') || c.content.toLowerCase().includes('tech')).slice(0, 3)
+    const lovedComments = (videoData as any).comments.comments.filter((c: any) => c.likeCount > 50 && (c.content.includes('!') || c.content.toLowerCase().includes('amazing') || c.content.toLowerCase().includes('great'))).slice(0, 3)
+    const mixedComments = (videoData as any).comments.comments.filter((c: any) => c.content.toLowerCase().includes('but') || c.content.toLowerCase().includes('however') || c.content.toLowerCase().includes('concern')).slice(0, 3)
+    const debateComments = (videoData as any).comments.comments.filter((c: any) => c.replyCount > 5 || c.content.includes('?')).slice(0, 3)
 
     if (activeCommentView === 'summary') {
       return (
@@ -476,7 +478,7 @@ export default function Home() {
             <div className="relative z-10">
               <div className="mb-3">
                 <span className="text-xs font-mono px-3 py-1 rounded-full border text-gray-300 bg-gray-500/20 border-gray-500/30">
-                  {videoData.comments.totalCount} comments analyzed
+                  {(videoData as any).comments.totalCount} comments analyzed
                 </span>
               </div>
               <p className="text-sm text-gray-200 leading-relaxed">
@@ -491,11 +493,11 @@ export default function Home() {
               Most Popular
             </h4>
             <div className="space-y-4">
-              {topComments.map((comment, index) => (
-                <button
+              {topComments.map((comment: any, index: number) => (
+                <div
                   key={comment.id}
                   onClick={(e) => handleCommentClick(comment, e)}
-                  className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group"
+                  className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group cursor-pointer"
                 >
                   {/* Grainy texture overlay */}
                   <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.08)_1px,transparent_0)] bg-[length:24px_24px] opacity-20"></div>
@@ -542,7 +544,7 @@ export default function Home() {
                             ? 'text-yellow-400 fill-yellow-400'
                             : 'text-gray-400 group-hover/star:text-yellow-400'
                         }`} fill={favoritedComments.has(comment.id) ? 'currentColor' : 'none'} stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"></path>
                         </svg>
                       </button>
                     </div>
@@ -571,7 +573,7 @@ export default function Home() {
                       </div>
                     </div>
                   </div>
-                </button>
+                </div>
               ))}
             </div>
           </div>
@@ -583,11 +585,11 @@ export default function Home() {
                 Tech Insights
               </h4>
               <div className="space-y-4">
-                {insightComments.map((comment, index) => (
-                  <button
+                {insightComments.map((comment: any, index: number) => (
+                  <div
                     key={comment.id}
                     onClick={(e) => handleCommentClick(comment, e)}
-                    className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group"
+                    className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group cursor-pointer"
                   >
                     {/* Grainy texture overlay */}
                     <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.08)_1px,transparent_0)] bg-[length:24px_24px] opacity-20"></div>
@@ -655,7 +657,7 @@ export default function Home() {
                         </div>
                       </div>
                     </div>
-                  </button>
+                  </div>
                 ))}
               </div>
             </div>
@@ -668,11 +670,11 @@ export default function Home() {
                 Community Favorites
               </h4>
               <div className="space-y-4">
-                {lovedComments.map((comment, index) => (
-                  <button
+                {lovedComments.map((comment: any, index: number) => (
+                  <div
                     key={comment.id}
                     onClick={(e) => handleCommentClick(comment, e)}
-                    className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group"
+                    className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group cursor-pointer"
                   >
                     {/* Grainy texture overlay */}
                     <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.08)_1px,transparent_0)] bg-[length:24px_24px] opacity-20"></div>
@@ -740,7 +742,7 @@ export default function Home() {
                         </div>
                       </div>
                     </div>
-                  </button>
+                  </div>
                 ))}
               </div>
             </div>
@@ -753,11 +755,11 @@ export default function Home() {
                 Mixed Reactions
               </h4>
               <div className="space-y-4">
-                {mixedComments.map((comment, index) => (
-                  <button
+                {mixedComments.map((comment: any, index: number) => (
+                  <div
                     key={comment.id}
                     onClick={(e) => handleCommentClick(comment, e)}
-                    className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group"
+                    className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group cursor-pointer"
                   >
                     {/* Grainy texture overlay */}
                     <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.08)_1px,transparent_0)] bg-[length:24px_24px] opacity-20"></div>
@@ -825,7 +827,7 @@ export default function Home() {
                         </div>
                       </div>
                     </div>
-                  </button>
+                  </div>
                 ))}
               </div>
             </div>
@@ -838,11 +840,11 @@ export default function Home() {
                 Hot Debates
               </h4>
               <div className="space-y-4">
-                {debateComments.map((comment, index) => (
-                  <button
+                {debateComments.map((comment: any, index: number) => (
+                  <div
                     key={comment.id}
                     onClick={(e) => handleCommentClick(comment, e)}
-                    className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group"
+                    className="block w-full text-left relative p-3 bg-gradient-to-br from-slate-900/90 via-slate-800/80 to-slate-900/90 backdrop-blur-md rounded-xl border border-slate-600/30 overflow-hidden hover:border-slate-400/50 hover:shadow-lg hover:shadow-slate-900/30 transition-all duration-500 group cursor-pointer"
                   >
                     {/* Grainy texture overlay */}
                     <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.08)_1px,transparent_0)] bg-[length:24px_24px] opacity-20"></div>
@@ -910,7 +912,7 @@ export default function Home() {
                         </div>
                       </div>
                     </div>
-                  </button>
+                  </div>
                 ))}
               </div>
             </div>
@@ -920,26 +922,27 @@ export default function Home() {
     }
 
     const filteredComments = () => {
+      if (!videoData) return []
       switch (activeCommentView) {
         case 'top':
-          return videoData.comments.comments.slice(0, 10)
+          return (videoData as any).comments.comments.slice(0, 10)
         case 'insights':
-          return videoData.comments.comments.filter(c => c.content.toLowerCase().includes('ai') || c.content.toLowerCase().includes('future') || c.content.toLowerCase().includes('tech')).slice(0, 8)
+          return (videoData as any).comments.comments.filter((c: any) => c.content.toLowerCase().includes('ai') || c.content.toLowerCase().includes('future') || c.content.toLowerCase().includes('tech')).slice(0, 8)
         case 'loved':
-          return videoData.comments.comments.filter(c => c.likeCount > 50 && (c.content.includes('!') || c.content.toLowerCase().includes('amazing') || c.content.toLowerCase().includes('great'))).slice(0, 8)
+          return (videoData as any).comments.comments.filter((c: any) => c.likeCount > 50 && (c.content.includes('!') || c.content.toLowerCase().includes('amazing') || c.content.toLowerCase().includes('great'))).slice(0, 8)
         case 'mixed':
-          return videoData.comments.comments.filter(c => c.content.toLowerCase().includes('but') || c.content.toLowerCase().includes('however') || c.content.toLowerCase().includes('concern')).slice(0, 8)
+          return (videoData as any).comments.comments.filter((c: any) => c.content.toLowerCase().includes('but') || c.content.toLowerCase().includes('however') || c.content.toLowerCase().includes('concern')).slice(0, 8)
         case 'debates':
-          return videoData.comments.comments.filter(c => c.replyCount > 5 || c.content.includes('?')).slice(0, 8)
+          return (videoData as any).comments.comments.filter((c: any) => c.replyCount > 5 || c.content.includes('?')).slice(0, 8)
         default:
-          return videoData.comments.comments.slice(0, 10)
+          return (videoData as any).comments.comments.slice(0, 10)
       }
     }
 
     return (
       <div className="space-y-3">
-        {filteredComments().map((comment, index) => (
-          <button
+        {filteredComments().map((comment: any, index: number) => (
+          <div
             key={comment.id}
             onClick={(e) => handleCommentClick(comment, e)}
             className="block w-full text-left relative p-4 bg-gradient-to-br from-slate-900/95 via-slate-800/85 to-slate-900/95 backdrop-blur-lg rounded-2xl border border-slate-600/40 shadow-lg overflow-hidden hover:shadow-2xl hover:shadow-slate-900/40 hover:border-slate-400/60 hover:scale-[1.02] transition-all duration-500 group cursor-pointer"
@@ -1007,7 +1010,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-          </button>
+          </div>
         ))}
       </div>
     )
@@ -1350,7 +1353,7 @@ export default function Home() {
                           opacity: loadingStage === 'hero' ? '0' : '1'
                         }}
                       >
-                        {videoData.title}
+                        {(videoData as any)?.title}
                       </h2>
                       <div
                         className="space-y-1"
@@ -1362,13 +1365,13 @@ export default function Home() {
                         }}
                       >
                         <p className="text-sm text-gray-200">
-                          By {videoData.author}
+                          By {(videoData as any)?.author}
                         </p>
                         <div className="flex items-center justify-between">
                           <div className="flex items-center space-x-3 text-xs text-gray-300">
-                            <span>{videoData.viewCount.toLocaleString()} views</span>
+                            <span>{(videoData as any)?.viewCount?.toLocaleString()} views</span>
                             <span>•</span>
-                            <span>{Math.floor(videoData.length / 60)}:{(videoData.length % 60).toString().padStart(2, '0')} min</span>
+                            <span>{Math.floor((videoData as any)?.length / 60)}:{((videoData as any)?.length % 60)?.toString().padStart(2, '0')} min</span>
                           </div>
                           <button
                             onClick={() => setIsFavorited(!isFavorited)}
@@ -1729,7 +1732,7 @@ export default function Home() {
                 {/* Stage Indicator */}
                 <div className="text-center px-1">
                   <span className="text-xs text-gray-600 dark:text-gray-400 whitespace-nowrap">
-                    <span className="font-medium text-gray-800 dark:text-gray-200">{stageNames[loadingStage]}</span>
+                    <span className="font-medium text-gray-800 dark:text-gray-200">{(stageNames as any)[loadingStage]}</span>
                   </span>
                 </div>
 
@@ -1930,7 +1933,7 @@ export default function Home() {
                   )}
                 </div>
                 <a
-                  href={`https://www.youtube.com/watch?v=${videoData.id}&lc=${selectedComment.id}`}
+                  href={`https://www.youtube.com/watch?v=${(videoData as any)?.id}&lc=${selectedComment.id}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs text-blue-600 dark:text-blue-400 hover:underline"
