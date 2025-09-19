@@ -33,7 +33,16 @@
       "WebSearch",
       "Bash(findstr:*)",
       "Bash(npx:*)",
-      "Bash(netstat:*)"
+      "Bash(netstat:*)",
+      "Bash(curl:*)",
+      "Bash(tasklist:*)",
+      "Bash(.specify/scripts/powershell/create-new-feature.ps1:*)",
+      "Bash(find:*)",
+      "Bash(timeout 10 npm run dev)",
+      "WebFetch(domain:docs.claude.com)",
+      "Read(//c/Users/anton/.claude/commands/**)",
+      "Read(//c/Users/anton/.claude/**)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []

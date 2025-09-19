@@ -1,0 +1,1 @@
+show section icon after comments sub section title. 

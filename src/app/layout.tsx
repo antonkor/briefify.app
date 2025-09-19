@@ -54,6 +54,19 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="dark">
+      <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-QHSSV53QFS"></script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-QHSSV53QFS');
+            `,
+          }}
+        />
+      </head>
       <body className={`${inter.className}`}>
         <ThemeProvider>
           {children}

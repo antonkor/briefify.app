@@ -19,7 +19,7 @@ export function LoadingStates({
   heroTexts = [
     "Extract key insights in seconds",
     "Discover hidden gems instantly",
-    "Transform content into knowledge",
+    "The new Hello, World app!",
     "Uncover meaningful discussions",
     "Filter signal from noise"
   ],

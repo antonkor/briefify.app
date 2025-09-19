@@ -1,0 +1,294 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Performance Metrics API",
+    "version": "1.0.0",
+    "description": "Contract for performance monitoring and reporting"
+  },
+  "paths": {
+    "/api/metrics": {
+      "post": {
+        "summary": "Report performance metrics",
+        "description": "Submit performance measurements for analysis",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/MetricReport"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Metric successfully recorded",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/MetricResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid metric data"
+          }
+        }
+      },
+      "get": {
+        "summary": "Get performance metrics",
+        "description": "Retrieve performance metrics with filtering",
+        "parameters": [
+          {
+            "name": "name",
+            "in": "query",
+            "description": "Metric name (LCP, FID, CLS, etc.)",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "description": "Page where metric was measured",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "since",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "aggregation",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": ["none", "avg", "p50", "p75", "p95", "p99"],
+              "default": "none"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of performance metrics",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "metrics": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/PerformanceMetric"
+                      }
+                    },
+                    "aggregation": {
+                      "$ref": "#/components/schemas/AggregatedMetrics"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/metrics/budgets": {
+      "get": {
+        "summary": "Get performance budgets",
+        "description": "Retrieve configured performance budgets",
+        "responses": {
+          "200": {
+            "description": "Performance budgets",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PerformanceBudgets"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "summary": "Update performance budgets",
+        "description": "Update performance budget thresholds",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PerformanceBudgets"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Budgets updated successfully"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "MetricReport": {
+        "type": "object",
+        "required": ["name", "value", "unit"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "examples": ["LCP", "FID", "CLS", "TTFB", "renderTime"]
+          },
+          "value": {
+            "type": "number",
+            "minimum": 0
+          },
+          "unit": {
+            "type": "string",
+            "enum": ["ms", "fps", "bytes", "percent"]
+          },
+          "context": {
+            "$ref": "#/components/schemas/MetricContext"
+          }
+        }
+      },
+      "MetricContext": {
+        "type": "object",
+        "required": ["page", "deviceType"],
+        "properties": {
+          "page": {
+            "type": "string"
+          },
+          "component": {
+            "type": "string"
+          },
+          "interaction": {
+            "type": "string"
+          },
+          "deviceType": {
+            "type": "string",
+            "enum": ["mobile", "tablet", "desktop"]
+          },
+          "connectionType": {
+            "type": "string",
+            "enum": ["slow-2g", "2g", "3g", "4g", "5g", "wifi"]
+          }
+        }
+      },
+      "PerformanceMetric": {
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/MetricReport"
+          },
+          {
+            "type": "object",
+            "required": ["id", "timestamp", "passed"],
+            "properties": {
+              "id": {
+                "type": "string",
+                "format": "uuid"
+              },
+              "timestamp": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "threshold": {
+                "type": "number"
+              },
+              "passed": {
+                "type": "boolean"
+              }
+            }
+          }
+        ]
+      },
+      "MetricResponse": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "passed": {
+            "type": "boolean"
+          },
+          "message": {
+            "type": "string"
+          }
+        }
+      },
+      "AggregatedMetrics": {
+        "type": "object",
+        "properties": {
+          "avg": {
+            "type": "number"
+          },
+          "min": {
+            "type": "number"
+          },
+          "max": {
+            "type": "number"
+          },
+          "p50": {
+            "type": "number"
+          },
+          "p75": {
+            "type": "number"
+          },
+          "p95": {
+            "type": "number"
+          },
+          "p99": {
+            "type": "number"
+          },
+          "count": {
+            "type": "integer"
+          }
+        }
+      },
+      "PerformanceBudgets": {
+        "type": "object",
+        "properties": {
+          "LCP": {
+            "type": "number",
+            "description": "Largest Contentful Paint in ms",
+            "default": 2500
+          },
+          "FID": {
+            "type": "number",
+            "description": "First Input Delay in ms",
+            "default": 100
+          },
+          "CLS": {
+            "type": "number",
+            "description": "Cumulative Layout Shift score",
+            "default": 0.1
+          },
+          "TTFB": {
+            "type": "number",
+            "description": "Time to First Byte in ms",
+            "default": 800
+          },
+          "renderTime": {
+            "type": "number",
+            "description": "Component render time in ms",
+            "default": 16
+          },
+          "bundleSize": {
+            "type": "number",
+            "description": "JavaScript bundle size in bytes",
+            "default": 500000
+          }
+        }
+      }
+    }
+  }
+}

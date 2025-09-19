@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@types/react-syntax-highlighter": "^15.5.13",
     "autoprefixer": "^10.4.21",
     "convex": "^1.17.2",
     "next": "15.5.3",
     "posthog-js": "^1.266.0",
+    "prism-react-renderer": "^2.4.1",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "react-markdown": "^10.1.0",
+    "react-syntax-highlighter": "^15.6.6"
   },
   "devDependencies": {
     "@types/node": "^20",

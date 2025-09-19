@@ -4,12 +4,9 @@ let isInitialized = false
 
 export function initPostHog() {
   if (typeof window !== 'undefined' && !isInitialized) {
-    // Disable PostHog in development to avoid API key errors
-    if (process.env.NODE_ENV === 'development') {
-      console.log('PostHog: Disabled in development mode')
-      isInitialized = true
-      return true
-    }
+    // Enable PostHog in development for testing
+    const isDev = process.env.NODE_ENV === 'development'
+    console.log(`PostHog: Initializing in ${isDev ? 'development' : 'production'} mode`)
 
     const key = process.env.NEXT_PUBLIC_POSTHOG_KEY
 
@@ -30,6 +27,8 @@ export function initPostHog() {
         cross_subdomain_cookie: false,
         secure_cookie: true,
         persistence: 'localStorage+cookie',
+        disable_external_dependency_loading: true,
+        advanced_disable_decide: true,
         autocapture: {
           dom_event_allowlist: ['click', 'submit', 'change'],
           url_allowlist: [window.location.origin]
@@ -37,8 +36,9 @@ export function initPostHog() {
         loaded: (posthog) => {
           if (process.env.NODE_ENV === 'development') {
             posthog.debug()
+            console.log('🚀 PostHog debug mode enabled for localhost testing')
           }
-          console.log('PostHog loaded successfully')
+          console.log('✅ PostHog loaded successfully')
           isInitialized = true
         },
         on_request_error: (failedRequest) => {
