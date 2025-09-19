@@ -1,0 +1,222 @@
+{
+  "judgeIntelligence": {
+    "pipeline": {
+      "name": "Hackathon Judge Intelligence Pipeline",
+      "purpose": "Gather competitive intelligence on hackathon judges to optimize submission strategy",
+      "phases": [
+        {
+          "phase": "data_collection",
+          "description": "Automated gathering of judge profiles and preferences",
+          "sources": [
+            "LinkedIn profiles",
+            "Twitter/X activity",
+            "GitHub contributions",
+            "Company blogs/posts",
+            "Conference talks",
+            "Previous hackathon judging history"
+          ],
+          "tools": [
+            "Apify LinkedIn scraper",
+            "Twitter API v2",
+            "GitHub API",
+            "RSS feed monitoring",
+            "YouTube transcript extraction"
+          ]
+        },
+        {
+          "phase": "analysis",
+          "description": "AI-powered analysis of judge preferences and biases",
+          "methods": [
+            "Sentiment analysis of social posts",
+            "Technology preference extraction",
+            "Communication style analysis",
+            "Value alignment scoring",
+            "Project type preferences"
+          ]
+        },
+        {
+          "phase": "competitive_positioning",
+          "description": "Strategic recommendations based on judge profiles",
+          "outputs": [
+            "Technology stack optimization",
+            "Demo presentation style guides",
+            "Feature prioritization matrix",
+            "Messaging framework",
+            "Risk mitigation strategies"
+          ]
+        }
+      ]
+    },
+    "judges": [
+      {
+        "id": "jamie-turner",
+        "name": "Jamie Turner",
+        "title": "Co-Founder & CEO",
+        "company": "Convex",
+        "profile": {
+          "background": {
+            "previous_roles": [
+              "Senior Engineering Director at Dropbox",
+              "Principal Engineer at Dropbox",
+              "Head of Engineering at Bump"
+            ],
+            "education": "UCLA",
+            "location": "Seattle, WA",
+            "experience_years": 15,
+            "startup_experience": true,
+            "acquisition_experience": "Bump acquired by Google"
+          },
+          "technical_expertise": [
+            "Distributed systems",
+            "Database architecture",
+            "Storage systems",
+            "Synchronization",
+            "Backend infrastructure",
+            "Developer platforms"
+          ],
+          "leadership_style": {
+            "collaborative": true,
+            "technical_depth": "high",
+            "startup_mindset": true,
+            "scaling_focus": true
+          },
+          "likely_evaluation_criteria": [
+            "Technical architecture quality",
+            "Convex integration depth",
+            "Scalability considerations",
+            "Developer experience",
+            "Real-world applicability"
+          ],
+          "social_presence": {
+            "linkedin": "jamwt",
+            "twitter": null,
+            "github": null,
+            "activity_level": "moderate"
+          },
+          "content_themes": [
+            "Database innovation",
+            "Developer productivity",
+            "Startup building",
+            "Team culture"
+          ]
+        }
+      },
+      {
+        "id": "michael-shimeles",
+        "name": "Michael (RasMic) Shimeles",
+        "title": "DevX Engineer",
+        "company": "Convex",
+        "profile": {
+          "background": {
+            "role_focus": "Developer Experience",
+            "expertise_area": "DevX Engineering"
+          },
+          "likely_evaluation_criteria": [
+            "Developer experience quality",
+            "Documentation clarity",
+            "Integration smoothness",
+            "Learning curve accessibility"
+          ]
+        }
+      },
+      {
+        "id": "wayne-sutton",
+        "name": "Wayne Sutton",
+        "title": "Head of Community & Startup Programs",
+        "company": "Convex",
+        "profile": {
+          "background": {
+            "role_focus": "Community building and startup ecosystem"
+          },
+          "likely_evaluation_criteria": [
+            "Community impact potential",
+            "Business viability",
+            "Market opportunity",
+            "Social sharing potential",
+            "Ecosystem contribution"
+          ]
+        }
+      },
+      {
+        "id": "moustafa-elhadary",
+        "name": "Moustafa Elhadary",
+        "title": "GTM",
+        "company": "OpenAI",
+        "profile": {
+          "background": {
+            "role_focus": "Go-to-market strategy",
+            "company_context": "Leading AI company"
+          },
+          "likely_evaluation_criteria": [
+            "AI integration creativity",
+            "OpenAI API usage depth",
+            "Market positioning",
+            "User value proposition",
+            "Monetization potential"
+          ]
+        }
+      }
+    ],
+    "competitive_intelligence": {
+      "key_insights": [
+        "Technical depth matters significantly (Jamie Turner's background)",
+        "Developer experience is a major evaluation factor (DevX focus)",
+        "Community and social impact valued (Wayne Sutton's role)",
+        "AI integration sophistication expected (OpenAI judge)",
+        "Startup viability considered alongside technical merit"
+      ],
+      "strategic_recommendations": [
+        "Emphasize Convex's advanced features (real-time, transactions, etc.)",
+        "Create exceptional developer documentation",
+        "Build social sharing features for community impact",
+        "Showcase sophisticated OpenAI integration",
+        "Demonstrate clear business model potential",
+        "Focus on scalable architecture decisions",
+        "Highlight developer productivity gains"
+      ],
+      "risk_factors": [
+        "Shallow Convex integration will be penalized",
+        "Poor developer experience will hurt scoring",
+        "Lack of AI sophistication may disappoint OpenAI judge",
+        "Missing community/social elements reduces impact score"
+      ]
+    },
+    "briefify_logic": {
+      "data_processing_pipeline": [
+        {
+          "step": "ingestion",
+          "description": "Collect judge data from multiple sources",
+          "frequency": "daily",
+          "sources": ["social_media", "professional_networks", "public_content"]
+        },
+        {
+          "step": "analysis",
+          "description": "Extract preferences and patterns using AI",
+          "methods": ["sentiment_analysis", "topic_modeling", "preference_extraction"],
+          "ai_models": ["GPT-4", "Claude-3.5-Sonnet"]
+        },
+        {
+          "step": "scoring",
+          "description": "Score submission alignment with judge preferences",
+          "metrics": [
+            "technical_depth_score",
+            "integration_quality_score",
+            "innovation_factor",
+            "presentation_alignment",
+            "market_potential"
+          ]
+        },
+        {
+          "step": "recommendations",
+          "description": "Generate tactical improvements",
+          "outputs": [
+            "feature_prioritization",
+            "demo_script_optimization",
+            "technical_stack_adjustments",
+            "messaging_refinement"
+          ]
+        }
+      ]
+    }
+  }
+}

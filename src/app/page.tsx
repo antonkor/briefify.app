@@ -33,6 +33,14 @@ export default function Home() {
     window.addEventListener('beforeunload', handleBeforeUnload)
     return () => window.removeEventListener('beforeunload', handleBeforeUnload)
   }, [])
+
+  // Rotate hero text every 3 seconds
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setHeroTextIndex((prevIndex) => (prevIndex + 1) % heroTexts.length)
+    }, 3000)
+    return () => clearInterval(interval)
+  }, [])
   const [isLoading, setIsLoading] = useState(false)
   const [videoData, setVideoData] = useState(null)
   const [loadingText, setLoadingText] = useState("...")
@@ -48,6 +56,16 @@ export default function Home() {
   const [showWorkshopControls, setShowWorkshopControls] = useState(false)
   const [isFavorited, setIsFavorited] = useState(false)
   const [favoritedComments, setFavoritedComments] = useState(new Set())
+  const [favoriteAuthors, setFavoriteAuthors] = useState(new Set())
+  const [heroTextIndex, setHeroTextIndex] = useState(0)
+
+  const heroTexts = [
+    "Extract key insights in seconds",
+    "Discover hidden gems instantly",
+    "Transform content into knowledge",
+    "Uncover meaningful discussions",
+    "Filter signal from noise"
+  ]
   const [showNewUrlInput, setShowNewUrlInput] = useState(false)
   const [newUrl, setNewUrl] = useState('')
 
@@ -113,6 +131,7 @@ export default function Home() {
       setShowAISummary(false)
       setVisibleInsights(3)
       setFavoritedComments(new Set())
+      setFavoriteAuthors(new Set())
       setShowNewUrlInput(false)
       setNewUrl('')
       try {
@@ -131,6 +150,7 @@ export default function Home() {
     setVisibleInsights(3)
     setShowAISummary(false)
     setFavoritedComments(new Set())
+    setFavoriteAuthors(new Set())
     setShowNewUrlInput(false)
     setNewUrl('')
     setLoadingStage('fetching')
@@ -233,7 +253,7 @@ export default function Home() {
   // Workshop mode controls
   const stages = ['idle', 'fetching', 'hero', 'insights', 'comments', 'complete']
   const stageNames = {
-    idle: 'Workshop Mode',
+    idle: 'Workshop',
     fetching: 'Fetching',
     hero: 'Hero',
     insights: 'Insights',
@@ -297,6 +317,7 @@ export default function Home() {
     setVisibleInsights(3)
     setShowAISummary(false)
     setFavoritedComments(new Set())
+    setFavoriteAuthors(new Set())
     setShowNewUrlInput(false)
     setNewUrl('')
   }
@@ -309,6 +330,7 @@ export default function Home() {
     setVisibleInsights(3)
     setShowAISummary(false)
     setFavoritedComments(new Set())
+    setFavoriteAuthors(new Set())
     setShowNewUrlInput(false)
     setLoadingStage('fetching')
     setIsLoading(true)
@@ -429,6 +451,32 @@ export default function Home() {
     setSelectedComment(comment)
   }
 
+  const toggleFavoriteComment = (commentId: string, e: any) => {
+    e.stopPropagation()
+    setFavoritedComments(prev => {
+      const newSet = new Set(prev)
+      if (newSet.has(commentId)) {
+        newSet.delete(commentId)
+      } else {
+        newSet.add(commentId)
+      }
+      return newSet
+    })
+  }
+
+  const toggleFavoriteAuthor = (authorName: string, e: any) => {
+    e.stopPropagation()
+    setFavoriteAuthors(prev => {
+      const newSet = new Set(prev)
+      if (newSet.has(authorName)) {
+        newSet.delete(authorName)
+      } else {
+        newSet.add(authorName)
+      }
+      return newSet
+    })
+  }
+
   const generateMockReplies = (comment: any) => {
     if (comment.replyCount === 0) return []
 
@@ -473,7 +521,7 @@ export default function Home() {
       return (
         <div className="space-y-4">
           {/* Overall Summary */}
-          <div className="relative p-4 bg-gradient-to-r from-slate-800/90 via-slate-700/85 to-slate-800/90 backdrop-blur-sm rounded-2xl border border-slate-600/30 shadow-lg overflow-hidden">
+          <div className="relative p-2 md:p-4 bg-gradient-to-r from-slate-800/95 via-slate-700/90 to-slate-800/95 backdrop-blur-sm rounded-xl md:rounded-2xl border border-slate-600/40 md:border-slate-600/30 shadow-lg overflow-hidden">
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.05)_1px,transparent_0)] bg-[length:20px_20px] opacity-30"></div>
             <div className="relative z-10">
               <div className="mb-3">
@@ -927,13 +975,27 @@ export default function Home() {
         case 'top':
           return (videoData as any).comments.comments.slice(0, 10)
         case 'insights':
-          return (videoData as any).comments.comments.filter((c: any) => c.content.toLowerCase().includes('ai') || c.content.toLowerCase().includes('future') || c.content.toLowerCase().includes('tech')).slice(0, 8)
+          return (videoData as any).comments.comments.filter((c: any) => {
+            const content = c.content.toLowerCase()
+            const insightKeywords = ['ai', 'future', 'tech', 'innovation', 'breakthrough', 'solution', 'analysis', 'perspective', 'insight', 'understanding', 'deep', 'profound', 'realize', 'discover', 'reveals', 'explains', 'theory', 'concept', 'principle', 'methodology', 'approach', 'strategy', 'implications', 'consequences', 'significance', 'impact', 'evolution', 'transformation', 'paradigm', 'framework', 'model', 'system']
+            const hasInsightKeywords = insightKeywords.some(keyword => content.includes(keyword))
+            const hasQuestions = c.content.includes('?') && c.content.length > 50
+            const hasDeepThought = c.content.length > 100 && (content.includes('think') || content.includes('believe') || content.includes('opinion'))
+            const hasHighEngagement = c.likeCount > 20 || c.replyCount > 3
+            return (hasInsightKeywords || hasQuestions || hasDeepThought) && hasHighEngagement
+          }).slice(0, 8)
         case 'loved':
           return (videoData as any).comments.comments.filter((c: any) => c.likeCount > 50 && (c.content.includes('!') || c.content.toLowerCase().includes('amazing') || c.content.toLowerCase().includes('great'))).slice(0, 8)
         case 'mixed':
-          return (videoData as any).comments.comments.filter((c: any) => c.content.toLowerCase().includes('but') || c.content.toLowerCase().includes('however') || c.content.toLowerCase().includes('concern')).slice(0, 8)
+          return (videoData as any).comments.comments.filter((c: any) =>
+            favoriteAuthors.has(c.authorDisplayName)
+          ).slice(0, 8)
         case 'debates':
-          return (videoData as any).comments.comments.filter((c: any) => c.replyCount > 5 || c.content.includes('?')).slice(0, 8)
+          return (videoData as any).comments.comments.filter((c: any) => c.content.toLowerCase().includes('but') || c.content.toLowerCase().includes('however') || c.content.toLowerCase().includes('concern') || c.replyCount > 5 || c.content.includes('?')).slice(0, 8)
+        case 'favorites':
+          return (videoData as any).comments.comments.filter((c: any) =>
+            favoritedComments.has(c.id) || favoriteAuthors.has(c.authorDisplayName)
+          ).slice(0, 8)
         default:
           return (videoData as any).comments.comments.slice(0, 10)
       }
@@ -945,7 +1007,7 @@ export default function Home() {
           <div
             key={comment.id}
             onClick={(e) => handleCommentClick(comment, e)}
-            className="block w-full text-left relative p-4 bg-gradient-to-br from-slate-900/95 via-slate-800/85 to-slate-900/95 backdrop-blur-lg rounded-2xl border border-slate-600/40 shadow-lg overflow-hidden hover:shadow-2xl hover:shadow-slate-900/40 hover:border-slate-400/60 hover:scale-[1.02] transition-all duration-500 group cursor-pointer"
+            className="block w-full text-left relative p-2 md:p-4 bg-gradient-to-br from-slate-900/98 via-slate-800/95 to-slate-900/98 md:from-slate-900/95 md:via-slate-800/85 md:to-slate-900/95 backdrop-blur-lg rounded-xl md:rounded-2xl border border-slate-600/50 md:border-slate-600/40 shadow-lg overflow-hidden hover:shadow-2xl hover:shadow-slate-900/40 hover:border-slate-400/60 hover:scale-[1.02] transition-all duration-500 group cursor-pointer"
           >
             {/* Premium grainy texture */}
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.1)_1px,transparent_0)] bg-[length:28px_28px] opacity-15"></div>
@@ -966,18 +1028,22 @@ export default function Home() {
                   <span className="text-sm font-semibold text-gray-200 tracking-wide">
                     {comment.authorDisplayName.replace('@', '')}
                   </span>
+                  <button
+                    onClick={(e) => toggleFavoriteAuthor(comment.authorDisplayName, e)}
+                    className="p-1 rounded-full hover:bg-white/10 transition-colors group/author"
+                    title={favoriteAuthors.has(comment.authorDisplayName) ? "Remove author from favorites" : "Add author to favorites"}
+                  >
+                    <svg className={`w-3 h-3 transition-colors ${
+                      favoriteAuthors.has(comment.authorDisplayName)
+                        ? 'text-purple-400 fill-purple-400'
+                        : 'text-gray-500 group-hover/author:text-purple-400'
+                    }`} fill={favoriteAuthors.has(comment.authorDisplayName) ? 'currentColor' : 'none'} stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                    </svg>
+                  </button>
                 </div>
                 <button
-                  onClick={(e) => {
-                    e.stopPropagation()
-                    const newFavorited = new Set(favoritedComments)
-                    if (newFavorited.has(comment.id)) {
-                      newFavorited.delete(comment.id)
-                    } else {
-                      newFavorited.add(comment.id)
-                    }
-                    setFavoritedComments(newFavorited)
-                  }}
+                  onClick={(e) => toggleFavoriteComment(comment.id, e)}
                   className="p-1.5 rounded-full hover:bg-white/10 transition-colors group/star"
                   title={favoritedComments.has(comment.id) ? "Remove from favorites" : "Add to favorites"}
                 >
@@ -1184,13 +1250,20 @@ export default function Home() {
         }
       `}</style>
       {/* Top Bar */}
-      <header className="w-full p-4">
+      <header className="w-full p-1 md:p-4 relative">
+        <div className="max-w-md mx-auto flex items-center justify-end">
+          {/* Status indicator */}
+          <div className="flex items-center space-x-2">
+            <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
+            <span className="text-xs text-gray-500 dark:text-gray-400 font-medium">Live</span>
+          </div>
+        </div>
       </header>
 
       {/* Middle View - Centered Form */}
-      <main className="flex-1 flex items-center justify-center p-4">
+      <main className="flex-1 flex items-center justify-center p-1 md:p-4">
         <div className="max-w-md w-full">
-          <div className="text-center mb-8">
+          <div className="text-center mb-4 md:mb-8">
             <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">
               <span style={{ letterSpacing: '1px' }}>Brief</span><span className="relative top-px inline-block" style={{ marginLeft: '2px' }}>
                 <span className="inline-block" style={{ animation: 'float 2s ease-in-out infinite', animationDelay: '0s' }}>i</span>
@@ -1251,8 +1324,8 @@ export default function Home() {
                       <span className="relative z-10 font-semibold tracking-wide">Get Started</span>
                     </button>
 
-                    <p className="text-xs text-gray-500 dark:text-gray-400 text-center mt-3">
-                      Extract key insights in seconds
+                    <p className="text-xs text-gray-500 dark:text-gray-400 text-center mt-3 transition-all duration-500">
+                      {heroTexts[heroTextIndex]}
                     </p>
 
                   </div>
@@ -1278,7 +1351,7 @@ export default function Home() {
                 )}
               </div>
             ) : (
-              <div className="space-y-6">
+              <div className="space-y-3 md:space-y-6">
                 {/* Video Hero Header - Shows when loadingStage >= 'hero' AND we have video data */}
                 {videoData && (loadingStage === 'hero' || loadingStage === 'insights' || loadingStage === 'comments' || loadingStage === 'complete') && (
                   <div
@@ -1433,7 +1506,7 @@ export default function Home() {
                       {allInsights.slice(0, visibleInsights).map((insight, index) => (
                         <div
                           key={index}
-                          className="relative p-4 bg-gradient-to-r from-slate-800/90 via-slate-700/85 to-slate-800/90 backdrop-blur-sm rounded-2xl border border-slate-600/30 shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300"
+                          className="relative p-2 md:p-4 bg-gradient-to-r from-slate-800/95 via-slate-700/90 to-slate-800/95 backdrop-blur-sm rounded-xl md:rounded-2xl border border-slate-600/40 md:border-slate-600/30 shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300"
                           style={{
                             animation: loadingStage === 'insights'
                               ? `slideInUp 1s ease-out ${0.3 + (index * 0.1)}s forwards`
@@ -1488,7 +1561,7 @@ export default function Home() {
                       {loadingStage === 'complete' ? (
                         <button
                           onClick={showAISummary ? toggleAISummary : loadMoreInsights}
-                          className="w-full relative p-4 bg-gradient-to-r from-slate-800/90 via-slate-700/85 to-slate-800/90 backdrop-blur-sm rounded-2xl border border-slate-600/30 shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300"
+                          className="w-full relative p-2 md:p-4 bg-gradient-to-r from-slate-800/95 via-slate-700/90 to-slate-800/95 backdrop-blur-sm rounded-xl md:rounded-2xl border border-slate-600/40 md:border-slate-600/30 shadow-lg overflow-hidden group hover:shadow-xl transition-all duration-300"
                         >
                           {/* Inner grain texture */}
                           <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.05)_1px,transparent_0)] bg-[length:20px_20px] opacity-30"></div>
@@ -1509,7 +1582,7 @@ export default function Home() {
                           </div>
                         </button>
                       ) : loadingStage === 'insights' ? (
-                        <div className="w-full relative p-4 bg-gradient-to-r from-slate-800/90 via-slate-700/85 to-slate-800/90 backdrop-blur-sm rounded-2xl border border-slate-600/30 shadow-lg overflow-hidden">
+                        <div className="w-full relative p-2 md:p-4 bg-gradient-to-r from-slate-800/95 via-slate-700/90 to-slate-800/95 backdrop-blur-sm rounded-xl md:rounded-2xl border border-slate-600/40 md:border-slate-600/30 shadow-lg overflow-hidden">
                           {/* Inner grain texture */}
                           <div className="absolute inset-0 bg-[radial-gradient(circle_at_1px_1px,rgba(255,255,255,0.05)_1px,transparent_0)] bg-[length:20px_20px] opacity-30"></div>
                           <div className="relative z-10">
@@ -1528,13 +1601,13 @@ export default function Home() {
 
                 {/* Comments Analysis - Shows when loadingStage >= 'comments' AND we have video data */}
                 {videoData && (loadingStage === 'comments' || loadingStage === 'complete') && (
-                  <div className="space-y-6">
+                  <div className="space-y-3 md:space-y-6">
                     <h3 className="text-md font-semibold text-gray-900 dark:text-white mb-4">
                       Comments
                     </h3>
 
                     {/* Analysis Icons */}
-                    <div className="relative flex items-center justify-between mb-6 p-4 bg-gray-900 rounded-xl border border-slate-600/30 overflow-hidden">
+                    <div className="relative flex items-center justify-between mb-6 p-2 md:p-4 bg-gray-900/95 md:bg-gray-900 rounded-lg md:rounded-xl border border-slate-600/40 md:border-slate-600/30 overflow-hidden">
                       {/* Hero-style gradient background */}
                       <div
                         className="absolute inset-0"
@@ -1586,22 +1659,29 @@ export default function Home() {
                           onClick={() => setActiveCommentView('loved')}
                           className={`flex flex-col items-center space-y-1 transition-all duration-300 ${activeCommentView === 'loved' ? 'scale-110 opacity-100' : 'opacity-60 hover:opacity-80'}`}
                         >
-                          <div className="text-lg">❤️</div>
-                          <span className="text-xs text-gray-300">Loved</span>
+                          <div className="text-lg">⭐</div>
+                          <span className="text-xs text-gray-300">Starred</span>
                         </button>
                         <button
                           onClick={() => setActiveCommentView('mixed')}
                           className={`flex flex-col items-center space-y-1 transition-all duration-300 ${activeCommentView === 'mixed' ? 'scale-110 opacity-100' : 'opacity-60 hover:opacity-80'}`}
                         >
-                          <div className="text-lg">🤔</div>
-                          <span className="text-xs text-gray-300">Mixed</span>
+                          <div className="text-lg">👥</div>
+                          <span className="text-xs text-gray-300">Following</span>
                         </button>
                         <button
                           onClick={() => setActiveCommentView('debates')}
                           className={`flex flex-col items-center space-y-1 transition-all duration-300 ${activeCommentView === 'debates' ? 'scale-110 opacity-100' : 'opacity-60 hover:opacity-80'}`}
                         >
                           <div className="text-lg">⚡</div>
-                          <span className="text-xs text-gray-300">Debates</span>
+                          <span className="text-xs text-gray-300">Mixed</span>
+                        </button>
+                        <button
+                          onClick={() => setActiveCommentView('favorites')}
+                          className={`flex flex-col items-center space-y-1 transition-all duration-300 ${activeCommentView === 'favorites' ? 'scale-110 opacity-100' : 'opacity-60 hover:opacity-80'}`}
+                        >
+                          <div className="text-lg">⭐</div>
+                          <span className="text-xs text-gray-300">Favorites</span>
                         </button>
                       </div>
                       </div>
@@ -1683,10 +1763,10 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <footer className="p-4 flex justify-center">
+      <footer className="p-1 md:p-4 flex justify-center">
         <div className="max-w-md w-full text-center">
           <p className="text-sm text-gray-500 dark:text-gray-400">
-            No account required • Mobile-first Proof of Concept
+            Optimized for mobile • AI-powered content analysis
           </p>
         </div>
       </footer>
@@ -1708,7 +1788,7 @@ export default function Home() {
                 : 'bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700'
             }`}
             aria-label="Toggle workshop mode"
-            title="Activate Workshop Mode"
+            title="Activate Workshop"
           >
             <div className="relative w-5 h-5">
               {/* Workshop icon */}
@@ -1737,7 +1817,7 @@ export default function Home() {
                 </div>
 
                 {/* Control Buttons */}
-                <div className="flex items-center justify-center space-x-1">
+                <div className="flex flex-col items-center justify-center space-y-1">
                   <button
                     onClick={prevStage}
                     disabled={loadingStage === 'idle'}
@@ -1781,10 +1861,10 @@ export default function Home() {
 
       {/* Comment Detail Modal */}
       {selectedComment && (
-        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-1 md:p-4">
           <div className="bg-white/90 dark:bg-gray-800/95 backdrop-blur-sm rounded-2xl shadow-2xl border border-white/20 dark:border-gray-700/50 max-w-md w-full max-h-[80vh] overflow-y-auto">
             {/* Header */}
-            <div className="flex items-center justify-between p-4 border-b border-gray-200 dark:border-gray-700">
+            <div className="flex items-center justify-between p-2 md:p-4 border-b border-gray-200 dark:border-gray-700">
               <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Comment Details</h3>
               <button
                 onClick={() => {setSelectedComment(null); setShowExtendedContext(false)}}
@@ -1795,7 +1875,7 @@ export default function Home() {
             </div>
 
             {/* Content */}
-            <div className="p-4 space-y-4">
+            <div className="p-2 md:p-4 space-y-4">
               {/* Author Info */}
               <div className="flex items-center space-x-3">
                 <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full flex items-center justify-center">
