@@ -4,6 +4,8 @@ import { useState, useEffect } from 'react'
 import { ThemeToggle } from '@/components/ThemeToggle'
 import { LoadingDots } from '@/components/LoadingDots'
 import { initPostHog, trackEvent, trackPageView } from '@/lib/posthog'
+// import { CommentList } from '@/components/Comments'
+// import { VideoInputForm, NewUrlForm, LoadingStates, useLoadingMessages } from '@/components/VideoAnalysis'
 
 export default function Home() {
   const [url, setUrl] = useState("https://www.youtube.com/watch?v=8s6nGMcyr7k")
@@ -68,6 +70,9 @@ export default function Home() {
   ]
   const [showNewUrlInput, setShowNewUrlInput] = useState(false)
   const [newUrl, setNewUrl] = useState('')
+
+  // Use loading messages hook
+  // const { getMessageForStage } = useLoadingMessages()
 
   const loadingMessages = [
     "Validating URL...",
@@ -1772,7 +1777,9 @@ export default function Home() {
       </footer>
 
       {/* Fixed theme toggle and workshop mode in bottom right */}
-      <div className="fixed bottom-6 right-6 z-50 flex items-center space-x-3">
+      <div className="fixed bottom-6 right-6 z-50 flex flex-col items-center space-y-3">
+        <ThemeToggle />
+
         {/* Workshop Mode Toggle */}
         <div className="relative">
           <button
@@ -1807,7 +1814,7 @@ export default function Home() {
 
           {/* Workshop Controls Popup - Shows when workshop mode is active */}
           {isWorkshopMode && (
-            <div className="absolute bottom-full right-1/2 transform translate-x-1/2 mb-2 p-2 bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm rounded-lg shadow-xl border border-white/20 dark:border-gray-700/50">
+            <div className="absolute right-full top-1/2 transform -translate-y-1/2 mr-2 p-2 bg-white/95 dark:bg-gray-800/95 backdrop-blur-sm rounded-lg shadow-xl border border-white/20 dark:border-gray-700/50 whitespace-nowrap">
               <div className="space-y-1.5">
                 {/* Stage Indicator */}
                 <div className="text-center px-1">
@@ -1817,7 +1824,7 @@ export default function Home() {
                 </div>
 
                 {/* Control Buttons */}
-                <div className="flex flex-col items-center justify-center space-y-1">
+                <div className="flex items-center justify-center space-x-1">
                   <button
                     onClick={prevStage}
                     disabled={loadingStage === 'idle'}
@@ -1855,8 +1862,6 @@ export default function Home() {
             </div>
           )}
         </div>
-
-        <ThemeToggle />
       </div>
 
       {/* Comment Detail Modal */}

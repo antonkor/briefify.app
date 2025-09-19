@@ -4,6 +4,13 @@ let isInitialized = false
 
 export function initPostHog() {
   if (typeof window !== 'undefined' && !isInitialized) {
+    // Disable PostHog in development to avoid API key errors
+    if (process.env.NODE_ENV === 'development') {
+      console.log('PostHog: Disabled in development mode')
+      isInitialized = true
+      return true
+    }
+
     const key = process.env.NEXT_PUBLIC_POSTHOG_KEY
 
     if (!key || key === 'phc_development_key') {
@@ -34,8 +41,9 @@ export function initPostHog() {
           console.log('PostHog loaded successfully')
           isInitialized = true
         },
-        on_xhr_error: (failedRequest) => {
-          console.error('PostHog XHR error:', failedRequest)
+        on_request_error: (failedRequest) => {
+          // Always suppress PostHog errors with just a warning
+          console.warn('PostHog: Request failed (this is normal in development)', failedRequest)
         }
       })
       return true
