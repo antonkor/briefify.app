@@ -72,7 +72,7 @@ export const VideoInputForm = ({
       )}
 
       {!shouldHideUrlInput && (
-        !isLoading ? (
+        (!isLoading && !isFetching) ? (
           <div className="space-y-3">
             <button
               onClick={onGetStarted}
@@ -95,6 +95,11 @@ export const VideoInputForm = ({
           <div className="py-4">
             {isFetching ? (
               <div className="space-y-4">
+                {/* Keep tagline rotation during fetching */}
+                <p className="text-xs text-gray-500 dark:text-gray-400 text-center mb-4 transition-all duration-500">
+                  {currentHeroText}
+                </p>
+
                 {/* Progress bar */}
                 <div className="relative">
                   <div className="h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">

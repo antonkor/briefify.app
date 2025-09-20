@@ -183,8 +183,66 @@ export default function Home() {
             </div>
           )}
 
-          {/* Video card */}
-          {videoData && (
+          {/* Video card or placeholder */}
+          {loadingStage === 'fetching' ? (
+            <div className="px-1.5 md:px-4">
+              {/* Hero Video Card Placeholder */}
+              <div className="relative rounded-2xl overflow-hidden mb-6 bg-gray-900/50 border border-gray-700/30 animate-pulse">
+                <div className="relative z-10 px-3 md:px-6 py-1 md:py-3 pb-4 md:pb-6 min-h-[160px] flex flex-col justify-end space-y-3">
+                  {/* Title placeholder */}
+                  <div className="h-6 bg-gray-700/60 rounded-lg w-4/5 animate-pulse"></div>
+                  <div className="space-y-2">
+                    {/* Author placeholder */}
+                    <div className="h-4 bg-gray-700/40 rounded w-1/3"></div>
+                    {/* Stats placeholder */}
+                    <div className="flex items-center space-x-3">
+                      <div className="h-3 bg-gray-700/40 rounded w-20"></div>
+                      <div className="w-1 h-1 bg-gray-600 rounded-full"></div>
+                      <div className="h-3 bg-gray-700/40 rounded w-16"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              {/* Key Insights Placeholder */}
+              <div className="mb-8">
+                <div className="h-5 bg-gray-700/40 rounded w-32 mb-4"></div>
+                <div className="space-y-3">
+                  {[1, 2, 3].map((index) => (
+                    <div key={index} className="relative p-4 bg-gradient-to-r from-slate-800/50 via-slate-700/45 to-slate-800/50 backdrop-blur-sm rounded-2xl border border-slate-600/20 animate-pulse">
+                      <div className="flex items-center justify-between mb-3">
+                        <div className="h-6 bg-gray-600/50 rounded-full w-16"></div>
+                      </div>
+                      <div className="space-y-2">
+                        <div className="h-4 bg-gray-600/40 rounded w-full"></div>
+                        <div className="h-4 bg-gray-600/40 rounded w-4/5"></div>
+                        <div className="h-4 bg-gray-600/40 rounded w-3/4"></div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* Comments Section Placeholder */}
+              <div className="mb-8">
+                <div className="h-5 bg-gray-700/40 rounded w-40 mb-4"></div>
+                <div className="space-y-3">
+                  {[1, 2].map((index) => (
+                    <div key={index} className="p-4 bg-gray-800/30 rounded-xl border border-gray-700/30 animate-pulse">
+                      <div className="flex items-start space-x-3">
+                        <div className="w-8 h-8 bg-gray-600/50 rounded-full"></div>
+                        <div className="flex-1 space-y-2">
+                          <div className="h-4 bg-gray-600/40 rounded w-24"></div>
+                          <div className="h-4 bg-gray-600/30 rounded w-full"></div>
+                          <div className="h-4 bg-gray-600/30 rounded w-3/4"></div>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          ) : videoData && (
             <div className="px-1.5 md:px-4">
               <VideoCard
                 videoData={videoData}
