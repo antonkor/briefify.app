@@ -6,6 +6,18 @@
  */
 
 // ============================================================================
+// IMPORT ESSENTIAL TYPES
+// ============================================================================
+
+// Re-export key types from the main type definitions
+export type {
+  InspectionMetadata,
+  VibeInspectionState,
+  VibeInspectionSettings,
+  InspectionPopupData
+} from '@/types/vibe-mode'
+
+// ============================================================================
 // CORE INSPECTION CONTRACTS
 // ============================================================================
 
