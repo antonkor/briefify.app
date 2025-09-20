@@ -42,7 +42,8 @@
       "WebFetch(domain:docs.claude.com)",
       "Read(//c/Users/anton/.claude/commands/**)",
       "Read(//c/Users/anton/.claude/**)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(dir:*)"
     ],
     "deny": [],
     "ask": []

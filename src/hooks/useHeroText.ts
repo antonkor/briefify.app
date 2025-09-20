@@ -3,7 +3,6 @@ import { useState, useEffect } from 'react'
 const heroTexts = [
   "Extract key insights in seconds",
   "Discover hidden gems instantly",
-  "The new Hello, World app!",
   "Uncover meaningful discussions",
   "Filter signal from noise"
 ]
